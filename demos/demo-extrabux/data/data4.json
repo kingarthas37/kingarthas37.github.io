@@ -1,0 +1,41 @@
+{
+    "line":"Air Line 4",
+    "data":[
+        {
+            "id":1,
+            "date":"2012/3/15",
+            "departure_city":"San Diego",
+            "arrival_city":"Los Angelos",
+            "departure_time":"2012/3/15  12:15:00",
+            "arrival_time":"2012/3/15  13:00:00",
+            "flight_number":12345,
+            "routing":0,
+            "first_class_price":297,
+            "economy_class_price":87
+        },
+        {
+            "id":2,
+            "date":"2012/3/15",
+            "departure_city":"San Diego",
+            "arrival_city":"Denver",
+            "departure_time":"2012/3/15  9:30:00",
+            "arrival_time":"2012/3/15  15:00:00",
+            "flight_number":987,
+            "routing":2,
+            "first_class_price":450,
+            "economy_class_price":120
+        },
+        {
+            "id":4,
+            "date":"2012/3/15",
+            "departure_city":"Los Angelos",
+            "arrival_city":"Providence",
+            "departure_time":"2012/3/15  8:00:00",
+            "arrival_time":"2012/3/15  18:15:00",
+            "flight_number":48,
+            "routing":2,
+            "first_class_price":1017,
+            "economy_class_price":789
+        }
+    ]
+}
