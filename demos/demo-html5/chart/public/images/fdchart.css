@@ -1,0 +1,26 @@
+.fd-chart { background:#fff url(loading.gif) no-repeat center; position:relative; overflow:hidden; height:200px; font-family:Arial; font-size:12px; color:#333; }
+.fd-chart .label-container { position:relative;}
+.fd-chart.pointer { cursor:pointer;}
+.fd-chart .tip-container {color:#fff; line-height:16px;  padding:4px; width:80px; position:absolute; background:#fff; opacity:0.85; z-index:100; display:none; }
+.fd-chart.chart-pie .tip-container { width:120px;}
+.fd-chart .title-container { height:20px; line-height:20px; position:absolute; width:100%; text-align:center; top:0px; left:0px; cursor:default; z-index:99; }
+.fd-chart .title-container span {  padding:0 10px; }
+.fd-chart .title-container em { position:absolute; width:10px; height:10px; top:5px;}
+.fd-chart .title-container b { margin-left:12px; font-weight:normal; padding-right:2px; }
+.fd-chart .title-container b.cur{ color:#fff; opacity:0.8; border-radius:2px;}
+.fd-chart .x-label { position:absolute; display:block; z-index:99; text-align:center; cursor:default; }
+.fd-chart .y-label { position:absolute; display:block; z-index:99; text-align:right;  left:0px; line-height:6px; cursor:default;}
+.fd-chart .tip { position:absolute; z-index:99; cursor:default; text-align:center; color:#666; text-shadow:1px 1px 1px #fff; }
+.fd-chart .type { position:absolute; display:block; text-indent:-9999px; top:5px; width:24px; height:24px; background:url(ico-btn-type.gif) no-repeat; cursor:pointer; z-index:101; }
+.fd-chart .type.bar { right:65px; background-position:0px 0px;}
+.fd-chart .type.bar:hover,.fd-chart .type.bar.cur { background-position:0px -24px;}
+.fd-chart .type.bar:active { background-position:0px -48px;}
+.fd-chart .type.line { right:35px; background-position:-24px 0px;}
+.fd-chart .type.line:hover,.fd-chart .type.line.cur { background-position:-24px -24px;}
+.fd-chart .type.line:active { background-position:-24px -48px;}
+.fd-chart .type.area { right:5px; background-position:-48px 0px;}
+.fd-chart .type.area:hover,.fd-chart .type.area.cur { background-position:-48px -24px;}
+.fd-chart .type.area:active { background-position:-48px -48px;}
+.chart-mesh .title-container span { position:absolute; padding:0; }
+.chart-mesh .tip { font-size:10px; color:#666;}
+

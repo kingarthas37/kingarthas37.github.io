@@ -1,0 +1,41 @@
+{
+    "line":"Air Line 2",
+    "data":[
+        {
+            "id":5,
+            "date":"2012/3/16",
+            "departure_city":"San Diego",
+            "arrival_city":"Las Vegas",
+            "departure_time":"2012/3/16  11:45:00",
+            "arrival_time":"2012/3/16  13:30:00",
+            "flight_number":0,
+            "routing":1,
+            "first_class_price":450,
+            "economy_class_price":149
+        },
+        {
+            "id":6,
+            "date":"2012/3/16",
+            "departure_city":"San Diego",
+            "arrival_city":"Denver",
+            "departure_time":"2012/3/15  9:30:00",
+            "arrival_time":"2012/3/15  15:00:00",
+            "flight_number":123,
+            "routing":1,
+            "first_class_price":450,
+            "economy_class_price":120
+        },
+        {
+            "id":4,
+            "date":"2012/3/16",
+            "departure_city":"San Francisco",
+            "arrival_city":"Chicago",
+            "departure_time":"2012/3/16  11:25:00",
+            "arrival_time":"2012/3/16  16:20:00",
+            "flight_number":568,
+            "routing":0,
+            "first_class_price":745,
+            "economy_class_price":350
+        }
+    ]
+}
