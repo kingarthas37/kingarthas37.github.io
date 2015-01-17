@@ -67,7 +67,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="512" selection-end="512" vertical-scroll-proportion="0.5900151" vertical-offset="0" max-vertical-offset="661">
+            <state line="24" column="9" selection-start="489" selection-end="489" vertical-scroll-proportion="0.54462934" vertical-offset="0" max-vertical-offset="661">
               <folding />
             </state>
           </provider>
@@ -431,7 +431,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435000" />
+    <option name="totallyTimeSpent" value="463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="23" y="23" width="1402" height="803" extended-state="0" />
@@ -483,7 +483,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="512" selection-end="512" vertical-scroll-proportion="0.5900151" vertical-offset="0" max-vertical-offset="661">
+        <state line="24" column="9" selection-start="489" selection-end="489" vertical-scroll-proportion="0.54462934" vertical-offset="0" max-vertical-offset="661">
           <folding />
         </state>
       </provider>
