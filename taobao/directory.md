@@ -1,8 +1,8 @@
-#####智慧财富
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######智慧财富
+想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp  
 业力管理+善用业力法则、创造富足人生 链接: http://pan.baidu.com/s/1i3EaVXV 密码: fw8j
 
-#####占星
+######占星
 心理占星学全书（鲁道夫）完整版  链接: http://pan.baidu.com/s/1hqw1YoW 密码: 96dc
 人际合盘占星全书收藏版(鲁道夫)  链接: http://pan.baidu.com/s/1eQ8bzwQ 密码: hobp
 占星全书(鲁道夫)完整电子版  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7
