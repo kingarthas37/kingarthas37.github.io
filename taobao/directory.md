@@ -44,11 +44,166 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######传播媒体策略 -从品牌传播到精准投放的最短途径（陈俊良著）
 传播媒体策略+从品牌传播到精准投放的最短途径+陈俊良  链接: http://pan.baidu.com/s/1fdsom 密码: vaxm
 
+######思考的技术（大前研一）
+思考的技术：培养具有竞争力的思维方式 （日）大前研一着  链接: http://pan.baidu.com/s/1o6FmDzO 密码: jnj4
 
+######想法對了，好事就來了
+想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
 
+######5种神奇的自然保健疗法
+5种神奇的自然保健疗法  链接: http://pan.baidu.com/s/1hqsym80 密码: x93b
 
+######图解德鲁克：头脑整理术&整理的艺术1，2三本
+图解德鲁克+头脑整理术  链接: http://pan.baidu.com/s/1mgJu1EK 密码: zkan 
+整理的艺术2+（日）小山龙介著；阿修菌译  链接: http://pan.baidu.com/s/1qWAyPNu 密码: ppau 
+整理的艺术+（日）小山龙介著  链接: http://pan.baidu.com/s/1kTGEGQj 密码: b7ld 
 
+######金字塔原理1、2合集
+金字塔原理  链接: http://pan.baidu.com/s/1hq6BxQ0 密码: gg7i
 
+######银座妈妈桑紅牌驭男术 男人都爱小魔女 逆转爱,恋爱王牌6本
+银座  链接: http://pan.baidu.com/s/1bno4FiJ 密码: e4x6 
+恋爱集合  链接: http://pan.baidu.com/s/1i3HyGtR 密码: qfxs
 
+######银座红牌驭男术& 银座妈妈桑教的&银座妈妈桑说话术三本合集
+银座  链接: http://pan.baidu.com/s/1bno4FiJ 密码: e4x6
 
+######业力管理（美）麦克·罗奇著
+业力管理+善用业力法则、创造富足人生 链接: http://pan.baidu.com/s/1i3EaVXV 密码: fw8j
 
+######法国名媛的优雅圣经
+法国名媛的优雅圣经+(法）罗思柴尔德著 链接: http://pan.baidu.com/s/1i1dCE 密码: smwt
+
+######婚姻决定女人的一生
+婚姻，决定女人的一生  链接: http://pan.baidu.com/s/1ntt9Zlf 密码: rxrl
+
+######好命新女學：女人，不可不讀的幸福寶典
+好命新女學：女人，不可不讀的幸福寶典  链接: http://pan.baidu.com/s/1qW8wV5y 密码: j3hd
+
+######我是家政女王
+我是家政女王  链接: http://pan.baidu.com/s/1dDjaX81 密码: e3ds
+
+######爱德华 好命密码 数字磁场的魅力 工作事业财富篇
+好命密码+数字磁场的魅力+工作事业财  链接: http://pan.baidu.com/s/1qWE2C9Y 密码: xprm
+
+######数字磁场股市乐透大赢家-爱徳华
+股市乐透大赢家  链接: http://pan.baidu.com/s/1dDo0CpF 密码: 5rdd
+
+######《生命之花的古老秘密/灵性法则1+2》
+生命之花的古老秘密 全2卷  链接: http://pan.baidu.com/s/1ntj09Zj 密码: h7uk
+
+######谢沅瑾老师教你改好运发大财2
+谢沅瑾老师教你改好运发大财2  链接: http://pan.baidu.com/s/1gdCdipH 密码: dqq5
+
+######演化占星学入门-从冥王星看你的业力使命
+演化占星学入门-从冥王星看你的业力使命  链接: http://pan.baidu.com/s/1mgBSWdi 密码: 8e6n
+
+######手指疗法的秘密
+手指疗法的秘密(全文)  链接: http://pan.baidu.com/s/1qWyn80c 密码: u156
+
+######《占星流年》占星进阶
+占星流年收藏版(鲁道夫)  链接: http://pan.baidu.com/s/1i3zhNrJ 密码: kdnn
+
+######灵气为你带来丰盛 体验42天灵气方案
+灵气为你带来丰盛-42天丰盛计划  链接: http://pan.baidu.com/s/1bnbD2Tx 密码: ihhq
+
+######顺逆皆宜的人生（即台版书《占星相位研究》英国最资深占星学
+顺逆皆宜的人生(简体终极收藏版)  链接: http://pan.baidu.com/s/1kT5PrOr 密码: d2gy
+
+######掌握数字掌握命运
+掌握数字掌握命运  链接: http://pan.baidu.com/s/1eQIkLNk 密码: ho27
+
+######有求必應，擺對就靈 風水盆栽圖解全攻略
+有求必應，擺對就靈+風水盆栽圖解全攻略  链接: http://pan.baidu.com/s/1qW4Zkle 密码: f1co
+
+######符咒妙术秘法&千年秘咒大公开&灵符改运秘法三本合集
+符咒妙术秘法--台湾程灵凡  链接: http://pan.baidu.com/s/1kTwvS8n 密码: 8vvi 
+千年秘咒大公开  链接: http://pan.baidu.com/s/1cv1Jw 密码: 5tmd 
+灵符改运秘法  链接: http://pan.baidu.com/s/1mg1d8HM 密码: 2bmi 
+
+######道教秘法/茅山符咒（入门、制煞、精华）三本全集
+茅山符咒三本全集  链接: http://pan.baidu.com/s/1bnk0Vqn 密码: guo3
+
+######生命密码-蓝仕宁
+生命密码  链接: http://pan.baidu.com/s/1pJ2twRh 密码: 1eg8
+
+######王品豊/這樣拜才有錢
+这样拜，才有钱  链接: http://pan.baidu.com/s/1nt61kk5 密码: 5qpy
+
+######《水晶的智慧》陶世惠
+水晶的智慧  链接: http://pan.baidu.com/s/1CnsGA 密码: jjmu
+
+######女巫咒语之书 中文版
+【咒语书】女巫咒语之书++中文版魔法书籍    链接: http://pan.baidu.com/s/1GrdG6 密码: f6il
+
+######内在的天空：占星学入门（实用性与可读性兼得的占星入门书）
+[内在的天空：占星学入门].(美)斯蒂芬·福里斯特著  链接: http://pan.baidu.com/s/1jGtGcGQ 密码: zpq8
+
+######舍得让你的爱人受苦
+舍得让你爱的人受苦  链接: http://pan.baidu.com/s/1gds0qyR 密码: j3ob
+
+######女巫笔记 巫术课程入门（适合初学者）A witchs notebook
+A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
+
+######占星全书（魯道夫 ）占星學的基礎理論
+占星全书(鲁道夫)完整电子版  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7
+
+######水晶轻松疗：与天然晶石合作身心灵疗愈不求人
+水晶轻松疗  链接: http://pan.baidu.com/s/1qW2XrUc 密码: nwmh
+
+######西方魔法/多梅塞斯的21个咒语 (Domesius) 中文版.pdf
+多梅塞斯的21个咒语 中文版  链接: http://pan.baidu.com/s/1qWI6xMc 密码: 88u1
+
+######家族占星-鲁道夫
+家族占星（珍藏版）  链接: http://pan.baidu.com/s/1gdBxjOJ 密码: wkhy
+
+######能量水晶疗愈全书
+水晶能量疗愈全书  链接: http://pan.baidu.com/s/1eQGOThg 密码: 6ewh
+
+######生命四元素
+生命四元素 链接: http://pan.baidu.com/s/1c0m0Qre 密码: een1
+
+######塔罗神咒
+塔罗神咒(完整版)  链接: http://pan.baidu.com/s/1o6unUmI 密码: cmmk
+
+######招财魔法书 财富魔法咒语书
+招财魔法书+财富魔法咒语书  链接: http://pan.baidu.com/s/1c0etr9Y 密码: pxmf
+
+######人体气场彩光学
+人体气场彩光学(彩图版）  链接: http://pan.baidu.com/s/1o6DQJCu 密码: 7dad
+
+######當代古典占星研究:入門古典占星的第一本書
+当代古典占星研究珍藏版（希斯莉译） 链接: http://pan.baidu.com/s/1jGGGHng 密码: vjvy
+
+######心理占星学全书（鲁道夫）
+心理占星学全书（鲁道夫）完整版  链接: http://pan.baidu.com/s/1hqw1YoW 密码: 96dc
+
+######Hedge女巫魔法仪式 自然魔法仪式
+Hedge女巫魔法仪式+自然魔法仪式+自然类魔法  链接: http://pan.baidu.com/s/1jGABfP8 密码: yn3w
+
+######西方白魔法-White Spells: Magic for Love, Money & Happiness
+White_Spells  链接: http://pan.baidu.com/s/1qWmItXU 密码: rcdh
+
+######卜卦全占星
+卜卦全占星 链接:  http://pan.baidu.com/s/1jG7Tpcy 密码: ldg1
+
+######掌握靈氣磁場的技巧
+掌握靈氣磁場的技巧+_傑佛瑞  链接: http://pan.baidu.com/s/1sjnwpi9 密码: p5cq
+
+######打通你的气场
+打通你的气场+（美）克雷格著2012  链接: http://pan.baidu.com/s/1ntGAC45 密码: 6bag
+
+######脉轮全书
+脉轮全书（珍藏版）艾诺蒂．朱迪斯  链接: http://pan.baidu.com/s/1o6OGd9C 密码: g43w
+
+######密宗/图解藏密财神法
+图解藏密财神法  链接: http://pan.baidu.com/s/1eQjESEI 密码: xvd3
+
+######密教超能力咒术 打手印/真言宗 中冈俊哉 大坤书局
+密教超能力咒术  链接: http://pan.baidu.com/s/1jG5Rx9G 密码: 9ma5
+
+######图解藏密修持法--千年密法精要大公开
+图解藏密修持法+千年密法精要大公开  链接: http://pan.baidu.com/s/1jGh4OD4 密码: 6bd3
+
+######藏密图文百科1000问：最灵验的祛病求财密
+藏密图文百科1000问  链接: http://pan.baidu.com/s/1dD3ZDwH 密码: sv5l
