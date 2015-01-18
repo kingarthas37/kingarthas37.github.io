@@ -206,4 +206,58 @@ White_Spells  链接: http://pan.baidu.com/s/1qWmItXU 密码: rcdh
 图解藏密修持法+千年密法精要大公开  链接: http://pan.baidu.com/s/1jGh4OD4 密码: 6bd3
 
 ######藏密图文百科1000问：最灵验的祛病求财密
-藏密图文百科1000问  链接: http://pan.baidu.com/s/1dD3ZDwH 密码: sv5l
+藏密图文百科1000问  掌握靈氣磁場的技巧  链接: http://pan.baidu.com/s/1dD3ZDwH 密码: sv5l
+
+######能量音乐/西藏颂钵音疗-苏活.七轮
+西藏颂钵音疗  链接: http://pan.baidu.com/s/1pJOEdC3 密码: kcpi
+
+######朵琳夫人幸福显化卷+前世今生卷+脉轮净化
+朵琳幸福显化  链接: http://pan.baidu.com/s/1o6smdMM 密码: 47b9  
+前世今生卷  链接: http://pan.baidu.com/s/1Z9ka 密码: i9c1  
+淨化脈輪引導式冥想  链接: http://pan.baidu.com/s/1ntkMAaX 密码: 8pu9
+
+######水晶钵音疗/冥想音乐
+顶级的水晶钵音疗+冥想+减压+放松  链接: http://pan.baidu.com/s/1c0zXXD2 密码: lgs9
+
+######察库拉之旅/灵气脉轮疗愈音乐/Journey of chakras
+新察库拉之旅 脉轮  链接: http://pan.baidu.com/s/1pJiGAeB 密码: htfw
+
+######门罗双脑同步 Remembrance 增强记忆力 增进问题解决能力、创造力
+增强记忆力Remembrance（增进问题解决能力、创造力）  链接: http://pan.baidu.com/s/1eQIQLBs 密码: 7z66
+
+######灵气能量音乐/五元素能量音乐/净化空间音乐
+灵气能量音乐+五元素能量音乐+净化空间音乐  链接: http://pan.baidu.com/s/1kTFsNBL 密码: g2dr
+
+######瑜伽音乐/ 灵气音乐/Healing Music for Reiki*合辑
+healing music for reiki     链接: http://pan.baidu.com/s/1nttAa9b 密码: oh1h
+
+######灵静修音乐-心灵温泉
+瑜伽音乐 身.心.灵静修音乐-心灵温泉  链接: http://pan.baidu.com/s/1jGIcCGA 密码: gqvg
+
+######超意识ESP“心智中心”&“成功与富裕” 冥想潜意识音乐
+ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
+
+######灵气/灵修音乐《奥修塔罗音乐》Osho Zen Taro
+瑜伽音乐-Osho Zen Tarot 奥修禅塔罗多种风格集合  链接: http://pan.baidu.com/s/1gdGMSd9 密码: x5v2
+
+######灵气治疗之光【 Healing Light 】 强大的能量治疗868240
+灵气 - 治疗之光 Healing Light  链接: http://pan.baidu.com/s/1o6LstOA 密码: cmdx
+
+######天使疗癒音乐 天使之爱
+身体工房馆-天使疗愈花园-天使之爱  链接: http://pan.baidu.com/s/1tWzGa 密码: 64ga
+
+######花精音乐/情绪疗愈 2合辑 情绪治疗咨询师黄露仪精心创作
+花精  链接: http://pan.baidu.com/s/1mgn60Nu 密码: dl2h
+
+######脉轮疗愈组曲 Chakra Suite深层放松的享受
+脉轮能量组曲 Chakra Suite深层放松的享受 合一灵性瑜伽音乐  链接: http://pan.baidu.com/s/1kTKc6iz 密码: 205c
+
+######脉轮音乐/Chakra Balancing紧随能量振动
+Chakra Balancing紧随能量振动 感受脉轮跳动的灵性瑜伽音乐  链接: http://pan.baidu.com/s/1pJE4Ght 密码: naej
+
+######郭怀慈瑜伽冥想引导词4CD合辑
+郭怀慈音乐  链接: http://pan.baidu.com/s/1hq6BzgC 密码: 3qts
+
+
+
+
