@@ -1,33 +1,31 @@
-######能量音乐/西藏颂钵音疗-苏活.七轮
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp  
- 
-######爱德华 好命密码 数字磁场的魅力 工作事业财富篇
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######有效的88种营销分析工具
+有效的88种营销分析工具  链接: http://pan.baidu.com/s/1eQ5Z4zg 密码: z2ee  
 
-######舍得让你的爱人受苦
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######营销量化管理工具书 /约翰戴维斯（JohnDavis）、曾贤
+营销量化管理工具书  链接: http://pan.baidu.com/s/1ntKExwH 密码: 4p1l  
 
-######掌握靈氣磁場的技巧
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######量子触疗好简单
+量子触疗好简单  链接: http://pan.baidu.com/s/1dDpg8Dj 密码: to3c  
 
-######水晶钵音疗/冥想音乐
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######美容我要纯天然
+美容我要纯天然  链接: http://pan.baidu.com/s/1sjG2yjb 密码: 8l94  
 
-######门罗双脑同步 Remembrance 增强记忆力 增进问题解决能力、创造力
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######叶茂中策划想（下卷）
+叶茂中策划+迅速提升品牌与销量的叶茂中经验+下+想  链接: http://pan.baidu.com/s/1i3xfT3n 密码: xmg8  
 
-######《水晶的智慧》陶世惠
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######叶茂中策划 迅速提升品牌与销量的叶茂中经验 上 做
+叶茂中策划+迅速提升品牌与销量的叶茂中经验+上+做  链接: http://pan.baidu.com/s/1sA1FS 密码: rtdj  
 
-######察库拉之旅/灵气脉轮疗愈音乐/Journey of chakras
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######广告媒体策划（第6版）/杰克西瑟斯等著
+广告媒体策划（希瑟斯第6版）  链接: http://pan.baidu.com/s/1pJ2twRT 密码: jzin
 
-######瑜伽音乐/ 灵气音乐/Healing Music for Reiki*合辑
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######营销运营管理/汉译管理学世界名著丛书
+营销运营管理  链接: http://pan.baidu.com/s/1i3L22cl 密码: cprc
 
-######七轮禅宗 冥想 脉轮 能量口诀 -<中文>Kundalini Chakra Dhyana
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######国际4A广告公司媒介计划精要/（美）阿诺德·M.巴尔班
+国际4A广告公司媒介计划精要  链接: http://pan.baidu.com/s/1c05xFJa 密码: memv
 
- 
-######11分钟灵气脉轮渐进激活-舒缓古老的调音频率 原始而神圣
-想法對了，好事就來了 链接: http://pan.baidu.com/s/1o60Z258 密码: lqjp
+######Web网站策略指南
+
+
+
