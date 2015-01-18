@@ -263,6 +263,7 @@ Chakra Balancing紧随能量振动 感受脉轮跳动的灵性瑜伽音乐  链�
 ######郭怀慈瑜伽冥想引导词4CD合辑
 郭怀慈音乐  链接: http://pan.baidu.com/s/1hq6BzgC 密码: 3qts
 
-
+######灵修音乐 曼陀罗(咒)深远空灵休息 Mantra Chill Out Lounge
+曼陀罗 Mantra Chill Out Lounge (2009)  链接: http://pan.baidu.com/s/1i1eZs 密码: enlm
 
 
