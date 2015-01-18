@@ -9,11 +9,14 @@
         .mail-content { font-size: 14px; }
         .mail-content h3 { font-size:14px; margin-bottom: 10px; background:#428bca; color:#fff; font-weight: normal; padding:10px; }
         .mail-content h4 { font-size:13px; }
-        .mail-content .desc { background:#fcf8e3; color:#524500; font-size:12px; padding:6px; margin-bottom: 15px;}
+        .mail-content .desc { background:#fcf8e3; color:#524500; font-size:13px; padding:6px 15px; margin-bottom: 15px;}
         .mail-content .desc span { margin-left: 10px;}
         .mail-content .desc a {font-weight: bold;color:#524500; text-decoration: underline; }
         .mail-content .list { margin-bottom: 20px; border-bottom:1px dashed #ccc; padding-bottom: 10px;}
         .mail-content .footer { color:#999; text-align: center; padding: 10px; background: #d9edf7; }
+        .btn { margin-right: 10px;}
+        .copy-title { display: none;}
+        .bg-success { padding: 10px; display: none; }
     </style>
 </head>
 <body>
@@ -31,22 +34,42 @@
 
     <div class="form-group">
         <button id="btn-create" type="button" class="btn btn-primary" disabled="disabled">生成内容</button>
+        <button type="button" class="btn btn-primary copy-title">复制邮件标题</button>
+        <button type="button" class="btn btn-primary copy-content">复制邮件内容</button>
     </div>
+
+    <p class="bg-success"></p>
 
     <hr/>
 
-    <div class="mail-title"></div>
+
+    <div class="mail-title-box">
+        <span class="mail-title"></span>
+    </div>
+
 
     <div class="mail-content">
         <h3 style="margin-bottom: 10px"></h3>
-        <div class="desc" style="margin-bottom:15px">请点击下方相应商品的链接后，输入右边的密码，即可直接下载该商品，如果该商品为多个文件，您可按需单个下载，或选中整个跟目录全部下载(下载后的格式为.zip文件)，祝您观赏愉快! <span>更多精彩内容请继续访问:<a href="http://shop110618977.taobao.com" target="_blank">暮雪的藏书阁</a></span></div>
         <div class="content"></div>
-        <div class="footer">- <a href="http://shop110618977.taobao.com" target="_blank">[暮雪的藏书阁]</a> 新纪元灵性之光 -</div>
+
+        <div class="desc">
+            <h4>注意事项:</h4>
+            <ul>
+                <li>请点击上方相应商品的链接后，输入右边的密码，即可直接下载该商品，如果该商品为多个文件，您可按需单个下载，或选中整个跟目录全部下载(下载后的格式为.zip文件)即可.</li>
+                <li>如果您是iPhone用户通过iPhone进行下载，众所周知,由于苹果生态系统的封闭性，很多用户出现下载后无法找到该PDF或MP3文件(原因是查找该文件取决于您的下载应用的下载设置，比如UC浏览器或者qq邮箱等),因此建议您先在PC上进行下载后通过iTunes进行发送到您的iPhone上，比如PDF文件，您可以拖动到iTunes中的图书目录中，随后在手机上通过iPhone自带的应用iBooks打开即可观看.可<a href="http://zhidao.baidu.com/question/197369634.html" target="_blank">点击此处</a>查看详细步骤.</li>
+                <li>如果您是android用户,一般可以直接通过文件管理、直接访问sd卡等方式查找到您的下载文件，或通过您的应用(比如您是通过UC浏览器下载的，则可在设置-下载管理中找到该文件)</li>
+            </ul>
+            <h4>祝您观赏愉快! <span>更多精彩内容请继续访问: <a href="http://shop110618977.taobao.com" target="_blank">暮雪的藏书阁[新纪元灵性之光]</a></span></h4>
+        </div>
+
     </div>
 
 </div>
-
+ 
 <script type="text/javascript" src="static/js/jquery.min.js"></script>
+<script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="static/js/flash_detect.js"></script>
+<script type="text/javascript" src="static/js/jquery.zclip.js"></script>
 <script type="text/javascript" src="static/js/bootstrap.min.js"></script>
 <script type="text/javascript">
     $(function() {
@@ -60,6 +83,7 @@
         var textarea = $('#textarea');
         var mailTitle = $('.mail-title');
         var mailContent = $('.mail-content');
+        var bgSuccess = $('.bg-success');
 
         var initDataArr = []; //初始商品数据存放数组
         var createDataArr = []; //生成最后商品数据存放数组
@@ -162,6 +186,31 @@
                 lists += '<div class="list" style="margin-bottom: 20px">'+ decodeURIComponent(finalDataArray[i].content) +'</div>';
             }
             mailContent.find('.content').append(lists);
+
+        }
+
+        //复制功能
+        if (FlashDetect.installed) {
+
+            $('.copy-title').show().zclip({
+                path: 'static/swf/ZeroClipboard10.swf',
+                copy: function () {
+                    return $('.mail-title').text();
+                },
+                afterCopy: function () {
+                    bgSuccess.show().text('复制邮件标题成功!');
+                }
+            });
+
+            $('.copy-content').show().zclip({
+                path: 'static/swf/ZeroClipboard10.swf',
+                copy: function () {
+                    return $('.mail-content').html();
+                },
+                afterCopy: function () {
+                    bgSuccess.show().text('复制邮件内容成功!');
+                }
+            });
 
         }
 
