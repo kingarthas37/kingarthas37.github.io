@@ -54,15 +54,15 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 5种神奇的自然保健疗法  链接: http://pan.baidu.com/s/1hqsym80 密码: x93b
 
 ######图解德鲁克：头脑整理术&整理的艺术1，2三本
-图解德鲁克+头脑整理术  链接: http://pan.baidu.com/s/1mgJu1EK 密码: zkan 
-整理的艺术2+（日）小山龙介著；阿修菌译  链接: http://pan.baidu.com/s/1qWAyPNu 密码: ppau 
-整理的艺术+（日）小山龙介著  链接: http://pan.baidu.com/s/1kTGEGQj 密码: b7ld 
+图解德鲁克+头脑整理术  链接: http://pan.baidu.com/s/1mgJu1EK 密码: zkan  
+整理的艺术2+（日）小山龙介著；阿修菌译  链接: http://pan.baidu.com/s/1qWAyPNu 密码: ppau  
+整理的艺术+（日）小山龙介著  链接: http://pan.baidu.com/s/1kTGEGQj 密码: b7ld
 
 ######金字塔原理1、2合集
 金字塔原理  链接: http://pan.baidu.com/s/1hq6BxQ0 密码: gg7i
 
 ######银座妈妈桑紅牌驭男术 男人都爱小魔女 逆转爱,恋爱王牌6本
-银座  链接: http://pan.baidu.com/s/1bno4FiJ 密码: e4x6 
+银座  链接: http://pan.baidu.com/s/1bno4FiJ 密码: e4x6  
 恋爱集合  链接: http://pan.baidu.com/s/1i3HyGtR 密码: qfxs
 
 ######银座红牌驭男术& 银座妈妈桑教的&银座妈妈桑说话术三本合集
@@ -117,9 +117,9 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 有求必應，擺對就靈+風水盆栽圖解全攻略  链接: http://pan.baidu.com/s/1qW4Zkle 密码: f1co
 
 ######符咒妙术秘法&千年秘咒大公开&灵符改运秘法三本合集
-符咒妙术秘法--台湾程灵凡  链接: http://pan.baidu.com/s/1kTwvS8n 密码: 8vvi 
-千年秘咒大公开  链接: http://pan.baidu.com/s/1cv1Jw 密码: 5tmd 
-灵符改运秘法  链接: http://pan.baidu.com/s/1mg1d8HM 密码: 2bmi 
+符咒妙术秘法--台湾程灵凡  链接: http://pan.baidu.com/s/1kTwvS8n 密码: 8vvi  
+千年秘咒大公开  链接: http://pan.baidu.com/s/1cv1Jw 密码: 5tmd  
+灵符改运秘法  链接: http://pan.baidu.com/s/1mg1d8HM 密码: 2bmi
 
 ######道教秘法/茅山符咒（入门、制煞、精华）三本全集
 茅山符咒三本全集  链接: http://pan.baidu.com/s/1bnk0Vqn 密码: guo3
