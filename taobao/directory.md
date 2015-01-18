@@ -29,7 +29,7 @@
 web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 
 ######网站转换率优化之道
-网站转换率优化之道 链接: http://pan.baidu.com/s/1mgsWeYs 密码: 64j9
+网站转换率优化之道 链接: http://pan.baidu.com/s/1eQhCZ8e 密码: knhs
 
 ######流量的秘密: Google Analytics网站分析与优化技巧(第3版)
 流量的秘密+Google+Analytics网站分析与优化技巧+第3版  链接: http://pan.baidu.com/s/1db1xW 密码: room
