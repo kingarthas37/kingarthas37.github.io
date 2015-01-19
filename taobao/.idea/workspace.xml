@@ -67,7 +67,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="41" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.56732225" vertical-offset="585" max-vertical-offset="3510">
+            <state line="55" column="26" selection-start="1914" selection-end="1914" vertical-scroll-proportion="0.36308622" vertical-offset="585" max-vertical-offset="3510">
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1421592829000" expanded="false" signature="6627:6646" placeholder="..." />
@@ -434,12 +434,12 @@
       <updated>1421496413861</updated>
       <workItem from="1421496415248" duration="435000" />
       <workItem from="1421583596032" duration="71000" />
-      <workItem from="1421588980209" duration="3401000" />
+      <workItem from="1421588980209" duration="3511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3935000" />
+    <option name="totallyTimeSpent" value="4045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="23" y="23" width="1402" height="803" extended-state="0" />
@@ -511,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="41" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.56732225" vertical-offset="585" max-vertical-offset="3510">
+        <state line="55" column="26" selection-start="1914" selection-end="1914" vertical-scroll-proportion="0.36308622" vertical-offset="585" max-vertical-offset="3510">
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1421592829000" expanded="false" signature="6627:6646" placeholder="..." />
