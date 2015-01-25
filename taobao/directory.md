@@ -69,7 +69,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 
 ######银座妈妈桑紅牌驭男术 男人都爱小魔女 逆转爱,恋爱王牌6本
 银座  链接: http://pan.baidu.com/s/1bno4FiJ 密码: e4x6  
-恋爱集合  链接: http://pan.baidu.com/s/1i3HyGtR 密码: qfxs
+恋爱集合  链接: http://pan.baidu.com/s/1sjwPQjV 密码: 3f8i
 
 ######银座红牌驭男术& 银座妈妈桑教的&银座妈妈桑说话术三本合集
 银座  链接: http://pan.baidu.com/s/1bno4FiJ 密码: e4x6
