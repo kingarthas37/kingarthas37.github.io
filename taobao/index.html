@@ -40,9 +40,10 @@
         <button id="btn-create" type="button" class="btn btn-primary" disabled="disabled">生成内容</button>
         <button type="button" class="btn btn-primary copy-title">复制邮件标题</button>
         <button type="button" class="btn btn-primary copy-content">复制邮件内容</button>
+        <button type="button" class="btn btn-primary copy-wangwang">复制回复旺旺内容</button>
     </div>
 
-    <p class="bg-success"></p>
+    <p class="bg-success copy-info"></p>
 
     <hr/>
 
@@ -90,7 +91,7 @@
         var textarea = $('#textarea');
         var mailTitle = $('.mail-title');
         var mailContent = $('.mail-content');
-        var bgSuccess = $('.bg-success');
+        var copyInfo = $('.copy-info');
 
         var initDataArr = []; //初始商品数据存放数组
         var createDataArr = []; //生成最后商品数据存放数组
@@ -185,15 +186,14 @@
             mailTitle.text(TAOBAONAME + '-' + decodeURIComponent(finalDataArray[0].title) + (finalDataArray.length > 1 ? '等多件' : ''));
 
             var contentTitle = '亲爱的' + (userName ? userName : '') + (orderId ? '(订单号' + orderId + ')' : '') + ',以下为您拍下的宝贝:';
-            mailContent.find('h3').append(contentTitle);
+            mailContent.find('h3').text(contentTitle);
 
             var lists = '';
             for(var i=0;i<finalDataArray.length;i++) {
                 lists += '<h4>'+ (i+1) +'.' + decodeURIComponent(finalDataArray[i].title) + '</h4>';
                 lists += '<div class="list" style="margin-bottom: 20px">'+ decodeURIComponent(finalDataArray[i].content) +'</div>';
             }
-            mailContent.find('.content').append(lists);
-
+            mailContent.find('.content').html(lists);
         }
 
         //复制功能
@@ -205,7 +205,7 @@
                     return $('.mail-title').text();
                 },
                 afterCopy: function () {
-                    bgSuccess.show().text('复制邮件标题成功!');
+                    copyInfo.show().text('复制邮件标题成功!');
                 }
             });
 
@@ -215,7 +215,17 @@
                     return $('.mail-content').html();
                 },
                 afterCopy: function () {
-                    bgSuccess.show().text('复制邮件内容成功!');
+                    copyInfo.show().text('复制邮件内容成功!');
+                }
+            });
+
+            $('.copy-wangwang').show().zclip({
+                path: 'static/swf/ZeroClipboard10.swf',
+                copy: function () {
+                    return ' 亲,商品已发送至您此邮箱，请注意查收哦';
+                },
+                afterCopy: function () {
+                    copyInfo.show().text('复制旺旺回复内容成功!');
                 }
             });
 
