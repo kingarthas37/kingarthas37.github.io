@@ -57,7 +57,8 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 10分钟灵气脉轮渐进激活 舒缓古老的调音频率 原始而神圣  链接: http://pan.baidu.com/s/1sj5DgD3 密码: k9hc
 
 ######七轮禅宗 冥想 脉轮 能量口诀 -<中文>Kundalini Chakra Dhyana
-七轮禅宗 脉轮能量口诀  链接: http://pan.baidu.com/s/1fJrTs 密码: qe5i
+七轮禅宗 脉轮能量口诀  链接: http://pan.baidu.com/s/1dDzWlP3 密码: cm9l
+
 ######图解德鲁克：头脑整理术&整理的艺术1，2三本
 图解德鲁克+头脑整理术  链接: http://pan.baidu.com/s/1mgJu1EK 密码: zkan  
 整理的艺术2+（日）小山龙介著；阿修菌译  链接: http://pan.baidu.com/s/1qWAyPNu 密码: ppau  
