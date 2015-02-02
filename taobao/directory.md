@@ -1,3 +1,9 @@
+######生意兴隆的扫除力
+生意兴隆的扫除力+（日）舛田光洋著2012  链接: http://pan.baidu.com/s/1ntBRxVV 密码: 9ln2
+
+######实现梦想的扫除力 
+实现梦想的扫除力+（日）舛田光洋著2011  链接: http://pan.baidu.com/s/1eQtOJTo 密码: r6k3
+
 ######《湯鎮瑋獨家大公開居家風水88條禁忌》
 居家风水88条禁忌 链接: http://pan.baidu.com/s/1ntl2WXj 密码: hkrj
 
