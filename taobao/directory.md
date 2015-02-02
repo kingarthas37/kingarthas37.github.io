@@ -1,3 +1,6 @@
+######【Om Shanti 冥想休息术】
+Om Shanti 冥想休息术 链接: http://pan.baidu.com/s/1sj5D7Al 密码: 66a9
+
 ######算运-整理房间，就是整理运势
 算运-整理房间，就是整理运势  链接：http://pan.baidu.com/s/1sj6t4nz 密码：emd4
 
