@@ -1,3 +1,6 @@
+######Reiki Om 灵气咒语2
+Reiki Om2  链接: http://pan.baidu.com/s/1o6oishc 密码: pomy
+
 ######【Om Shanti 冥想休息术】
 Om Shanti 冥想休息术 链接: http://pan.baidu.com/s/1sj5D7Al 密码: 66a9
 
