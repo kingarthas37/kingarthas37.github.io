@@ -1,4 +1,4 @@
-######Reiki Om 灵气咒语2
+######《Reiki Om 灵气咒语》灵气疗法
 Reiki Om2  链接: http://pan.baidu.com/s/1o6oishc 密码: pomy
 
 ######【Om Shanti 冥想休息术】
