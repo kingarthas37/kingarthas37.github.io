@@ -4,7 +4,7 @@
 芳香疗法情绪心理配方宝典  链接: http://pan.baidu.com/s/1dDgZd8P 密码: bv7q  
 [莫利夫人的芳香疗法指南].(英)玛格利特·莫利  链接: http://pan.baidu.com/s/1mgA7cCC 密码: dwcs
 
-######莫利夫人的芳香疗法指南
+######莫利夫人的芳香疗法指南z
 [莫利夫人的芳香疗法指南].(英)玛格利特·莫利  链接: http://pan.baidu.com/s/1mgA7cCC 密码: dwcs
 
 ######芳香疗法情绪心理配方宝典
@@ -179,7 +179,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 生命密码  链接: http://pan.baidu.com/s/1pJ2twRh 密码: 1eg8
 
 ######王品豊/這樣拜才有錢
-这样拜，才有钱  链接: http://pan.baidu.com/s/1nt61kk5 密码: 5qpy
+这样拜，才有钱  链接：http://pan.baidu.com/s/1kTIbpQJ 密码：5x62
 
 ######《水晶的智慧》陶世惠
 水晶的智慧  链接: http://pan.baidu.com/s/1CnsGA 密码: jjmu
