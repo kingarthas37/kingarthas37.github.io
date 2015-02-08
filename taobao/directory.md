@@ -1,3 +1,6 @@
+######这样拜,才有出头天
+这样拜,才有出头天 链接：http://pan.baidu.com/s/1jGqtbim 密码：jdc0
+
 ######加速成功的扫除力
 加速成功的扫除力+（日）舛田光洋著+2012  链接: http://pan.baidu.com/s/1gdgV531 密码: 4m9f
 
