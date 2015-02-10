@@ -1,3 +1,9 @@
+######算运
+算运-整理房间，就是整理运势 链接: http://pan.baidu.com/s/1qWBL2Fy 密码: 0hf1
+
+######《生命數字不思議》陳小珠
+生命数字不思议 链接: http://pan.baidu.com/s/1sj6tL5z 密码: x1xd
+
 ######莫利夫人&芳香疗法情绪心理配方&芳香宝典&芳香疗法配方宝典4本
 芳香疗法配方宝典  链接: http://pan.baidu.com/s/1kTECOHT 密码: 0ym6  
 芳香宝典(精油-芳香)  链接: http://pan.baidu.com/s/1jGwxWwe 密码: w6pu  
