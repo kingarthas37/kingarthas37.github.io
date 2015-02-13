@@ -67,6 +67,7 @@ section.top p {
     width: 90%;
     color:#fff;
     font-size: 0.875em;
+    line-height: 1.25em;
 }
 
 section.top p strong {
