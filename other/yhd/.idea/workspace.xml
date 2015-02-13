@@ -64,10 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="28" selection-start="593" selection-end="593" vertical-scroll-proportion="0.5450237" vertical-offset="0" max-vertical-offset="1125">
+            <state line="27" column="22" selection-start="801" selection-end="801" vertical-scroll-proportion="-8.1" vertical-offset="0" max-vertical-offset="1050">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="before.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/before.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="8" selection-start="564" selection-end="564" vertical-scroll-proportion="0.5007587" vertical-offset="0" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
@@ -104,6 +113,7 @@
         <option value="$PROJECT_DIR$/detail.html" />
         <option value="$PROJECT_DIR$/static/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/before.html" />
       </list>
     </option>
   </component>
@@ -449,12 +459,12 @@
       <updated>1423806773715</updated>
       <workItem from="1423806779896" duration="56000" />
       <workItem from="1423806916711" duration="2553000" />
-      <workItem from="1423817736153" duration="12621000" />
+      <workItem from="1423817736153" duration="13049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15230000" />
+    <option name="totallyTimeSpent" value="15658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1402" height="803" extended-state="0" />
@@ -534,7 +544,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="28" selection-start="593" selection-end="593" vertical-scroll-proportion="0.5450237" vertical-offset="0" max-vertical-offset="1125">
+        <state line="27" column="22" selection-start="801" selection-end="801" vertical-scroll-proportion="-8.1" vertical-offset="0" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/before.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="8" selection-start="564" selection-end="564" vertical-scroll-proportion="0.5007587" vertical-offset="0" max-vertical-offset="840">
           <folding />
         </state>
       </provider>
