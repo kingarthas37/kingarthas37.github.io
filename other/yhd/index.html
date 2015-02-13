@@ -21,7 +21,7 @@
     <section class="bottom">
         
         <div class="button">
-        <a href="https://itunes.apple.com/us/app/1hao-dian/id427457043?mt=8&tp=1.1.8.3.2.Ki1QIPp-11-F4voq"x>下载APP</a>
+        <a id="download-app" href="http://m.yhd.com/downloads/10600518746/TheStoreApp.apk?tp=1.1.8.3.4.Ki1QIPp-11-F4voq">下载APP</a>
         <!--
         <a href="javascript:;" target="_blank">3月6日开奖 敬请期待</a>
         -->
@@ -46,6 +46,23 @@
     </section>
     
 </div>
- 
+
+
+<script>
+    var browser={
+        versions:function(){
+            var u = navigator.userAgent, app = navigator.appVersion;
+            return {
+                ios: !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/), //ios
+                android: u.indexOf('Android') > -1 || u.indexOf('Linux') > -1 //android
+            };
+        }()
+    }
+    
+    if(browser.versions.ios) {
+        document.getElementById('download-app').href = 'https://itunes.apple.com/us/app/1hao-dian/id427457043?mt=8&tp=1.1.8.3.2.Ki1QIPp-11-F4voq';
+    }
+    
+</script>
 </body>
 </html>
