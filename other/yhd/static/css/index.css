@@ -1,6 +1,7 @@
 html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
+    box-sizing: border-box;
 }
 body {
     font-size: 1em;
@@ -35,7 +36,13 @@ strong {
 img {
     border: 0;
 }
-
+ul,
+ol {
+    margin:0; 
+}
+ul li,ol li {
+    list-style: none;
+}
 
 html,body {
     height: 100%;
@@ -51,7 +58,6 @@ body {
 
 section.top {
     padding-top:15%;
-    padding-bottom: 45px;
     background: #f4605a url("../images/bg-top.png") no-repeat;
     background-size: contain;
 }
@@ -74,23 +80,55 @@ section.top p strong {
     color: #fff002;
 }
 
+section.top h4 {
+    margin: auto;
+    width: 90%;
+    color:#fff;
+    font-weight: normal;
+    padding-bottom: 0.4em;
+}
+
+section.bottom ul {
+    padding: 0.875em;
+    background: #fff;
+    width: 90%;
+    margin:0 auto 2em;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 0.4em;
+    color:#551411;
+}
+
+section.bottom li {
+    line-height: 1.25em;
+}
+
+section.bottom li span {
+    float: right;
+}
+
+
 section.bottom {
     background:#4b1a4e url("../images/bg-bottom.png") no-repeat;
     background-size: contain;
-    padding-bottom: 40px;
+    padding-bottom: 2em;
 }
 
-section.bottom a {
+section.bottom .button {
+    padding:10% 0 30% 0;
+}
+
+section.bottom .button a {
     font-size: 1.25em;
     background: #fff002;
     color:#f4605a;
     display: block;
     width:78%;
-    margin:0 auto 40%;
+    margin:auto;
     text-align: center;
     height: 2.5em;
     line-height: 2.5em;
-    border-radius: 5px;
+    border-radius: 0.4em;
     text-decoration: none;
     -webkit-tap-highlight-color:rgba(0,0,0,0);
 }
