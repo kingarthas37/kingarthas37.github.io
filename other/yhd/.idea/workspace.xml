@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="106" selection-start="863" selection-end="863" vertical-scroll-proportion="0.569044" vertical-offset="0" max-vertical-offset="855">
+            <state line="24" column="106" selection-start="863" selection-end="863" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="20" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1710">
+            <state line="104" column="18" selection-start="1482" selection-end="1482" vertical-scroll-proportion="0.75841874" vertical-offset="1042" max-vertical-offset="1725">
               <folding />
             </state>
           </provider>
@@ -92,8 +92,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/static/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/static/css/index.css" />
       </list>
     </option>
   </component>
@@ -434,12 +434,12 @@
       <updated>1423806773715</updated>
       <workItem from="1423806779896" duration="56000" />
       <workItem from="1423806916711" duration="2553000" />
-      <workItem from="1423817736153" duration="6949000" />
+      <workItem from="1423817736153" duration="7483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9558000" />
+    <option name="totallyTimeSpent" value="10092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1402" height="803" extended-state="0" />
@@ -503,16 +503,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="20" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1710">
+        <state line="24" column="106" selection-start="863" selection-end="863" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="106" selection-start="863" selection-end="863" vertical-scroll-proportion="0.569044" vertical-offset="0" max-vertical-offset="855">
+        <state line="104" column="18" selection-start="1482" selection-end="1482" vertical-scroll-proportion="0.75841874" vertical-offset="1042" max-vertical-offset="1725">
           <folding />
         </state>
       </provider>
