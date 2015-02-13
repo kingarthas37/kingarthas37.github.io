@@ -76,7 +76,7 @@
       <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="1" selection-start="1461" selection-end="1461" vertical-scroll-proportion="0.75841874" vertical-offset="1012" max-vertical-offset="1725">
+            <state line="101" column="34" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.75841874" vertical-offset="997" max-vertical-offset="1725">
               <folding />
             </state>
           </provider>
@@ -434,12 +434,12 @@
       <updated>1423806773715</updated>
       <workItem from="1423806779896" duration="56000" />
       <workItem from="1423806916711" duration="2553000" />
-      <workItem from="1423817736153" duration="7732000" />
+      <workItem from="1423817736153" duration="7985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10341000" />
+    <option name="totallyTimeSpent" value="10594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1402" height="803" extended-state="0" />
@@ -512,7 +512,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="1" selection-start="1461" selection-end="1461" vertical-scroll-proportion="0.75841874" vertical-offset="1012" max-vertical-offset="1725">
+        <state line="101" column="34" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.75841874" vertical-offset="997" max-vertical-offset="1725">
           <folding />
         </state>
       </provider>
