@@ -99,7 +99,7 @@ section.bottom a {
     line-height: 45px;
     border-radius: 5px;
     text-decoration: none;
-    -webkit-appearance: push-button;
+    -webkit-touch-callout:behavior;
 }
 
 section.bottom p {
