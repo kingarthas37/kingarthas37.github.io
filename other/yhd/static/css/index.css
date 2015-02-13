@@ -59,7 +59,7 @@ body {
 }   
 
 section.top {
-    padding-top:35px;
+    padding-top:15%;
     padding-bottom: 45px;
     background: #f4605a url("../images/bg-top.png") no-repeat;
     background-size: contain;
@@ -67,7 +67,7 @@ section.top {
 
 section.top img {
     width: 80%;
-    margin:0 auto 50px;
+    margin:0 auto 20%;
     display: block;
 }
 
@@ -84,7 +84,7 @@ section.top p strong {
 section.bottom {
     background:#4b1a4e url("../images/bg-bottom.png") no-repeat;
     background-size: contain;
-    height: 500px;
+    padding-bottom: 40px;
 }
 
 section.bottom a {
@@ -93,7 +93,7 @@ section.bottom a {
     color:#f4605a;
     display: block;
     width:78%;
-    margin:0 auto 150px;
+    margin:0 auto 45%;
     text-align: center;
     height: 45px;
     line-height: 45px;
@@ -105,4 +105,5 @@ section.bottom p {
     color:#fff;
     margin: auto;
     width: 90%;
+    line-height: 20px;
 }

@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="37" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-22.5" vertical-offset="0" max-vertical-offset="765">
+            <state line="38" column="17" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.59028834" vertical-offset="196" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="23" selection-start="1393" selection-end="1393" vertical-scroll-proportion="2.1742313" vertical-offset="0" max-vertical-offset="1695">
+            <state line="107" column="21" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0" vertical-offset="1012" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
@@ -92,14 +92,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/static/css/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
     <option name="y" value="23" />
     <option name="width" value="1402" />
     <option name="height" value="803" />
@@ -435,15 +434,15 @@
       <updated>1423806773715</updated>
       <workItem from="1423806779896" duration="56000" />
       <workItem from="1423806916711" duration="2553000" />
-      <workItem from="1423817736153" duration="4674000" />
+      <workItem from="1423817736153" duration="6665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7283000" />
+    <option name="totallyTimeSpent" value="9274000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="23" width="1402" height="803" extended-state="0" />
+    <frame x="0" y="23" width="1402" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -504,16 +503,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="37" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-22.5" vertical-offset="0" max-vertical-offset="765">
+        <state line="107" column="21" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0" vertical-offset="1012" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="23" selection-start="1393" selection-end="1393" vertical-scroll-proportion="2.1742313" vertical-offset="0" max-vertical-offset="1695">
+        <state line="38" column="17" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.59028834" vertical-offset="196" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
