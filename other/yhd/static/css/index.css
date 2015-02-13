@@ -4,7 +4,7 @@ html {
     -ms-text-size-adjust: 100%;
 }
 body {
-    font-size: 14px;
+    font-size: 1em;
     margin: 0;
 }
 article,
@@ -75,6 +75,7 @@ section.top p {
     margin: auto;
     width: 90%;
     color:#fff;
+    font-size: 0.875em;
 }
 
 section.top p strong {
@@ -99,7 +100,7 @@ section.bottom a {
     line-height: 45px;
     border-radius: 5px;
     text-decoration: none;
-    -webkit-tap-highlight-color:0;
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
 }
 
 section.bottom p {
@@ -107,4 +108,5 @@ section.bottom p {
     margin: auto;
     width: 90%;
     line-height: 20px;
+    font-size: 0.875em;
 }
