@@ -67,16 +67,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="801" selection-end="801" vertical-scroll-proportion="-8.1" vertical-offset="0" max-vertical-offset="1050">
+            <state line="26" column="16" selection-start="772" selection-end="772" vertical-scroll-proportion="-9.958333" vertical-offset="151" max-vertical-offset="810">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="before.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="before.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/before.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="8" selection-start="564" selection-end="564" vertical-scroll-proportion="0.5007587" vertical-offset="0" max-vertical-offset="840">
+            <state line="28" column="14" selection-start="648" selection-end="829" vertical-scroll-proportion="-16.875" vertical-offset="15" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="1" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
@@ -85,16 +94,16 @@
       <file leaf-file-name="detail.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="25" selection-start="599" selection-end="599" vertical-scroll-proportion="-8.375" vertical-offset="159" max-vertical-offset="975">
+            <state line="21" column="14" selection-start="697" selection-end="697" vertical-scroll-proportion="-11.291667" vertical-offset="44" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="505" max-vertical-offset="2385">
+            <state line="140" column="7" selection-start="1941" selection-end="1941" vertical-scroll-proportion="0.27086383" vertical-offset="1915" max-vertical-offset="2685">
               <folding />
             </state>
           </provider>
@@ -110,10 +119,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/detail.html" />
-        <option value="$PROJECT_DIR$/static/css/index.css" />
+        <option value="$PROJECT_DIR$/static/js/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/before.html" />
+        <option value="$PROJECT_DIR$/detail.html" />
+        <option value="$PROJECT_DIR$/static/css/index.css" />
       </list>
     </option>
   </component>
@@ -184,6 +194,10 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -196,10 +210,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,6 +227,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -459,12 +470,13 @@
       <updated>1423806773715</updated>
       <workItem from="1423806779896" duration="56000" />
       <workItem from="1423806916711" duration="2553000" />
-      <workItem from="1423817736153" duration="13049000" />
+      <workItem from="1423817736153" duration="13166000" />
+      <workItem from="1423923770613" duration="750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15658000" />
+    <option name="totallyTimeSpent" value="16525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1402" height="803" extended-state="0" />
@@ -528,30 +540,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detail.html">
+    <entry file="file://$PROJECT_DIR$/static/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="599" selection-end="599" vertical-scroll-proportion="-8.375" vertical-offset="159" max-vertical-offset="975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="505" max-vertical-offset="2385">
+        <state line="12" column="1" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="801" selection-end="801" vertical-scroll-proportion="-8.1" vertical-offset="0" max-vertical-offset="1050">
+        <state line="26" column="16" selection-start="772" selection-end="772" vertical-scroll-proportion="-9.958333" vertical-offset="151" max-vertical-offset="810">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/before.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="8" selection-start="564" selection-end="564" vertical-scroll-proportion="0.5007587" vertical-offset="0" max-vertical-offset="840">
+        <state line="28" column="14" selection-start="648" selection-end="829" vertical-scroll-proportion="-16.875" vertical-offset="15" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="14" selection-start="697" selection-end="697" vertical-scroll-proportion="-11.291667" vertical-offset="44" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="7" selection-start="1941" selection-end="1941" vertical-scroll-proportion="0.27086383" vertical-offset="1915" max-vertical-offset="2685">
           <folding />
         </state>
       </provider>
