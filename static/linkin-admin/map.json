@@ -1,0 +1,746 @@
+{
+    "res": {
+        "bower_components/bootstrap/Gruntfile.js": {
+            "uri": "/bower_components/bootstrap/Gruntfile.js",
+            "type": "js",
+            "deps": [
+                "fs",
+                "path",
+                "npm-shrinkwrap",
+                "bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js",
+                "bower_components/bootstrap/grunt/bs-lessdoc-parser.js",
+                "bower_components/bootstrap/grunt/bs-raw-files-generator.js",
+                "bower_components/bootstrap/grunt/bs-commonjs-generator.js",
+                "load-grunt-tasks",
+                "time-grunt"
+            ]
+        },
+        "bower_components/bootstrap/dist/css/bootstrap-theme.css": {
+            "uri": "/bower_components/bootstrap/dist/css/bootstrap-theme.css",
+            "type": "css"
+        },
+        "bower_components/bootstrap/dist/css/bootstrap-theme.min.css": {
+            "uri": "/bower_components/bootstrap/dist/css/bootstrap-theme.min.css",
+            "type": "css"
+        },
+        "bower_components/bootstrap/dist/css/bootstrap.css": {
+            "uri": "/bower_components/bootstrap/dist/css/bootstrap.css",
+            "type": "css"
+        },
+        "bower_components/bootstrap/dist/css/bootstrap.min.css": {
+            "uri": "/bower_components/bootstrap/dist/css/bootstrap.min.css",
+            "type": "css"
+        },
+        "bower_components/bootstrap/dist/js/bootstrap.js": {
+            "uri": "/bower_components/bootstrap/dist/js/bootstrap.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/dist/js/bootstrap.min.js": {
+            "uri": "/bower_components/bootstrap/dist/js/bootstrap.min.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/dist/js/npm.js": {
+            "uri": "/bower_components/bootstrap/dist/js/npm.js",
+            "type": "js",
+            "deps": [
+                "bower_components/bootstrap/js/transition.js",
+                "bower_components/bootstrap/js/alert.js",
+                "bower_components/bootstrap/js/button.js",
+                "bower_components/bootstrap/js/carousel.js",
+                "bower_components/bootstrap/js/collapse.js",
+                "bower_components/bootstrap/js/dropdown.js",
+                "bower_components/bootstrap/js/modal.js",
+                "bower_components/bootstrap/js/tooltip.js",
+                "bower_components/bootstrap/js/popover.js",
+                "bower_components/bootstrap/js/scrollspy.js",
+                "bower_components/bootstrap/js/tab.js",
+                "bower_components/bootstrap/js/affix.js"
+            ]
+        },
+        "bower_components/bootstrap/grunt/bs-commonjs-generator.js": {
+            "uri": "/bower_components/bootstrap/grunt/bs-commonjs-generator.js",
+            "type": "js",
+            "deps": [
+                "fs",
+                "path"
+            ]
+        },
+        "bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js": {
+            "uri": "/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js",
+            "type": "js",
+            "deps": [
+                "fs"
+            ]
+        },
+        "bower_components/bootstrap/grunt/bs-lessdoc-parser.js": {
+            "uri": "/bower_components/bootstrap/grunt/bs-lessdoc-parser.js",
+            "type": "js",
+            "deps": [
+                "remarkable"
+            ]
+        },
+        "bower_components/bootstrap/grunt/bs-raw-files-generator.js": {
+            "uri": "/bower_components/bootstrap/grunt/bs-raw-files-generator.js",
+            "type": "js",
+            "deps": [
+                "fs",
+                "btoa",
+                "glob"
+            ]
+        },
+        "bower_components/bootstrap/js/affix.js": {
+            "uri": "/bower_components/bootstrap/js/affix.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/alert.js": {
+            "uri": "/bower_components/bootstrap/js/alert.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/button.js": {
+            "uri": "/bower_components/bootstrap/js/button.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/carousel.js": {
+            "uri": "/bower_components/bootstrap/js/carousel.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/collapse.js": {
+            "uri": "/bower_components/bootstrap/js/collapse.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/dropdown.js": {
+            "uri": "/bower_components/bootstrap/js/dropdown.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/modal.js": {
+            "uri": "/bower_components/bootstrap/js/modal.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/popover.js": {
+            "uri": "/bower_components/bootstrap/js/popover.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/scrollspy.js": {
+            "uri": "/bower_components/bootstrap/js/scrollspy.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/tab.js": {
+            "uri": "/bower_components/bootstrap/js/tab.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/tooltip.js": {
+            "uri": "/bower_components/bootstrap/js/tooltip.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/js/transition.js": {
+            "uri": "/bower_components/bootstrap/js/transition.js",
+            "type": "js"
+        },
+        "bower_components/bootstrap/less/alerts.less": {
+            "uri": "/bower_components/bootstrap/less/alerts.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/badges.less": {
+            "uri": "/bower_components/bootstrap/less/badges.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/bootstrap.less": {
+            "uri": "/bower_components/bootstrap/less/bootstrap.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/breadcrumbs.less": {
+            "uri": "/bower_components/bootstrap/less/breadcrumbs.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/button-groups.less": {
+            "uri": "/bower_components/bootstrap/less/button-groups.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/buttons.less": {
+            "uri": "/bower_components/bootstrap/less/buttons.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/carousel.less": {
+            "uri": "/bower_components/bootstrap/less/carousel.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/close.less": {
+            "uri": "/bower_components/bootstrap/less/close.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/code.less": {
+            "uri": "/bower_components/bootstrap/less/code.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/component-animations.less": {
+            "uri": "/bower_components/bootstrap/less/component-animations.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/dropdowns.less": {
+            "uri": "/bower_components/bootstrap/less/dropdowns.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/forms.less": {
+            "uri": "/bower_components/bootstrap/less/forms.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/glyphicons.less": {
+            "uri": "/bower_components/bootstrap/less/glyphicons.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/grid.less": {
+            "uri": "/bower_components/bootstrap/less/grid.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/input-groups.less": {
+            "uri": "/bower_components/bootstrap/less/input-groups.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/jumbotron.less": {
+            "uri": "/bower_components/bootstrap/less/jumbotron.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/labels.less": {
+            "uri": "/bower_components/bootstrap/less/labels.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/list-group.less": {
+            "uri": "/bower_components/bootstrap/less/list-group.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/media.less": {
+            "uri": "/bower_components/bootstrap/less/media.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins.less": {
+            "uri": "/bower_components/bootstrap/less/mixins.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/alerts.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/alerts.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/background-variant.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/background-variant.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/border-radius.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/border-radius.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/buttons.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/buttons.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/center-block.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/center-block.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/clearfix.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/clearfix.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/forms.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/forms.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/gradients.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/gradients.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/grid-framework.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/grid-framework.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/grid.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/grid.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/hide-text.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/hide-text.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/image.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/image.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/labels.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/labels.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/list-group.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/list-group.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/nav-divider.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/nav-divider.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/nav-vertical-align.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/nav-vertical-align.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/opacity.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/opacity.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/pagination.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/pagination.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/panels.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/panels.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/progress-bar.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/progress-bar.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/reset-filter.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/reset-filter.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/resize.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/resize.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/responsive-visibility.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/responsive-visibility.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/size.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/size.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/tab-focus.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/tab-focus.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/table-row.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/table-row.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/text-emphasis.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/text-emphasis.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/text-overflow.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/text-overflow.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/mixins/vendor-prefixes.less": {
+            "uri": "/bower_components/bootstrap/less/mixins/vendor-prefixes.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/modals.less": {
+            "uri": "/bower_components/bootstrap/less/modals.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/navbar.less": {
+            "uri": "/bower_components/bootstrap/less/navbar.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/navs.less": {
+            "uri": "/bower_components/bootstrap/less/navs.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/normalize.less": {
+            "uri": "/bower_components/bootstrap/less/normalize.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/pager.less": {
+            "uri": "/bower_components/bootstrap/less/pager.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/pagination.less": {
+            "uri": "/bower_components/bootstrap/less/pagination.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/panels.less": {
+            "uri": "/bower_components/bootstrap/less/panels.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/popovers.less": {
+            "uri": "/bower_components/bootstrap/less/popovers.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/print.less": {
+            "uri": "/bower_components/bootstrap/less/print.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/progress-bars.less": {
+            "uri": "/bower_components/bootstrap/less/progress-bars.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/responsive-embed.less": {
+            "uri": "/bower_components/bootstrap/less/responsive-embed.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/responsive-utilities.less": {
+            "uri": "/bower_components/bootstrap/less/responsive-utilities.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/scaffolding.less": {
+            "uri": "/bower_components/bootstrap/less/scaffolding.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/tables.less": {
+            "uri": "/bower_components/bootstrap/less/tables.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/theme.less": {
+            "uri": "/bower_components/bootstrap/less/theme.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/thumbnails.less": {
+            "uri": "/bower_components/bootstrap/less/thumbnails.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/tooltip.less": {
+            "uri": "/bower_components/bootstrap/less/tooltip.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/type.less": {
+            "uri": "/bower_components/bootstrap/less/type.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/utilities.less": {
+            "uri": "/bower_components/bootstrap/less/utilities.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/variables.less": {
+            "uri": "/bower_components/bootstrap/less/variables.less",
+            "type": "less"
+        },
+        "bower_components/bootstrap/less/wells.less": {
+            "uri": "/bower_components/bootstrap/less/wells.less",
+            "type": "less"
+        },
+        "bower_components/jquery/Gruntfile.js": {
+            "uri": "/bower_components/jquery/Gruntfile.js",
+            "type": "js",
+            "deps": [
+                "testswarm",
+                "fs"
+            ]
+        },
+        "bower_components/jquery/build/release-notes.js": {
+            "uri": "/bower_components/jquery/build/release-notes.js",
+            "type": "js",
+            "deps": [
+                "fs",
+                "http"
+            ]
+        },
+        "bower_components/jquery/build/release.js": {
+            "uri": "/bower_components/jquery/build/release.js",
+            "type": "js",
+            "deps": [
+                "fs",
+                "child_process",
+                "path"
+            ]
+        },
+        "bower_components/jquery/jquery-migrate.js": {
+            "uri": "/bower_components/jquery/jquery-migrate.js",
+            "type": "js"
+        },
+        "bower_components/jquery/jquery-migrate.min.js": {
+            "uri": "/bower_components/jquery/jquery-migrate.min.js",
+            "type": "js"
+        },
+        "bower_components/jquery/jquery.js": {
+            "uri": "/bower_components/jquery/jquery.js",
+            "type": "js"
+        },
+        "bower_components/jquery/jquery.min.js": {
+            "uri": "/bower_components/jquery/jquery.min.js",
+            "type": "js"
+        },
+        "bower_components/jquery/speed/benchmark.js": {
+            "uri": "/bower_components/jquery/speed/benchmark.js",
+            "type": "js"
+        },
+        "bower_components/jquery/speed/benchmarker.css": {
+            "uri": "/bower_components/jquery/speed/benchmarker.css",
+            "type": "css"
+        },
+        "bower_components/jquery/speed/benchmarker.js": {
+            "uri": "/bower_components/jquery/speed/benchmarker.js",
+            "type": "js",
+            "deps": [
+                "bower_components/jquery/speed/benchmarker.css"
+            ]
+        },
+        "bower_components/jquery/speed/jquery-basis.js": {
+            "uri": "/bower_components/jquery/speed/jquery-basis.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/ajax.js": {
+            "uri": "/bower_components/jquery/src/ajax.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/ajax/jsonp.js": {
+            "uri": "/bower_components/jquery/src/ajax/jsonp.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/ajax/script.js": {
+            "uri": "/bower_components/jquery/src/ajax/script.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/ajax/xhr.js": {
+            "uri": "/bower_components/jquery/src/ajax/xhr.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/attributes.js": {
+            "uri": "/bower_components/jquery/src/attributes.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/callbacks.js": {
+            "uri": "/bower_components/jquery/src/callbacks.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/core.js": {
+            "uri": "/bower_components/jquery/src/core.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/css.js": {
+            "uri": "/bower_components/jquery/src/css.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/data.js": {
+            "uri": "/bower_components/jquery/src/data.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/deferred.js": {
+            "uri": "/bower_components/jquery/src/deferred.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/deprecated.js": {
+            "uri": "/bower_components/jquery/src/deprecated.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/dimensions.js": {
+            "uri": "/bower_components/jquery/src/dimensions.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/effects.js": {
+            "uri": "/bower_components/jquery/src/effects.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/event-alias.js": {
+            "uri": "/bower_components/jquery/src/event-alias.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/event.js": {
+            "uri": "/bower_components/jquery/src/event.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/exports.js": {
+            "uri": "/bower_components/jquery/src/exports.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/intro.js": {
+            "uri": "/bower_components/jquery/src/intro.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/manipulation.js": {
+            "uri": "/bower_components/jquery/src/manipulation.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/offset.js": {
+            "uri": "/bower_components/jquery/src/offset.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/outro.js": {
+            "uri": "/bower_components/jquery/src/outro.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/queue.js": {
+            "uri": "/bower_components/jquery/src/queue.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/serialize.js": {
+            "uri": "/bower_components/jquery/src/serialize.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/sizzle-jquery.js": {
+            "uri": "/bower_components/jquery/src/sizzle-jquery.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/support.js": {
+            "uri": "/bower_components/jquery/src/support.js",
+            "type": "js"
+        },
+        "bower_components/jquery/src/traversing.js": {
+            "uri": "/bower_components/jquery/src/traversing.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/badcall.js": {
+            "uri": "/bower_components/jquery/test/data/badcall.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/badjson.js": {
+            "uri": "/bower_components/jquery/test/data/badjson.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/jquery-1.8.2.ajax_xhr.min.js": {
+            "uri": "/bower_components/jquery/test/data/jquery-1.8.2.ajax_xhr.min.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/json_obj.js": {
+            "uri": "/bower_components/jquery/test/data/json_obj.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/readywaitasset.js": {
+            "uri": "/bower_components/jquery/test/data/readywaitasset.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/readywaitloader.js": {
+            "uri": "/bower_components/jquery/test/data/readywaitloader.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/test.js": {
+            "uri": "/bower_components/jquery/test/data/test.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/testinit.js": {
+            "uri": "/bower_components/jquery/test/data/testinit.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/testrunner.js": {
+            "uri": "/bower_components/jquery/test/data/testrunner.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/data/testsuite.css": {
+            "uri": "/bower_components/jquery/test/data/testsuite.css",
+            "type": "css"
+        },
+        "bower_components/jquery/test/unit/ajax.js": {
+            "uri": "/bower_components/jquery/test/unit/ajax.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/attributes.js": {
+            "uri": "/bower_components/jquery/test/unit/attributes.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/callbacks.js": {
+            "uri": "/bower_components/jquery/test/unit/callbacks.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/core.js": {
+            "uri": "/bower_components/jquery/test/unit/core.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/css.js": {
+            "uri": "/bower_components/jquery/test/unit/css.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/data.js": {
+            "uri": "/bower_components/jquery/test/unit/data.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/deferred.js": {
+            "uri": "/bower_components/jquery/test/unit/deferred.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/deprecated.js": {
+            "uri": "/bower_components/jquery/test/unit/deprecated.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/dimensions.js": {
+            "uri": "/bower_components/jquery/test/unit/dimensions.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/effects.js": {
+            "uri": "/bower_components/jquery/test/unit/effects.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/event.js": {
+            "uri": "/bower_components/jquery/test/unit/event.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/exports.js": {
+            "uri": "/bower_components/jquery/test/unit/exports.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/manipulation.js": {
+            "uri": "/bower_components/jquery/test/unit/manipulation.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/offset.js": {
+            "uri": "/bower_components/jquery/test/unit/offset.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/queue.js": {
+            "uri": "/bower_components/jquery/test/unit/queue.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/selector.js": {
+            "uri": "/bower_components/jquery/test/unit/selector.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/serialize.js": {
+            "uri": "/bower_components/jquery/test/unit/serialize.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/support.js": {
+            "uri": "/bower_components/jquery/test/unit/support.js",
+            "type": "js"
+        },
+        "bower_components/jquery/test/unit/traversing.js": {
+            "uri": "/bower_components/jquery/test/unit/traversing.js",
+            "type": "js"
+        },
+        "public/css/bootstrap.css": {
+            "uri": "/public/css/bootstrap.css",
+            "type": "css"
+        },
+        "public/css/bootstrap.min.css": {
+            "uri": "/public/css/bootstrap.min.css",
+            "type": "css"
+        },
+        "public/dev/css/admin/index.scss": {
+            "uri": "/public/dist/css/admin/index.css",
+            "type": "css"
+        },
+        "public/dev/css/admin/main.scss": {
+            "uri": "/public/dist/css/admin/main.css",
+            "type": "css",
+            "pkg": "p0"
+        },
+        "public/dev/css/common/mixins.scss": {
+            "uri": "/public/dist/css/common/mixins.css",
+            "type": "css"
+        },
+        "public/dev/css/common/variables.scss": {
+            "uri": "/public/dist/css/common/variables.css",
+            "type": "css"
+        },
+        "public/js/bootstrap.js": {
+            "uri": "/public/js/bootstrap.js",
+            "type": "js"
+        },
+        "public/js/bootstrap.min.js": {
+            "uri": "/public/js/bootstrap.min.js",
+            "type": "js"
+        },
+        "public/js/jquery.js": {
+            "uri": "/public/js/jquery.js",
+            "type": "js"
+        },
+        "public/js/jquery.min.js": {
+            "uri": "/public/js/jquery.min.js",
+            "type": "js"
+        }
+    },
+    "pkg": {
+        "p0": {
+            "uri": "/public/dist/css/admin.min.css",
+            "type": "css",
+            "has": [
+                "public/dev/css/admin/main.scss"
+            ]
+        }
+    }
+}

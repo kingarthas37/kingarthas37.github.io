@@ -1,0 +1,109 @@
+@mixin fonts {
+  font-family:'\5FAE\8F6F\96C5\9ED1',Arial;
+}
+
+@mixin inlineBlock {
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+}
+
+@mixin rounded($radius: 5px) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin border-corner-radius($v, $h, $radius: 5px) {
+  -webkit-border-#{$v}-#{$h}-radius: $radius;
+  -moz-border-radius-#{$v}#{$h}: $radius;
+  border-#{$v}-#{$h}-radius: $radius;
+}
+
+@mixin box-shadow($shadows) {
+  -moz-box-shadow: #{$shadows};
+  -webkit-box-shadow: #{$shadows};
+  box-shadow: #{$shadows};
+}
+ 
+ 
+@mixin clearfix {
+  &:before,
+  &:after {
+    content: "";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+  *zoom:1;
+}
+
+ 
+@mixin transition ($param) {
+  -webkit-transition:#{$param};
+  -moz-transition:#{$param};
+  -ms-transition:#{$param};
+  -o-transition:#{$param};
+  transition:#{$param};
+}
+
+
+@mixin triangle ($size, $color, $direction) {
+  height: 0;
+  width: 0;
+  @if ($direction == up) or ($direction == down) or ($direction == right) or ($direction == left) {
+    border-color: transparent;
+    border-style: solid;
+    border-width: $size / 2;
+
+    @if $direction == up {
+      border-bottom-color: $color;
+
+    } @else if $direction == right {
+      border-left-color:   $color;
+
+    } @else if $direction == down {
+      border-top-color:    $color;
+
+    } @else if $direction == left {
+      border-right-color:  $color;
+    }
+  }
+
+  @else if ($direction == up-right) or ($direction == up-left) {
+    border-top: $size solid $color;
+
+    @if $direction == up-right {
+      border-left:  $size solid transparent;
+
+    } @else if $direction == up-left {
+      border-right: $size solid transparent;
+    }
+  }
+
+  @else if ($direction == down-right) or ($direction == down-left) {
+    border-bottom: $size solid $color;
+
+    @if $direction == down-right {
+      border-left:  $size solid transparent;
+
+    } @else if $direction == down-left {
+      border-right: $size solid transparent;
+    }
+  }
+}
+
+
+@mixin image-2x($image, $width, $height) {
+  @media
+  only screen and (-webkit-min-device-pixel-ratio: 2),
+  only screen and (min--moz-device-pixel-ratio: 2),
+  only screen and (-o-min-device-pixel-ratio: 2/1),
+  only screen and (min-device-pixel-ratio: 2),
+  only screen and (min-resolution: 2dppx),
+  only screen and (min-resolution: 192dpi) {
+    background-image: url($image);
+    background-size: $width $height;
+  }
+}

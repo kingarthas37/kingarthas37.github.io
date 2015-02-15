@@ -1,0 +1,29 @@
+@import "../common/mixins.scss";
+@import "../common/variables.scss";
+
+.modal {
+  .modal-header {
+    border-radius: 5px 5px 0 0;
+    border-bottom: none;
+    background: #f3f3f5;
+  }
+  .modal-footer {
+    border-top: none;
+    text-align: center;
+    
+    .btn {
+      padding:5px 40px;
+    }
+    
+    .btn-primary {
+      background: #f57c00;
+      border-color: #f57c00;
+    }
+    
+    .btn-default {
+      background: #bcbcbc;
+      border-color: #bcbcbc;
+      color:$color333;
+    }
+  }
+}

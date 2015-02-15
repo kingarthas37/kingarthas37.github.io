@@ -1,0 +1,170 @@
+.modal .modal-header {
+  border-radius: 5px 5px 0 0;
+  border-bottom: none;
+  background: #f3f3f5; }
+.modal .modal-footer {
+  border-top: none;
+  text-align: center; }
+  .modal .modal-footer .btn {
+    padding: 5px 40px; }
+  .modal .modal-footer .btn-primary {
+    background: #f57c00;
+    border-color: #f57c00; }
+  .modal .modal-footer .btn-default {
+    background: #bcbcbc;
+    border-color: #bcbcbc;
+    color: #333; }
+
+.header {
+  background: #1e2c6d;
+  color: #fff;
+  height: 72px;
+  line-height: 72px;
+  box-sizing: content-box; }
+  .header a {
+    color: #fff; }
+  .header .logo {
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+    width: 280px;
+    height: 72px;
+    background: url("/public/dist/images/_sprite/logo.png?__sprite") no-repeat; }
+  .header .nav-user {
+    float: right; }
+    .header .nav-user span {
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+    .header .nav-user .user {
+      padding-right: 20px; }
+      .header .nav-user .user .glyphicon-user {
+        margin-right: 6px; }
+    .header .nav-user .exit {
+      border-left: 1px solid #0d1850;
+      width: 100px;
+      text-align: center; }
+      .header .nav-user .exit .glyphicon-off {
+        margin-left: 6px; }
+
+.container {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%; }
+  .container .sidebar {
+    float: left;
+    width: 202px;
+    height: 100%;
+    background: #f5f6fa;
+    border-top: 1px solid #dcdcde;
+    border-right: 1px solid #dcdcde; }
+    .container .sidebar ul {
+      padding: 0;
+      margin: 0; }
+      .container .sidebar ul li {
+        list-style: none; }
+        .container .sidebar ul li > a {
+          line-height: 60px;
+          display: block;
+          height: 60px;
+          border-left: 5px solid #f5f6fa;
+          padding-left: 25px;
+          color: #666;
+          border-bottom: 1px solid #dcdcde; }
+          .container .sidebar ul li > a > .glyphicon {
+            float: right;
+            margin-top: 24px;
+            margin-right: 10px;
+            font-size: 9px; }
+          .container .sidebar ul li > a.cur {
+            color: #ed889a;
+            border-left-color: #ed889a; }
+          .container .sidebar ul li > a:hover {
+            text-decoration: none;
+            color: #333; }
+      .container .sidebar ul ol {
+        margin: 0;
+        padding: 0;
+        font-size: 12px;
+        border-bottom: 1px solid #dcdcde; }
+        .container .sidebar ul ol li > a {
+          padding-left: 40px;
+          height: 40px;
+          line-height: 40px;
+          border: none; }
+          .container .sidebar ul ol li > a span {
+            color: #80a7ac;
+            font-weight: bold; }
+          .container .sidebar ul ol li > a.cur {
+            background: url("/public/dist/images/_sprite/li-hover.png?__sprite") no-repeat right;
+            color: #fff; }
+            .container .sidebar ul ol li > a.cur span {
+              color: #fff; }
+        .container .sidebar ul ol ol {
+          border-bottom: none; }
+          .container .sidebar ul ol ol li > a {
+            padding-left: 60px;
+            height: 30px;
+            line-height: 30px; }
+            .container .sidebar ul ol ol li > a:before {
+              content: " ";
+              display: inline-block;
+              width: 8px;
+              height: 8px;
+              margin-right: 4px;
+              border-radius: 5px; }
+            .container .sidebar ul ol ol li > a.cur {
+              background: none;
+              color: #666; }
+              .container .sidebar ul ol ol li > a.cur:before {
+                background: #ed889a; }
+  .container .main-frame {
+    display: table-cell;
+    width: 2000px;
+    *display: inline-block;
+    *width: auto;
+    padding-top: 5px; }
+  .container .main {
+    border-top: 1px solid #dcdcde;
+    padding: 30px 20px; }
+  .container .crumb {
+    color: #999;
+    margin-bottom: 10px; }
+    .container .crumb span {
+      font-size: 10px; }
+  .container .table-header {
+    background: #bdc1ca;
+    padding: 10px;
+    text-align: right; }
+    .container .table-header .btn {
+      color: #fff;
+      border: none;
+      margin-right: 20px; }
+      .container .table-header .btn.add {
+        background: #77c78a; }
+      .container .table-header .btn.edit {
+        background: #f2c17f; }
+      .container .table-header .btn.delete {
+        background: #ee8798; }
+  .container .table {
+    color: #999; }
+    .container .table tr {
+      cursor: default; }
+      .container .table tr:hover td {
+        background: #eff7fa; }
+    .container .table th {
+      color: #666;
+      border-bottom: 2px solid #e0eff6;
+      text-align: center; }
+    .container .table td {
+      border-bottom: 1px solid #e0eff6;
+      text-align: center;
+      font-size: 12px; }
+  .container .page {
+    text-align: right; }
+    .container .page a {
+      color: #666; }

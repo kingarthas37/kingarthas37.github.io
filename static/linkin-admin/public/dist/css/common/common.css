@@ -1,0 +1,16 @@
+.modal .modal-header {
+  border-radius: 5px 5px 0 0;
+  border-bottom: none;
+  background: #f3f3f5; }
+.modal .modal-footer {
+  border-top: none;
+  text-align: center; }
+  .modal .modal-footer .btn {
+    padding: 5px 40px; }
+  .modal .modal-footer .btn-primary {
+    background: #f57c00;
+    border-color: #f57c00; }
+  .modal .modal-footer .btn-default {
+    background: #bcbcbc;
+    border-color: #bcbcbc;
+    color: #333; }

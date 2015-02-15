@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Linkin Admin</title>
+    <link rel="stylesheet" href="../../public/css/bootstrap.min.css"/>
+    
+    <link rel="stylesheet" href="/public/dist/css/admin/main.css"/>
+</head>
+<body>
+
+
+<div class="header">
+    <a href="#" class="logo"></a>
+    
+    <div class="nav-user">
+        <span class="user">
+            <a href="#"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>扫地小僧</a>
+        </span>
+        <span class="exit">
+            <a href="#">退出<span class="glyphicon glyphicon-off" aria-hidden="true"></span></a>
+        </span>
+    </div>
+    
+</div>
+
+<div class="container">
+
+        <div class="sidebar">
+            <ul>
+                <li>
+                    <a class="cur" href="javascript:;">信息类别管理 <span aria-hidden="true" class="glyphicon glyphicon-triangle-bottom"></span></a>
+                    
+                    <ol>
+                        <li><a href="#">信息类别配置</a></li>
+                        <li>
+                            <a class="cur" href="#">品牌类目信息配置 <span>-</span></a>
+                       
+                            <ol>
+                                <li><a href="#">一级类目</a></li>
+                                <li><a class="cur" href="#">二级类目</a></li>
+                            </ol>
+                            
+                        </li>
+                    </ol>
+                    
+                </li>
+                <li>
+                    <a href="#">品牌报告管理</a>
+                </li>
+                <li>
+                    <a href="#">用户信息管理</a>
+                </li>
+            </ul>
+        </div>
+    
+        <div class="main-frame">
+            <div class="main">
+                
+                <div class="crumb">
+                    当前位置: 类目配置 <span aria-hidden="true" class="glyphicon glyphicon-menu-right"></span> 一级类目
+                </div>
+                
+                <div class="table-header">
+                    <button class="btn btn-default add" type="button" data-toggle="modal" data-target="#modal-data-add">添加 <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+                    <button class="btn btn-default edit" type="button">修改 <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></button>
+                    <button class="btn btn-default delete" type="button">删除 <span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+                </div>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>选择</th>
+                            <th>类别名称</th>
+                            <th>所属关键词</th>
+                            <th>最后修改时间</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><input type="checkbox"/></td>
+                            <td>广告</td>
+                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                            <td>2015-02-01 12:33:20</td>
+                        </tr>
+                        <tr>
+                            <td><input type="checkbox"/></td>
+                            <td>广告</td>
+                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                            <td>2015-02-01 12:33:20</td>
+                        </tr>
+                        <tr>
+                            <td><input type="checkbox"/></td>
+                            <td>广告</td>
+                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                            <td>2015-02-01 12:33:20</td>
+                        </tr>
+                        <tr>
+                            <td><input type="checkbox"/></td>
+                            <td>广告</td>
+                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                            <td>2015-02-01 12:33:20</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div class="page">
+                    <ul class="pagination">
+                        <li>
+                            <a href="#" aria-label="Previous">
+                                <span aria-hidden="true">«</span>
+                            </a>
+                        </li>
+                        <li><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li>
+                            <a href="#" aria-label="Next">
+                                <span aria-hidden="true">»</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+    
+</div>
+
+
+
+
+<div class="modal fade" id="modal-data-add" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">添加</h4>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary">确认</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript" src="../../public/js/jquery.min.js"> </script>
+<script type="text/javascript" src="../../public/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>

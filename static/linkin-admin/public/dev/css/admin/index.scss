@@ -1,0 +1,234 @@
+@import "../common/mixins.scss";
+@import "../common/variables.scss";
+
+
+.header {
+  
+  background: #1e2c6d;
+  color:#fff;
+  height: 72px;
+  line-height: 72px;
+  box-sizing: content-box;
+  
+  a {
+    color:#fff;
+  }
+  
+  .logo {
+    @include inlineBlock;
+    width: 280px;
+    height: 72px;
+    background: url("../../images/_sprite/logo.png?__sprite") no-repeat;
+  }
+  
+  .nav-user {
+    float: right;
+    span {
+      @include inlineBlock;
+    }
+    .user {
+      padding-right:20px;
+      .glyphicon-user {
+        margin-right: 6px;
+      }
+    }
+    .exit {
+      border-left: 1px solid #0d1850;
+      width: 100px;
+      text-align: center;
+      .glyphicon-off {
+        margin-left: 6px;
+      }
+    }
+  }
+  
+}
+
+
+.container {
+  position: absolute;
+  top:67px;
+  left:0;
+  bottom: 0;
+  margin:0;
+  padding: 0;
+  width: 100%;
+
+  .sidebar { 
+    float:left; 
+    width:202px; 
+    height: 100%; 
+    background: #f5f6fa;
+    border-top:1px solid $borderColor;
+    border-right: 1px solid $borderColor;
+    
+    ul {
+      padding: 0;
+      margin: 0;
+      li {
+        list-style: none;
+        > a {
+          line-height: 60px;
+          display: block;
+          height: 60px;
+          border-left:5px solid #f5f6fa;
+          padding-left: 25px;
+          color:$color666;
+          border-bottom:1px solid $borderColor;
+          
+          > .glyphicon {
+            float: right;
+            margin-top: 24px;
+            margin-right: 10px;
+            font-size: 9px;
+          }
+          
+          &.cur {
+            color:#ed889a;
+            border-left-color: #ed889a;
+          }
+          
+          &:hover {
+            text-decoration: none;
+            color:$color333;
+          }
+        }
+      }
+      
+      ol {
+        margin: 0;
+        padding: 0;
+        font-size: 12px;
+        border-bottom: 1px solid $borderColor;
+        li {
+          > a {
+            padding-left: 40px;
+            height: 40px;
+            line-height: 40px;
+            border:none;
+            span {
+              color:#80a7ac;
+              font-weight: bold;
+            }
+            &.cur {
+              background: url("../../images/_sprite/li-hover.png?__sprite") no-repeat right;
+              color:#fff;
+              span {
+                color:#fff;
+              }
+            }
+            
+          }
+        }
+        
+        ol {
+          border-bottom: none;
+          li {
+            > a {
+              padding-left: 60px;
+              height: 30px;
+              line-height: 30px;
+
+              &:before {
+                content: " ";
+                display: inline-block;
+                width: 8px;
+                height: 8px;
+                margin-right: 4px;
+                border-radius: 5px;
+              }
+              
+              &.cur {
+                background: none;
+                color:$color666;
+                &:before {
+                  background: #ed889a;
+                }
+              }
+              
+            }
+          }
+        }
+        
+      }
+      
+    }
+    
+  }
+  
+  .main-frame { 
+    display: table-cell; 
+    width:2000px; 
+    *display:inline-block; 
+    *width:auto;
+    padding-top: 5px;
+  }
+  
+  .main {
+    border-top:1px solid $borderColor;
+    padding:30px 20px;
+  }
+  
+  .crumb {
+    color:$color999;
+    margin-bottom: 10px;
+    span {
+      font-size: 10px;
+    }
+  }
+  
+  .table-header {
+    background: #bdc1ca;
+    padding:10px;
+    text-align: right;
+    
+    .btn {
+      color:#fff;
+      border: none;
+      margin-right: 20px;
+      
+      &.add {
+        background: #77c78a;
+      }
+      
+      &.edit {
+        background: #f2c17f;
+      }
+      
+      &.delete {
+        background: #ee8798;
+      }
+    }
+    
+  }
+ 
+  .table {
+    color:$color999;
+    tr {
+      cursor:default;
+      &:hover {
+        td {
+          background: #eff7fa;
+        }
+      }
+    }
+    th {
+      color:$color666;
+      border-bottom: 2px solid #e0eff6;
+      text-align: center;
+    }
+    td {
+      border-bottom: 1px solid #e0eff6;
+      text-align: center;
+      font-size: 12px;
+    }
+  }
+  
+  .page {
+    text-align: right;
+    a {
+      color:$color666;
+    }
+  }
+  
+}
