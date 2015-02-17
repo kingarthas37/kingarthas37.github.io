@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
     <title>Linkin Admin</title>
-    <link rel="stylesheet" href="../../public/css/bootstrap.min.css"/>
-    
+    <link rel="stylesheet" href="//kingarthas37.github.io/static/linkin-admin/public/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="../css/admin/main.scss"/>
 </head>
 <body>
-
+ 
 
 <div class="header">
     <a href="#" class="logo"></a>
@@ -25,17 +25,16 @@
 
 <div class="container">
 
-        <div class="sidebar">
+        <div id="sidebar" class="sidebar">
             <ul>
                 <li>
-                    <a class="cur" href="javascript:;">信息类别管理 <span aria-hidden="true" class="glyphicon glyphicon-triangle-bottom"></span></a>
+                    <a class="cur" href="javascript:;">信息类别管理 <span aria-hidden="true" class="glyphicon glyphicon-triangle-top"></span></a>
                     
-                    <ol>
+                    <ol class="cur">
                         <li><a href="#">信息类别配置</a></li>
                         <li>
                             <a class="cur" href="#">品牌类目信息配置 <span>-</span></a>
-                       
-                            <ol>
+                            <ol class="cur">
                                 <li><a href="#">一级类目</a></li>
                                 <li><a class="cur" href="#">二级类目</a></li>
                             </ol>
@@ -45,7 +44,7 @@
                     
                 </li>
                 <li>
-                    <a href="#">品牌报告管理</a>
+                    <a href="http://www.baidu.com">品牌报告管理</a>
                 </li>
                 <li>
                     <a href="#">用户信息管理</a>
@@ -53,7 +52,7 @@
             </ul>
         </div>
     
-        <div class="main-frame">
+        <div id="main" class="main-frame">
             <div class="main">
                 
                 <div class="crumb">
@@ -62,8 +61,8 @@
                 
                 <div class="table-header">
                     <button class="btn btn-default add" type="button" data-toggle="modal" data-target="#modal-data-add">添加 <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
-                    <button class="btn btn-default edit" type="button">修改 <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></button>
-                    <button class="btn btn-default delete" type="button">删除 <span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+                    <button class="btn btn-default edit" type="button" data-toggle="modal" data-target="#modal-data-edit">修改 <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></button>
+                    <button class="btn btn-default delete" type="button" data-toggle="modal" data-target="#modal-data-delete">删除 <span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
                 </div>
                 <table class="table table-striped">
                     <thead>
@@ -129,29 +128,129 @@
 
 
 
-
-<div class="modal fade" id="modal-data-add" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<!-- 弹出框 添加信息 start -->
+<div class="modal fade" id="modal-data-add" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
+
+            <form action="" method="get" id="form-data-add">
+          
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="myModalLabel">添加</h4>
+                <h4 class="modal-title">添加</h4>
             </div>
             <div class="modal-body">
-                ...
+               
+                <div class="rows">
+                    <div class="row">
+                        <div class="col-md-4">类别名称:</div>
+                        <div class="col-md-8">
+                            <input type="text" name="category" class="form-control" required>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-4">所属关键字:</div>
+                        <div class="col-md-8">
+                            <textarea name="key" rows="3" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary">确认</button>
+                <button type="submit" class="btn btn-primary">保存</button>
                 <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
             </div>
+            </form>
         </div>
     </div>
 </div>
+<!-- 弹出框 添加信息 end -->
 
 
-<script type="text/javascript" src="../../public/js/jquery.min.js"> </script>
-<script type="text/javascript" src="../../public/js/bootstrap.min.js"></script>
 
+<!-- 弹出框 编辑信息 start -->
+<div class="modal fade" id="modal-data-edit" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <form action="" method="get" id="form-data-edit">
+
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">修改</h4>
+                </div>
+                <div class="modal-body">
+
+                    <div class="rows">
+                        <div class="row">
+                            <div class="col-md-4">类别名称:</div>
+                            <div class="col-md-8">
+                                <input type="text" name="category" class="form-control" required>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">所属关键字:</div>
+                            <div class="col-md-8">
+                                <textarea name="key" rows="3" required></textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">保存</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- 弹出框 编辑信息 end -->
+
+
+
+
+<!-- 弹出框 删除信息 start -->
+<div class="modal fade" id="modal-data-delete" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+
+            <form action="" method="get" id="form-data-delete">
+
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">删除</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="t-c">确定要删除?</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">确定</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- 弹出框 删除信息 end -->
+
+
+
+
+<script type="text/javascript" src="//kingarthas37.github.io/static/linkin-admin/public/js/jquery.min.js"> </script>
+<script type="text/javascript" src="//kingarthas37.github.io/static/linkin-admin/public/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="../js/external/jquery.validate.min.js"></script>
+<script type="text/javascript" src="../js/admin/main.js"></script>
+
+<script type="text/javascript">
+    $(function() {
+        LINKIN.initPageAdminIndex();
+    });
+</script>
 
 </body>
 </html>

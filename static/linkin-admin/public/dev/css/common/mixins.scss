@@ -20,7 +20,7 @@
   border-#{$v}-#{$h}-radius: $radius;
 }
 
-@mixin box-shadow($shadows) {
+@mixin boxShadow($shadows) {
   -moz-box-shadow: #{$shadows};
   -webkit-box-shadow: #{$shadows};
   box-shadow: #{$shadows};

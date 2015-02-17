@@ -1,5 +1,20 @@
-@import "../common/mixins.scss";
 @import "../common/variables.scss";
+
+html,body {
+  height: 100%;
+}
+
+.t-l {
+  text-align: left;
+}
+
+.t-c {
+  text-align: center;
+}
+
+.t-r {
+  text-align: right;
+}
 
 .modal {
   .modal-header {
@@ -26,4 +41,42 @@
       color:$color333;
     }
   }
+  
+  .rows {
+    width: 500px;
+    margin: auto;
+    
+    .row {
+      margin-bottom: 15px;
+    }
+    
+    .error {
+      color:red;
+      font-weight: normal;
+    }
+    
+    .col-md-4 {
+      text-align: right;
+      padding-top: 6px;
+    }
+
+    .col-md-8 {
+      select {
+        min-width: 100px;
+      }
+      
+      input[type="text"] {
+        width: 90%;
+      }
+      
+      textarea {
+        width: 90%;
+        border:1px solid #dbdcde;
+        border-radius: 4px;
+        color:$color666;
+      }
+    }
+    
+  }
+  
 }

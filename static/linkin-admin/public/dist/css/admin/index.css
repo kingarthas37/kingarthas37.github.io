@@ -70,10 +70,13 @@
             text-decoration: none;
             color: #333; }
       .container .sidebar ul ol {
+        display: none;
         margin: 0;
         padding: 0;
         font-size: 12px;
         border-bottom: 1px solid #dcdcde; }
+        .container .sidebar ul ol.cur {
+          display: block; }
         .container .sidebar ul ol li > a {
           padding-left: 40px;
           height: 40px;
@@ -88,7 +91,10 @@
             .container .sidebar ul ol li > a.cur span {
               color: #fff; }
         .container .sidebar ul ol ol {
+          display: none;
           border-bottom: none; }
+          .container .sidebar ul ol ol.cur {
+            display: block; }
           .container .sidebar ul ol ol li > a {
             padding-left: 60px;
             height: 30px;

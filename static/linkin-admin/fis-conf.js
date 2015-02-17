@@ -54,6 +54,11 @@ fis.config.merge({
             {
                 reg:/\/public\/([^\/]+\.png)/i,
                 release:'public/dist/images/$1'
+            },
+
+            {
+                reg:/\/public\/([^\/]+\.js)/i,
+                release:'public/dist/js/$1'
             }
             
         ]
@@ -62,6 +67,10 @@ fis.config.merge({
     pack:{
         'public/admin.min.css':[
             '/public/dev/css/admin/main.scss'
+        ],
+        'public/admin.min.js':[
+            '/public/dev/js/external/**.min.js',
+            '/public/dev/js/admin/main.js'
         ]
     },
 
