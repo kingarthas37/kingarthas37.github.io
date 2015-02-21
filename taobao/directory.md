@@ -1,3 +1,8 @@
+######王品豊拜拜三本合集《好神引导&这样拜才有钱&这样拜才有出头天》
+《这样拜，才有出头天》链接：http://pan.baidu.com/s/1bnCmbOr 密码：o7wr  
+《好神引导,一拜见效》链接：http://pan.baidu.com/s/1eQIl0g6 密码：7v4f  
+《这样拜，才有钱》 链接：http://pan.baidu.com/s/1kTIbpQJ 密码：5x62
+
 ######灵气创造心想愿成的磁场
 灵气创造心想愿成的磁场 链接：http://pan.baidu.com/s/1o6IBzom 密码：8b66
 
