@@ -1,3 +1,6 @@
+######灵气创造心想愿成的磁场
+灵气创造心想愿成的磁场 链接：http://pan.baidu.com/s/1o6IBzom 密码：8b66
+
 ######算运
 算运-整理房间，就是整理运势 链接: http://pan.baidu.com/s/1qWBL2Fy 密码: 0hf1
 
