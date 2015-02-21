@@ -1,3 +1,9 @@
+######找到优质男的扫除力
+找到优质男的扫除力链接：http://pan.baidu.com/s/1mgj3BmC 密码：4i4t
+
+######让你跨入有钱有闲族的扫除力
+跨入有钱有闲族的扫除力+（日）舛田光洋著+2012链接：http://pan.baidu.com/s/1eQxSPk2 密码：q29s
+
 ######王品豊拜拜三本合集《好神引导&这样拜才有钱&这样拜才有出头天》
 《这样拜，才有出头天》链接：http://pan.baidu.com/s/1bnCmbOr 密码：o7wr  
 《好神引导,一拜见效》链接：http://pan.baidu.com/s/1eQIl0g6 密码：7v4f  
