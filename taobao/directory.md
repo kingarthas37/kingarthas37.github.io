@@ -14,7 +14,7 @@
 跨入有钱有闲族的扫除力+（日）舛田光洋著+2012链接：http://pan.baidu.com/s/1eQxSPk2 密码：q29s
 
 ######王品豊拜拜三本合集《好神引导&这样拜才有钱&这样拜才有出头天》
-《这样拜，才有出头天》链接：http://pan.baidu.com/s/1bnCmbOr 密码：o7wr  
+《这样拜，才有出头天》链接：http://pan.baidu.com/s/1ntuWQIt 密码：ozj1  
 《好神引导,一拜见效》链接：http://pan.baidu.com/s/1eQIl0g6 密码：7v4f  
 《这样拜，才有钱》 链接：http://pan.baidu.com/s/1o6uoTaa 密码：dgah
 
@@ -46,7 +46,7 @@
 芳香疗法配方宝典  链接: http://pan.baidu.com/s/1kTECOHT 密码: 0ym6
 
 ######这样拜,才有出头天
-这样拜,才有出头天 链接：http://pan.baidu.com/s/1jGqtbim 密码：jdc0
+这样拜,才有出头天 链接：http://pan.baidu.com/s/1ntuWQIt 密码：ozj1
 
 ######加速成功的扫除力
 加速成功的扫除力+（日）舛田光洋著+2012  链接: http://pan.baidu.com/s/1gdgV531 密码: 4m9f
