@@ -21,9 +21,6 @@
 ######灵气创造心想愿成的磁场
 灵气创造心想愿成的磁场 链接：http://pan.baidu.com/s/1o6IBzom 密码：8b66
 
-######算运
-算运-整理房间，就是整理运势 链接: http://pan.baidu.com/s/1qWBL2Fy 密码: 0hf1
-
 ######《生命數字不思議》陳小珠
 生命数字不思议 链接: http://pan.baidu.com/s/1sj6tL5z 密码: x1xd
 
@@ -67,7 +64,7 @@ Reiki Om2  链接: http://pan.baidu.com/s/1o6oishc 密码: pomy
 Om Shanti 冥想休息术 链接: http://pan.baidu.com/s/1sj5D7Al 密码: 66a9
 
 ######算运-整理房间，就是整理运势
-算运-整理房间，就是整理运势  链接：http://pan.baidu.com/s/1sj6t4nz 密码：emd4
+算运-整理房间，就是整理运势  链接：http://pan.baidu.com/s/1ntBlVCX 密码：c177
 
 ######家族排列释放疾病业力
 家族排列释放疾病业力  链接：http://pan.baidu.com/s/1gd9vH79 密码：hs6h
