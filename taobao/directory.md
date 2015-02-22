@@ -67,7 +67,7 @@ Om Shanti 冥想休息术 链接: http://pan.baidu.com/s/1sj5D7Al 密码: 66a9
 算运-整理房间，就是整理运势  链接：http://pan.baidu.com/s/1ntBlVCX 密码：c177
 
 ######家族排列释放疾病业力
-家族排列释放疾病业力  链接：http://pan.baidu.com/s/1gd9vH79 密码：hs6h
+家族排列释放疾病业力  链接：http://pan.baidu.com/s/1hqrdstY 密码：mm3z
 
 ######有效的88种营销分析工具
 有效的88种营销分析工具  链接: http://pan.baidu.com/s/1eQ5Z4zg 密码: z2ee 
