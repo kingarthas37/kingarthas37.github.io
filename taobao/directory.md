@@ -1,3 +1,6 @@
+######灵摆风水应用
+灵摆风水应用 链接：http://pan.baidu.com/s/1bncuB7p 密码：lh2d
+
 ######人际合盘占星全书 鲁道夫
 人际合盘占星全书 鲁道夫 链接: http://pan.baidu.com/s/1o6NviGU 密码: bt3y
 
