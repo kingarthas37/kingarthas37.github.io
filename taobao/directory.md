@@ -1,3 +1,6 @@
+######生命密码催发运程
+生命密码催发运程 链接：http://pan.baidu.com/s/1gdAcGnD 密码：zxv8
+
 ######赚钱奇门兵法
 赚钱奇门兵法 链接：http://pan.baidu.com/s/1hqgozwK 密码：e6a8
 
