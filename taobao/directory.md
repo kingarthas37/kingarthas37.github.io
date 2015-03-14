@@ -1,3 +1,6 @@
+######新大开运吉方位
+新大开运吉方位 链接：http://pan.baidu.com/s/1c02H1iK 密码：1y66
+
 ######事业满分开运餐
 事业满分开运餐 链接：http://pan.baidu.com/s/1mg64QAc 密码：qplf
 
