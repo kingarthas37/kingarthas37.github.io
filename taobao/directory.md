@@ -1,3 +1,6 @@
+######开运招财全家补
+开运招财全家补 链接：http://pan.baidu.com/s/1c0lg3LI 密码：c1gw
+
 ######生命密码催发运程
 生命密码催发运程 链接：http://pan.baidu.com/s/1gdAcGnD 密码：zxv8
 
