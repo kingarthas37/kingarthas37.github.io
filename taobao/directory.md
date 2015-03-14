@@ -339,7 +339,7 @@ healing music for reiki     链接: http://pan.baidu.com/s/1nttAa9b 密码: oh1h
 ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
 
 ######灵气/灵修音乐《奥修塔罗音乐》Osho Zen Taro
-瑜伽音乐-Osho Zen Tarot 奥修禅塔罗多种风格集合  链接: http://pan.baidu.com/s/1gdGMSd9 密码: x5v2
+瑜伽音乐-Osho Zen Tarot 奥修禅塔罗多种风格集合  链接：http://pan.baidu.com/s/1i3io6Uh 密码：vh1g
 
 ######灵气治疗之光【 Healing Light 】 强大的能量治疗868240
 灵气 - 治疗之光 Healing Light  链接: http://pan.baidu.com/s/1o6LstOA 密码: cmdx
