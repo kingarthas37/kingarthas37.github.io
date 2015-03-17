@@ -11,3 +11,9 @@
 -- yhd 一号店h5活动展示  
 -- extrabux 参与extrabux面试题  
 -- dianguangwu 一个mov转mp4 flash播放实例  
+
+####demos
+个人codes、3d动画、flash所有作品展示源文件
+
+####taobao
+个人淘宝店铺相关代码
