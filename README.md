@@ -7,7 +7,7 @@
 -- linkin 后台管理平台及前台数据分析前端工程
 
 ####other
-个人业余时间参与的一些简单项目代码
--- yhd 一号店h5活动展示
--- extrabux 参与extrabux面试题
--- dianguangwu 一个mov转mp4 flash播放实例
+个人业余时间参与的一些简单项目代码  
+-- yhd 一号店h5活动展示  
+-- extrabux 参与extrabux面试题  
+-- dianguangwu 一个mov转mp4 flash播放实例  
