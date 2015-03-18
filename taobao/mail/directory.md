@@ -66,8 +66,8 @@
 ######芳香疗法配方宝典
 芳香疗法配方宝典  链接: http://pan.baidu.com/s/1kTECOHT 密码: 0ym6
 
-######这样拜,才有出头天
-这样拜,才有出头天 链接：http://pan.baidu.com/s/1ntuWQIt 密码：ozj1
+######这样拜，才有出头天
+这样拜，才有出头天 链接：http://pan.baidu.com/s/1ntuWQIt 密码：ozj1
 
 ######加速成功的扫除力
 加速成功的扫除力+（日）舛田光洋著+2012  链接: http://pan.baidu.com/s/1gdgV531 密码: 4m9f
