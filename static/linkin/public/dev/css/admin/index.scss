@@ -183,12 +183,19 @@
   .crumb {
     color:$color999;
     margin-bottom: 10px;
+    line-height: 30px;
+    height: 30px;
+    vertical-align: middle;
     span {
-      font-size: 10px;
+      padding:0 6px;
+      background: url("../../images/_sprite/icon-crumb-arrow.png?__sprite") no-repeat;
+      vertical-align: middle;
+      margin:0 6px;
     }
   }
   
   .table-header {
+    height: 52px;
     background: #bdc1ca;
     padding:10px;
     text-align: right;
@@ -237,9 +244,65 @@
   
   .page {
     text-align: right;
-    a {
-      color:$color666;
+    height: 40px;
+    .page-info {
+      vertical-align: middle;
+      @include inlineBlock;
     }
+    
+    span {
+      color:#acacac;
+      margin:0 4px;
+    }
+
+    a {
+      color:#323232;
+      margin:0 4px;
+      &.cur {
+        color:$colorUserHref;
+      }
+    }
+
+    em {
+      color:#323232;
+      margin: 0 4px;
+      font-style: normal;
+    }
+    
+    .page-direct {
+      vertical-align: middle;
+      @include inlineBlock;
+      width:70px;
+    }
+    
+    .input-group {
+      .form-control {
+        height: 23px;
+        width:40px;
+        padding:0;
+        text-align: center;
+      }
+      .btn {
+        background: url("../../images/_sprite/ico-page-arrow.png?__sprite") no-repeat;
+        width:25px;
+        height: 23px;
+        border:none;
+      }
+    }
+    
   }
   
+}
+
+
+#modal-alert {
+  .modal-dialog {
+    width: 350px;
+  }
+}
+
+#modal-data-delete {
+  .modal-dialog {
+    width: 350px;
+  }
 }

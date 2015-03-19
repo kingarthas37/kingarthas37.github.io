@@ -4,26 +4,26 @@
     <meta charset="utf-8">
     <title>Linkin Admin</title>
 
-    <!-- 上线后用这个正式路径即可 比如: -->
-    <!--
-    <link rel="stylesheet" href="http://www.linkin.com/public/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="http://www.linkin.com/public/css/font-awesome.min.css"/>
+
+    <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="http://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.min.css"/>
+
+
     
-    <link rel="stylesheet" href="http://www.linkin.com/public/dist/css/admin.min.css"/>
-    -->
-    <!-- 上线后用这个正式路径即可 -->
+
     
-    <link rel="stylesheet" href="/public/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="/public/css/font-awesome.min.css"/>
-    
-    <link rel="stylesheet" href="/public/dist/css/admin.min.css"/>
+     <link rel="stylesheet" href="../public/dist/css/external.min.css"/>
+     <link rel="stylesheet" href="../public/dist/css/admin.min.css"/>
+   
+
+
 </head>
 <body>
- 
+
 
 <div class="header">
     <a href="#" class="logo"></a>
-    
+
     <div class="nav-user">
         <span class="user">
             <a href="#"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>扫地小僧</a>
@@ -32,112 +32,122 @@
             <a href="#">退出<span class="glyphicon glyphicon-off" aria-hidden="true"></span></a>
         </span>
     </div>
-    
+
 </div>
 
 <div class="container">
 
-        <div id="sidebar" class="sidebar">
-            <ul>
-                <li>
-                    <a class="cur" href="javascript:;">信息类别管理 <span aria-hidden="true" class="glyphicon glyphicon-triangle-top"></span></a>
-                    
-                    <ol class="cur">
-                        <li><a href="#">信息类别配置</a></li>
-                        <li>
-                            <a class="cur" href="#">品牌类目信息配置 <span>-</span></a>
-                            <ol class="cur">
-                                <li><a href="#">一级类目</a></li>
-                                <li><a class="cur" href="#">二级类目</a></li>
-                            </ol>
-                            
-                        </li>
-                    </ol>
-                    
-                </li>
-                <li>
-                    <a href="http://www.baidu.com">品牌报告管理</a>
-                </li>
-                <li>
-                    <a href="#">用户信息管理</a>
-                </li>
-            </ul>
-        </div>
-    
-        <div id="main" class="main-frame">
-            <div class="main">
-                
-                <div class="crumb">
-                    当前位置: 类目配置 <span aria-hidden="true" class="glyphicon glyphicon-menu-right"></span> 一级类目
-                </div>
-                
-                <div class="table-header">
-                    <button class="btn btn-default add" type="button" data-toggle="modal" data-target="#modal-data-add">添加 <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
-                    <button class="btn btn-default edit" type="button" data-toggle="modal" data-target="#modal-data-edit">修改 <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></button>
-                    <button class="btn btn-default delete" type="button" data-toggle="modal" data-target="#modal-data-delete">删除 <span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
-                </div>
-                <table class="table table-striped">
-                    <thead>
-                        <tr>
-                            <th>选择</th>
-                            <th>类别名称</th>
-                            <th>所属关键词</th>
-                            <th>最后修改时间</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>广告</td>
-                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
-                            <td>2015-02-01 12:33:20</td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>广告</td>
-                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
-                            <td>2015-02-01 12:33:20</td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>广告</td>
-                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
-                            <td>2015-02-01 12:33:20</td>
-                        </tr>
-                        <tr>
-                            <td><input type="checkbox"/></td>
-                            <td>广告</td>
-                            <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
-                            <td>2015-02-01 12:33:20</td>
-                        </tr>
-                    </tbody>
-                </table>
+    <div id="sidebar" class="sidebar">
+        <ul>
+            <li>
+                <a class="cur" href="javascript:;">信息类别管理 <span aria-hidden="true"
+                                                                class="glyphicon glyphicon-triangle-top"></span></a>
 
-                <div class="page">
-                    <ul class="pagination">
-                        <li>
-                            <a href="#" aria-label="Previous">
-                                <span aria-hidden="true">«</span>
-                            </a>
-                        </li>
-                        <li><a href="#">1</a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">4</a></li>
-                        <li><a href="#">5</a></li>
-                        <li>
-                            <a href="#" aria-label="Next">
-                                <span aria-hidden="true">»</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                
+                <ol class="cur">
+                    <li><a href="#">信息类别配置</a></li>
+                    <li>
+                        <a class="cur" href="#">品牌类目信息配置 <span>-</span></a>
+                        <ol class="cur">
+                            <li><a href="#">一级类目</a></li>
+                            <li><a class="cur" href="#">二级类目</a></li>
+                        </ol>
+
+                    </li>
+                </ol>
+
+            </li>
+            <li>
+                <a href="http://www.baidu.com">品牌报告管理</a>
+            </li>
+            <li>
+                <a href="#">用户信息管理</a>
+            </li>
+        </ul>
+    </div>
+
+    <div id="main" class="main-frame">
+        <div class="main">
+
+            <div class="crumb">
+                当前位置: 类目配置<span></span> 一级类目
             </div>
-        </div>
-    
-</div>
 
+            <div class="table-header">
+                <button class="btn btn-default add" type="button" data-toggle="modal" data-target="#modal-data-add">添加
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+                <button class="btn btn-default edit" type="button" data-toggle="modal" data-target="#modal-data-edit">修改
+                    <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></button>
+                <button class="btn btn-default delete" type="button" data-toggle="modal"
+                        data-target="#modal-data-delete">删除 <span class="glyphicon glyphicon-minus"
+                                                                  aria-hidden="true"></span></button>
+            </div>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th width="80">选择</th>
+                    <th width="100">类别名称</th>
+                    <th>所属关键词</th>
+                    <th width="200">最后修改时间</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td><input type="checkbox" data-id="1"/></td>
+                    <td>广告</td>
+                    <td>广告，电视片，大片，形象片，新品，上市，登场，品牌广告，电视片，大片，形象片，新品，上市，登场，品牌广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                    <td>2015-02-01 12:33:20</td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" data-id="2"/></td>
+                    <td>广告</td>
+                    <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                    <td>2015-02-01 12:33:20</td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" data-id="3"/></td>
+                    <td>广告</td>
+                    <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                    <td>2015-02-01 12:33:20</td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" data-id="4"/></td>
+                    <td>广告</td>
+                    <td>广告，电视片，大片，形象片，新品，上市，登场，品牌</td>
+                    <td>2015-02-01 12:33:20</td>
+                </tr>
+                </tbody>
+            </table>
+
+            <div class="page">
+
+                <div class="page-info">
+                    <span>上一页</span>
+                    <a href="#" class="cur">1</a>
+                    <a href="#">2</a>
+                    <a href="#">3</a>
+                    <span>4</span>
+                    <span>5</span>
+                    <a href="#">下一页</a>
+                    <em>跳转到</em>
+                </div>
+
+                <div class="page-direct">
+                    <form action="">
+                        <div class="input-group">
+                          <input type="text" class="form-control" value="1">
+                          <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit"></button>
+                          </span>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</div>
 
 
 <!-- 弹出框 添加信息 start -->
@@ -146,40 +156,49 @@
         <div class="modal-content">
 
             <form action="" method="get" id="form-data-add">
-          
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title">添加</h4>
-            </div>
-            <div class="modal-body">
-               
-                <div class="rows">
-                    <div class="row">
-                        <div class="col-md-4">类别名称:</div>
-                        <div class="col-md-8">
-                            <input type="text" name="category" class="form-control" required>
+
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">添加</h4>
+                </div>
+                <div class="modal-body">
+
+                    <div class="rows">
+                        <div class="row">
+                            <div class="col-md-4">类别名称:</div>
+                            <div class="col-md-8">
+                                <input type="text" name="category" class="form-control" required error-info="请输入类别名称">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">所属父目录:</div>
+                            <div class="col-md-8">
+                                <select class="form-control">
+                                    <option value="0">运动服饰</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">所属关键字:</div>
+                            <div class="col-md-8">
+                                <textarea name="key" rows="3" required error-info="请输入所属关键字"></textarea>
+                            </div>
                         </div>
                     </div>
 
-                    <div class="row">
-                        <div class="col-md-4">所属关键字:</div>
-                        <div class="col-md-8">
-                            <textarea name="key" rows="3" required></textarea>
-                        </div>
-                    </div>
                 </div>
-                
-            </div>
-            <div class="modal-footer">
-                <button type="submit" class="btn btn-primary">保存</button>
-                <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
-            </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">保存</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                </div>
             </form>
         </div>
     </div>
 </div>
 <!-- 弹出框 添加信息 end -->
-
 
 
 <!-- 弹出框 编辑信息 start -->
@@ -189,8 +208,11 @@
 
             <form action="" method="get" id="form-data-edit">
 
+                <input type="hidden" id="data-edit-checkbox-value" value="0"/>
+
                 <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title">修改</h4>
                 </div>
                 <div class="modal-body">
@@ -199,16 +221,26 @@
                         <div class="row">
                             <div class="col-md-4">类别名称:</div>
                             <div class="col-md-8">
-                                <input type="text" name="category" class="form-control" required>
+                                <input type="text" name="category" class="form-control" required error-info="请输入类别名称">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">所属父目录:</div>
+                            <div class="col-md-8">
+                                <select class="form-control">
+                                    <option value="0">运动服饰</option>
+                                </select>
                             </div>
                         </div>
 
                         <div class="row">
                             <div class="col-md-4">所属关键字:</div>
                             <div class="col-md-8">
-                                <textarea name="key" rows="3" required></textarea>
+                                <textarea name="key" rows="3" required error-info="请输入所属关键字"></textarea>
                             </div>
                         </div>
+
                     </div>
 
                 </div>
@@ -223,8 +255,6 @@
 <!-- 弹出框 编辑信息 end -->
 
 
-
-
 <!-- 弹出框 删除信息 start -->
 <div class="modal fade" id="modal-data-delete" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-sm">
@@ -232,12 +262,15 @@
 
             <form action="" method="get" id="form-data-delete">
 
+                <input type="hidden" id="data-delete-checkbox-value" value="0"/>
+
                 <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title">删除</h4>
                 </div>
                 <div class="modal-body">
-                    <p class="t-c">确定要删除?</p>
+                    <div class="t-c">确定要删除?</div>
                 </div>
                 <div class="modal-footer">
                     <button type="submit" class="btn btn-primary">确定</button>
@@ -250,24 +283,38 @@
 <!-- 弹出框 删除信息 end -->
 
 
-<!-- 上线后用这个正式路径即可 比如: -->
-<!--
-<script type="text/javascript" src="http://www.linkin.com/public/js/jquery.min.js"> </script>
-<script type="text/javascript" src="http://www.linkin.com/public/js/bootstrap.min.js"></script>
+<!-- 弹出框警告 start -->
+<div id="modal-alert" class="modal fade bs-example-modal-sm" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">提示</h4>
+            </div>
+            <div class="modal-body">
 
-<script type="text/javascript" src="http://www.linkin.com/public/dist/js/admin.min.js"></script>
--->
-<!-- 上线后用这个正式路径即可 -->
- 
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 弹出框警告 end -->
 
 
-<script type="text/javascript" src="/public/js/jquery.min.js"> </script>
-<script type="text/javascript" src="/public/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://libs.baidu.com/jquery/1.9.1/jquery.js"></script>
+<script type="text/javascript" src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 
-<script type="text/javascript" src="/public/dist/js/admin.min.js"></script>
+
+
+
+
+<script type="text/javascript" src="../public/dist/js/external.min.js"></script>
+<script type="text/javascript" src="../public/dist/js/admin.min.js"></script>
+
+
 
 <script type="text/javascript">
-    $(function() {
+    $(function () {
         LINKIN.initPageAdminIndex();
     });
 </script>

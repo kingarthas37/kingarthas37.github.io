@@ -16,7 +16,13 @@ html,body {
   text-align: right;
 }
 
+
 .modal {
+  
+  .modal-dialog {
+    margin-top: 150px;
+  }
+  
   .modal-header {
     border-radius: 5px 5px 0 0;
     border-bottom: none;
@@ -63,6 +69,7 @@ html,body {
     .col-md-8 {
       select {
         min-width: 100px;
+        max-width: 90%;
       }
       
       input[type="text"] {
@@ -80,3 +87,4 @@ html,body {
   }
   
 }
+ 

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Linkin User</title>
+ 
+    
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css"/>
+
+    
+   
+    
+
+    
+     <link rel="stylesheet" href="../public/dist/css/external.min.css"/>
+     <link rel="stylesheet" href="../public/dist/css/user.min.css"/>
+   
+    
+</head>
+
+<body>
+ 
+
+<div class="header">
+    <div class="content">
+        <h1>Linkin</h1>
+        <div class="menu">
+             <a href="#">首页</a> 
+             <a href="#">新手引导</a>
+             <span>欢迎,<a href="#">小僧</a></span>
+        </div>
+    </div>
+    
+    <div class="headline">
+        自身品牌 <b>vs</b> 参考品牌
+    </div>
+    
+</div>
+ 
+ 
+    <form action="" id="form-main-search">
+ 
+        <div class="data-content">
+            <div class="content">
+
+                
+                <div class="search-content1">
+
+                    <div class="row">
+                        <div class="cell">
+                            <input type="text" class="form-control ico-1" placeholder="品牌名" name="brandname1" required>
+                        </div>
+                        <div class="cell">
+                            <input type="text" class="form-control ico-1" placeholder="品牌名" name="brandname2" required>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="cell">
+                            <select id="select-1" class="select form-control" name="category1"  data-placeholder="品类" required>
+                                <option></option>
+                                <option value="0">aaa</option>
+                                <option value="1">bbb</option>
+                                <option value="2">ccc</option>
+                            </select>
+                        </div>
+                        <div class="cell">
+                            <select id="select-2" class="select form-control" name="category2" data-placeholder="品类" required>
+                                <option></option>
+                                <option value="0">aaa</option>
+                                <option value="1">bbb</option>
+                                <option value="2">ccc</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="cell">
+                            <select id="select-3" class="select form-control" name="product1" data-placeholder="产品" required>
+                                <option></option>
+                                <option value="0">aaa</option>
+                                <option value="1">bbb</option>
+                                <option value="2">ccc</option>
+                            </select>
+                        </div>
+                        <div class="cell">
+                            <select id="select-4" class="select form-control" name="product2" data-placeholder="产品" required>
+                                <option></option>
+                                <option value="0">aaa</option>
+                                <option value="1">bbb</option>
+                                <option value="2">ccc</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="cell">
+                            <input type="text" class="form-control ico-4" placeholder="官网">
+                        </div>
+                        <div class="cell">
+                            <input type="text" class="form-control ico-4" placeholder="官网">
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="cell">
+                            <input type="text" class="form-control ico-5" placeholder="官微">
+                        </div>
+                        <div class="cell">
+                            <input type="text" class="form-control ico-5" placeholder="官微">
+                        </div>
+                    </div>
+
+                </div> 
+
+            </div>
+        </div>
+
+
+        <div class="data-content even last">
+            <div class="content">
+
+                <h2>搜索范围</h2>
+                 
+                <div class="search-content2">
+                    
+                    <div class="form-inline">
+                        <div class="label">时间范围</div> <div class="form-group"><input type="text" name="date-start" id="date-start" class="form-control"></div>
+                        <div class="label">至</div> <div class="form-group"><input type="text" name="date-end" id="date-end" class="form-control"></div>
+                        <div class="label date-error"></div>
+                    </div>
+
+                    <div class="form-inline">
+                        <div class="label">重点搜索</div> <div class="form-group"><input type="text" name="search-key-1" class="form-control search-key"></div> <span class="label"><a class="search-key-add" href="javascript:;">+</a></span>
+                    </div>
+ 
+
+                    <div class="btn-box">
+                        <button type="submit" class="btn btn-default">搜    索</button>
+                    </div>
+                    
+                </div>
+                 
+                
+            </div>
+        </div>
+         
+    </form>
+
+
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"> </script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript" src="../public/dist/js/external.min.js"></script>
+<script type="text/javascript" src="../public/dist/js/user.min.js"></script>
+
+
+
+<script type="text/javascript">
+    $(function() {
+        LINKIN.initPageUserSearch();
+    });
+</script>
+
+</body>
+</html>

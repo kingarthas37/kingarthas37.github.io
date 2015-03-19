@@ -1,0 +1,51 @@
+html, body {
+  height: 100%; }
+
+.t-l {
+  text-align: left; }
+
+.t-c {
+  text-align: center; }
+
+.t-r {
+  text-align: right; }
+
+.modal .modal-dialog {
+  margin-top: 150px; }
+.modal .modal-header {
+  border-radius: 5px 5px 0 0;
+  border-bottom: none;
+  background: #f3f3f5; }
+.modal .modal-footer {
+  border-top: none;
+  text-align: center; }
+  .modal .modal-footer .btn {
+    padding: 5px 40px; }
+  .modal .modal-footer .btn-primary {
+    background: #f57c00;
+    border-color: #f57c00; }
+  .modal .modal-footer .btn-default {
+    background: #bcbcbc;
+    border-color: #bcbcbc;
+    color: #333; }
+.modal .rows {
+  width: 500px;
+  margin: auto; }
+  .modal .rows .row {
+    margin-bottom: 15px; }
+  .modal .rows .error {
+    color: red;
+    font-weight: normal; }
+  .modal .rows .col-md-4 {
+    text-align: right;
+    padding-top: 6px; }
+  .modal .rows .col-md-8 select {
+    min-width: 100px;
+    max-width: 90%; }
+  .modal .rows .col-md-8 input[type="text"] {
+    width: 90%; }
+  .modal .rows .col-md-8 textarea {
+    width: 90%;
+    border: 1px solid #dbdcde;
+    border-radius: 4px;
+    color: #666; }

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Linkin User</title>
+ 
+    
+    <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="http://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.min.css"/>
+
+    
+
+    
+     <link rel="stylesheet" href="../public/dist/css/external.min.css"/>
+     <link rel="stylesheet" href="../public/dist/css/user.min.css"/>
+   
+</head>
+<body>
+ 
+
+<div class="header">
+    <div class="content">
+        <h1>Linkin</h1>
+        <div class="menu">
+             <a href="#">首页</a> 
+             <a href="#">新手引导</a> 
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    
+    <div class="login-panel">
+        <h2>登录<span>还没有账户,免费<a href="#">注册</a></span></h2>
+        
+
+            <form action="" id="form-main-login">
+
+                <div class="form">
+
+                <div class="input-group email">
+                        <span class="input-group-addon"></span>
+                        <input name="email" type="email" class="form-control" placeholder="Email" required>
+                        <!--
+                         <label class="error">如果提交表单后账号错误，返回失败信息，则错误信息显示在此label内</label>
+                         -->
+                    </div>
+
+                <div class="input-group password">
+                    <span class="input-group-addon"></span>
+                    <input name="password" type="password" class="form-control" placeholder="密码" required>
+                </div>
+
+                <div class="button-group">
+                    <button type="submit" class="btn btn-default">登录</button>
+                    <a href="#">忘记密码?</a>
+                </div>
+
+                </div>
+                
+            </form>
+            
+       
+        
+    </div>
+    
+</div>
+
+
+
+
+<script type="text/javascript" src="http://libs.baidu.com/jquery/1.9.1/jquery.js"> </script>
+<script type="text/javascript" src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+
+
+
+<script type="text/javascript" src="../public/dist/js/external.min.js"></script>
+<script type="text/javascript" src="../public/dist/js/user.min.js"></script>
+
+
+<script type="text/javascript">
+    $(function() {
+        LINKIN.initPageUserLogin();
+    });
+</script>
+
+</body>
+</html>

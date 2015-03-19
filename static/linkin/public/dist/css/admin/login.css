@@ -1,5 +1,5 @@
 .login-cont {
-  background: url("http://www.linkn.com/public/dist/images/login-bg.jpg") no-repeat center;
+  background: url("/public/dist/images/login-bg.jpg") no-repeat center;
   height: 100%;
   background-size: 100% 100%;
   position: relative; }
@@ -20,7 +20,7 @@
       width: 100%; }
     .login-cont .frame label.error {
       position: absolute;
-      left: 10px;
+      left: 0;
       top: 40px;
       font-weight: normal;
       color: red; }
@@ -40,16 +40,16 @@
       box-shadow: none;
       border-radius: 0; }
     .login-cont .frame .username .form-control {
-      background: url("http://www.linkn.com/public/dist/images/_sprite/icon-login-user.png?__sprite") no-repeat left center; }
+      background: url("/public/dist/images/_sprite/icon-login-user.png?__sprite") no-repeat left center; }
     .login-cont .frame .password .form-control {
-      background: url("http://www.linkn.com/public/dist/images/_sprite/icon-login-pwd.png?__sprite") no-repeat left center; }
+      background: url("/public/dist/images/_sprite/icon-login-pwd.png?__sprite") no-repeat left center; }
     .login-cont .frame .savepassword {
       margin-bottom: 20px;
       padding-right: 20px; }
       .login-cont .frame .savepassword label {
         font-weight: normal; }
       .login-cont .frame .savepassword input {
-        margin-left: 15px;
+        margin-left: 8px;
         margin-right: 10px; }
     .login-cont .frame .btn-group {
       width: 100%;
@@ -67,5 +67,6 @@
     bottom: 20px;
     color: #fff; }
     .login-cont .copyright i {
-      padding: 0 15px;
-      background: url("http://www.linkn.com/public/dist/images/_sprite/icon-copyright.png?__sprite") no-repeat center; }
+      padding-left: 15px;
+      margin: 0 10px;
+      background: url("/public/dist/images/_sprite/icon-copyright.png?__sprite") no-repeat center; }

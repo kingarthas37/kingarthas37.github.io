@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Linkin User</title>
+ 
+    
+    <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="http://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.min.css"/>
+
+    <!--unrelease--start-->
+    <link rel="stylesheet" href="../css/user/main.scss"/>
+    <!--unrelease--end-->
+    
+    <!--release--start--
+      <link rel="stylesheet" href="/public/dist/css/external.min.css"/>
+      <link rel="stylesheet" href="/public/dist/css/user.min.css"/>
+    --release--end-->
+    
+</head>
+<body>
+ 
+
+<div class="header">
+    <div class="content">
+        <h1>Linkin</h1>
+        <div class="menu">
+             <a href="#">首页</a> 
+             <a href="#">新手引导</a> 
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    
+    <div class="login-panel">
+        <h2>找回密码!</h2>
+        
+
+            <form action="" id="form-main-forget" class="form-horizontal">
+                <div class="form">
+
+                <div class="form-group">
+                    <label class="col-md-3 t-r">邮箱</label>
+                    <div class="col-md-9">
+                        <input name="email" type="email" class="form-control" required>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label class="col-md-3 t-r">验证码</label>
+                    <div class="col-md-9">
+                        <input name="safecode" type="text" class="form-control safe-code" maxlength="4" required>
+                        <label id="safecode-request-error" class="error"></label>
+                        <img src="../images/safe-code-demo.png" alt="" height="42"/>
+                    </div>
+                </div>
+
+                <div class="button-group t-c">
+                    <button type="submit" class="btn btn-default">发送邮件</button>
+                </div>
+                </div>
+            </form>
+            
+      
+        
+    </div>
+    
+</div>
+
+<!-- 弹出框已发送 start -->
+<div class="modal fade" id="modal-forget-tip" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+
+            <form action="" method="get" id="form-data-delete">
+
+                <input type="hidden" id="data-delete-checkbox-value" value="0"/>
+
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">提醒</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="t-c">邮件已经发送到目标邮箱，请查看邮箱并激活，谢谢!</div>
+                </div>
+                <div class="modal-footer">
+                    <a href="/" class="btn btn-primary">确定</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- 弹出框已发送 end -->
+
+
+
+<script type="text/javascript" src="http://libs.baidu.com/jquery/1.9.1/jquery.js"> </script>
+<script type="text/javascript" src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+<!--unrelease--start-->
+ <script type="text/javascript" src="../js/external/jquery.validate.min.js"></script>
+ <script type="text/javascript" src="../js/user/main.js"></script>
+<!--unrelease--end-->
+
+<!--release--start--
+<script type="text/javascript" src="/public/dist/js/external.min.js"></script>
+<script type="text/javascript" src="/public/dist/js/user.min.js"></script>
+--release--end-->
+
+
+<script type="text/javascript">
+    $(function() {
+        var url = false;  
+        // var url = '/ajax/requestSafeCode';
+        LINKIN.initPageUserForget(url);
+    });
+</script>
+
+</body>
+</html>

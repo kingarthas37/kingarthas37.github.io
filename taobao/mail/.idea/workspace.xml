@@ -67,7 +67,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="12" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.54416406" vertical-offset="0" max-vertical-offset="3705">
+            <state line="204" column="16" selection-start="7445" selection-end="7445" vertical-scroll-proportion="0.6687697" vertical-offset="2636" max-vertical-offset="3705">
               <folding>
                 <marker date="1424668455000" expanded="false" signature="7254:7273" placeholder="..." />
               </folding>
@@ -255,12 +255,12 @@
       <changelist id="6126bc2f-7e9c-42ac-b558-b4569152c79e" name="Default" comment="" />
       <created>1426601870938</created>
       <updated>1426601870938</updated>
-      <workItem from="1426601872297" duration="116000" />
+      <workItem from="1426601872297" duration="2000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116000" />
+    <option name="totallyTimeSpent" value="2000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1391" height="789" extended-state="0" />
@@ -312,7 +312,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="12" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.54416406" vertical-offset="0" max-vertical-offset="3705">
+        <state line="204" column="16" selection-start="7445" selection-end="7445" vertical-scroll-proportion="0.6687697" vertical-offset="2636" max-vertical-offset="3705">
           <folding>
             <marker date="1424668455000" expanded="false" signature="7254:7273" placeholder="..." />
           </folding>

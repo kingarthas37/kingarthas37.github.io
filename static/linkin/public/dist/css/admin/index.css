@@ -12,7 +12,7 @@
     *display: inline;
     width: 280px;
     height: 72px;
-    background: url("http://www.linkn.com/public/dist/images/_sprite/logo.png?__sprite") no-repeat; }
+    background: url("/public/dist/images/_sprite/logo.png?__sprite") no-repeat; }
   .header .nav-user {
     float: right; }
     .header .nav-user span {
@@ -86,7 +86,7 @@
             color: #80a7ac;
             font-weight: bold; }
           .container .sidebar ul ol li > a.cur {
-            background: url("http://www.linkn.com/public/dist/images/_sprite/li-hover.png?__sprite") no-repeat right;
+            background: url("/public/dist/images/_sprite/li-hover.png?__sprite") no-repeat right;
             color: #fff; }
             .container .sidebar ul ol li > a.cur span {
               color: #fff; }
@@ -122,10 +122,17 @@
     padding: 30px 20px; }
   .container .crumb {
     color: #999;
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+    line-height: 30px;
+    height: 30px;
+    vertical-align: middle; }
     .container .crumb span {
-      font-size: 10px; }
+      padding: 0 6px;
+      background: url("/public/dist/images/_sprite/icon-crumb-arrow.png?__sprite") no-repeat;
+      vertical-align: middle;
+      margin: 0 6px; }
   .container .table-header {
+    height: 52px;
     background: #bdc1ca;
     padding: 10px;
     text-align: right; }
@@ -154,6 +161,44 @@
       text-align: center;
       font-size: 12px; }
   .container .page {
-    text-align: right; }
+    text-align: right;
+    height: 40px; }
+    .container .page .page-info {
+      vertical-align: middle;
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+    .container .page span {
+      color: #acacac;
+      margin: 0 4px; }
     .container .page a {
-      color: #666; }
+      color: #323232;
+      margin: 0 4px; }
+      .container .page a.cur {
+        color: #2babd8; }
+    .container .page em {
+      color: #323232;
+      margin: 0 4px;
+      font-style: normal; }
+    .container .page .page-direct {
+      vertical-align: middle;
+      display: inline-block;
+      zoom: 1;
+      *display: inline;
+      width: 70px; }
+    .container .page .input-group .form-control {
+      height: 23px;
+      width: 40px;
+      padding: 0;
+      text-align: center; }
+    .container .page .input-group .btn {
+      background: url("/public/dist/images/_sprite/ico-page-arrow.png?__sprite") no-repeat;
+      width: 25px;
+      height: 23px;
+      border: none; }
+
+#modal-alert .modal-dialog {
+  width: 350px; }
+
+#modal-data-delete .modal-dialog {
+  width: 350px; }
