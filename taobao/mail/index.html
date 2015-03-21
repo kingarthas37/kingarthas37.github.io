@@ -129,7 +129,9 @@
         //初始化markdown数据代码
         function createInitData(_data) {
             _data = $.trim(_data);
-            _data.replace(/#{4,6}([^\n]+)\n((?:[^#]{4,6})+)/g,function(text,title,content) {
+ 
+            _data.replace(/#{4,6}([^\n]+)\n((?:[^#####])+)/g,function(text,title,content) {
+                
                 var obj = {};
                 obj.title = encodeURIComponent($.trim(title));
 
@@ -138,9 +140,9 @@
                 content = content.replace(/(http[^密]*)/g,function(text,$1) {
                     $1 = $.trim($1);
                     return '<a target="_blank" href="'+ $1 +'">'+ $1 +'</a> ';
-
                 });
 
+                
                 content = content.replace(/(密码[^\n]+)/g,function(text,$1) {
                     return $1 + '<br/>';
                 });
