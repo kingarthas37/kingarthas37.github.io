@@ -1,0 +1,6 @@
+.skin-box-bd { background:#645a7e; position: relative;}
+.skin-box-bd .menu-list { display: none;}
+.skin-box-bd .all-cats-trigger .link { background: #645a7e; }
+.skin-box-bd .all-cats-hover .all-cats-trigger .link { background:#645a7e; color:#fff;}
+.skin-box-bd .all-cats-trigger .link .title { display: none;}
+.skin-box-bd .popup-icon { background: none; border-top:2px solid #fff; border-bottom: 2px solid #fff; height: 4px; width: 12px; margin-left: 0; float:none; margin-top: 12px;}
