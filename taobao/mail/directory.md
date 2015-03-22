@@ -1,5 +1,5 @@
 ######占星入门（初级）书籍套装
-
+[内在的天空：占星学入门].(美)斯蒂芬·福里斯特著  链接: http://pan.baidu.com/s/1jGtGcGQ 密码: zpq8  
 生命四元素 链接: http://pan.baidu.com/s/1c0m0Qre 密码: een1  
 顺逆皆宜的人生(简体终极收藏版)  链接: http://pan.baidu.com/s/1kT5PrOr 密码: d2gy  
 占星全书(鲁道夫)完整电子版  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7  
