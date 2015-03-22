@@ -1,3 +1,10 @@
+######占星入门（初级）书籍套装
+
+生命四元素 链接: http://pan.baidu.com/s/1c0m0Qre 密码: een1  
+顺逆皆宜的人生(简体终极收藏版)  链接: http://pan.baidu.com/s/1kT5PrOr 密码: d2gy  
+占星全书(鲁道夫)完整电子版  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7  
+当代古典占星研究珍藏版（希斯莉译） 链接: http://pan.baidu.com/s/1jGGGHng 密码: vjvy
+
 ######塔罗初学者套装
 直觉式塔罗 链接: http://pan.baidu.com/s/1mgvFI8S 密码: khu7  
 其实你已经很塔罗了 链接: http://pan.baidu.com/s/1i37XgFz 密码: 6x92  
