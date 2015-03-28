@@ -73,11 +73,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="read-iphone.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="read-iphone.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/read-iphone.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="55" selection-start="609" selection-end="609" vertical-scroll-proportion="0.33123028" vertical-offset="0" max-vertical-offset="645">
+            <state line="23" column="107" selection-start="1212" selection-end="1212" vertical-scroll-proportion="-13.833333" vertical-offset="13" max-vertical-offset="660">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read-android.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/read-android.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="7" selection-start="2059" selection-end="2059" vertical-scroll-proportion="0.85780525" vertical-offset="0" max-vertical-offset="647">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,6 +132,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/html/read-iphone.html" />
+        <option value="$PROJECT_DIR$/html/read-android.html" />
       </list>
     </option>
   </component>
@@ -217,6 +235,11 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="SearchEverywhereHistory" value="shoui" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
@@ -458,12 +481,12 @@
       <workItem from="1427087087748" duration="1417000" />
       <workItem from="1427121929961" duration="575000" />
       <workItem from="1427512968318" duration="3231000" />
-      <workItem from="1427547349651" duration="23000" />
+      <workItem from="1427547349651" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15925000" />
+    <option name="totallyTimeSpent" value="16981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1391" height="789" extended-state="0" />
@@ -696,8 +719,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/read-iphone.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="55" selection-start="609" selection-end="609" vertical-scroll-proportion="0.33123028" vertical-offset="0" max-vertical-offset="645">
+        <state line="23" column="107" selection-start="1212" selection-end="1212" vertical-scroll-proportion="-13.833333" vertical-offset="13" max-vertical-offset="660">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/read-android.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="7" selection-start="2059" selection-end="2059" vertical-scroll-proportion="0.85780525" vertical-offset="0" max-vertical-offset="647">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
