@@ -20,7 +20,7 @@
         .copy-title { display: none;}
         .bg-success { padding: 10px; display: none; margin-bottom: 10px;}
         .bg-success.on { display:block;}
-
+        .mail-title-box { display: none;}
     </style>
 </head>
 <body>
@@ -54,26 +54,26 @@
 
 
     <div class="mail-content">
-        <h3 style="margin-bottom: 10px"></h3>
-        <div class="content"></div>
+        <!--<h3 style="margin-bottom: 10px"></h3>-->
+        <!--<div class="content"></div>-->
 
-        <div class="bg-success on">
-            <h4>好评后请直接联系我，送天使音乐哦!</h4>
-        </div>
-        <div class="desc">
-            <h4>注意事项:</h4>
-            <ul>
-                <li>请点击上方相应商品的链接后，输入右边的密码，即可直接下载该商品，如果该商品为多个文件，您可按需单个下载，或选中整个跟目录全部下载(下载后的格式为.zip文件)即可.</li>
-                <li><strong>如何在iPhone手机上阅读:</strong> 如果您是iPhone用户通过iPhone进行下载，众所周知,由于苹果生态系统的封闭性，很多用户出现下载后无法找到该PDF或MP3文件(原因是查找该文件取决于您的下载应用的下载设置，比如UC浏览器或者qq邮箱等),因此建议您先在PC上进行下载后通过iTunes进行发送到您的iPhone上，比如PDF文件，您可以拖动到iTunes中的图书目录中，随后在手机上通过iPhone自带的应用iBooks打开即可观看.可<a href="http://zhidao.baidu.com/question/197369634.html" target="_blank">点击此处</a>查看详细步骤.</li>
-                <li><strong>如果您是android用户</strong>,一般可以直接通过文件管理、直接访问sd卡等方式查找到您的下载文件，或通过您的应用(比如您是通过UC浏览器下载的，则可在设置-下载管理中找到该文件)</li>
-                <li>关于下载后打开不开、打开是空白或文件损坏问题:</li>
-                <li>1、请先检查是否安装了PDF阅读器，所有电子书必须在PDF阅读器上阅读。</li>
-                <li>2、如果已经安装了PDF阅读器，那么就是网络问题没有下载好请重新下载。</li>
-                <li>3、如果下载很多次并也安装了PDF阅读都无法打开请联系我，我可以直接QQ传你。</li>
-                <li>4、一般在线传送文件都是完好的，不会因为网络而出现下载问题，如果在线传送之后仍无法打开请检查你的PDF阅读器是否需要重新安装或者修复。</li>
-            </ul>
-            <h4>祝您观赏愉快! <span>更多精彩内容请继续访问: <a href="http://shop110618977.taobao.com" target="_blank">暮雪的藏书阁[新纪元灵性之光]</a></span></h4>
-        </div>
+        <!--<div class="bg-success on">-->
+            <!--<h4>好评后请直接联系我，送天使音乐哦!</h4>-->
+        <!--</div>-->
+        <!--<div class="desc">-->
+            <!--<h4>注意事项:</h4>-->
+            <!--<ul>-->
+                <!--<li>请点击上方相应商品的链接后，输入右边的密码，即可直接下载该商品，如果该商品为多个文件，您可按需单个下载，或选中整个跟目录全部下载(下载后的格式为.zip文件)即可.</li>-->
+                <!--<li><strong>如何在iPhone手机上阅读:</strong> 如果您是iPhone用户通过iPhone进行下载，众所周知,由于苹果生态系统的封闭性，很多用户出现下载后无法找到该PDF或MP3文件(原因是查找该文件取决于您的下载应用的下载设置，比如UC浏览器或者qq邮箱等),因此建议您先在PC上进行下载后通过iTunes进行发送到您的iPhone上，比如PDF文件，您可以拖动到iTunes中的图书目录中，随后在手机上通过iPhone自带的应用iBooks打开即可观看.可<a href="http://zhidao.baidu.com/question/197369634.html" target="_blank">点击此处</a>查看详细步骤.</li>-->
+                <!--<li><strong>如果您是android用户</strong>,一般可以直接通过文件管理、直接访问sd卡等方式查找到您的下载文件，或通过您的应用(比如您是通过UC浏览器下载的，则可在设置-下载管理中找到该文件)</li>-->
+                <!--<li>关于下载后打开不开、打开是空白或文件损坏问题:</li>-->
+                <!--<li>1、请先检查是否安装了PDF阅读器，所有电子书必须在PDF阅读器上阅读。</li>-->
+                <!--<li>2、如果已经安装了PDF阅读器，那么就是网络问题没有下载好请重新下载。</li>-->
+                <!--<li>3、如果下载很多次并也安装了PDF阅读都无法打开请联系我，我可以直接QQ传你。</li>-->
+                <!--<li>4、一般在线传送文件都是完好的，不会因为网络而出现下载问题，如果在线传送之后仍无法打开请检查你的PDF阅读器是否需要重新安装或者修复。</li>-->
+            <!--</ul>-->
+            <!--<h4>祝您观赏愉快! <span>更多精彩内容请继续访问: <a href="http://shop110618977.taobao.com" target="_blank">暮雪的藏书阁[新纪元灵性之光]</a></span></h4>-->
+        <!--</div>-->
 
     </div>
 
@@ -190,17 +190,55 @@
         //最终生成html
         function createFinalContent() {
 
-            mailTitle.text(TAOBAONAME + '-' + decodeURIComponent(finalDataArray[0].title) + (finalDataArray.length > 1 ? '等多件' : ''));
+            mailContent.load('tpl.html',function(d) {
 
-            var contentTitle = '亲爱的' + (userName ? userName : '') + (orderId ? '(订单号' + orderId + ')' : '') + ',以下为您拍下的宝贝:';
-            mailContent.find('h3').text(contentTitle);
+                //设置复制title内容
+                mailTitle.text(TAOBAONAME + '-' + decodeURIComponent(finalDataArray[0].title) + (finalDataArray.length > 1 ? '等多件' : ''));
+                
+                //清空数据
+                var mailTplTitle = mailContent.find('.mail-mx-title').empty();
+                var mailTplContent = mailContent.find('.mail-mx-content').empty();
 
-            var lists = '';
-            for(var i=0;i<finalDataArray.length;i++) {
-                lists += '<h4>'+ (i+1) +'.' + decodeURIComponent(finalDataArray[i].title) + '</h4>';
-                lists += '<div class="list" style="margin-bottom: 20px">'+ decodeURIComponent(finalDataArray[i].content) +'</div>';
-            }
-            mailContent.find('.content').html(lists);
+                //设置mail title
+                var contentTitle = '亲爱的 <strong style="color:#645a7e;">' + (userName ? userName : '') + '</strong> ' + (orderId ? '(订单号' + orderId + ')' : '') + ',以下为您拍下的宝贝:';
+                mailTplTitle.html(contentTitle);
+ 
+                //设置mail content
+                var lists = '';
+                for(var i=0;i<finalDataArray.length;i++) {
+                    
+                   lists += '<div style="border-bottom: 1px dashed #ccc; margin-bottom: 5px;">';
+                   lists += '<div style="font-weight: bold; padding:5px 10px 0 10px; margin:0; ">'+ (i+1) +'.' + decodeURIComponent(finalDataArray[i].title) + '</div>';
+                    
+                   //更新content html
+                   var _content = decodeURIComponent(finalDataArray[i].content);
+                   _content = _content.replace(/\<a/gi,'<a style="color:#645a7e; text-decoration: underline;"');
+                   _content = _content.replace(/链接/g,'<br/>链接');
+                   _content = _content.replace(/密码:([^\n]+)/gi,'<br/>密码:<strong style="color:#645a7e;">$1</strong><div style="padding-bottom: 6px;"></div>');
+                   
+                   lists += '<div style="padding:5px 10px 5px 10px; margin:0;">'+ _content +'</div>';
+                   lists += '</div>';
+                }
+                
+                mailTplContent.html(lists);
+                mailTplContent.find('> div:last').css({
+                    'border':'none',
+                    'margin':'0'
+                });
+                
+            });
+            
+//            mailTitle.text(TAOBAONAME + '-' + decodeURIComponent(finalDataArray[0].title) + (finalDataArray.length > 1 ? '等多件' : ''));
+//
+//            
+//            mailContent.find('h3').text(contentTitle);
+//
+//            var lists = '';
+//            for(var i=0;i<finalDataArray.length;i++) {
+//                lists += '<h4>'+ (i+1) +'.' + decodeURIComponent(finalDataArray[i].title) + '</h4>';
+//                lists += '<div class="list" style="margin-bottom: 20px">'+ decodeURIComponent(finalDataArray[i].content) +'</div>';
+//            }
+//            mailContent.find('.content').html(lists);
         }
 
         
