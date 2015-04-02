@@ -192,6 +192,12 @@
 
             mailContent.load('tpl.html',function(d) {
 
+                
+                if(!finalDataArray.length) {
+                    alert('数据错误，请检查');
+                    return false;
+                }
+                
                 //设置复制title内容
                 mailTitle.text(TAOBAONAME + '-' + decodeURIComponent(finalDataArray[0].title) + (finalDataArray.length > 1 ? '等多件' : ''));
                 
