@@ -149,7 +149,7 @@
       <file leaf-file-name="read-android.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/read-android.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.8044164" vertical-offset="0" max-vertical-offset="645">
+            <state line="16" column="7" selection-start="628" selection-end="628" vertical-scroll-proportion="0.3785489" vertical-offset="0" max-vertical-offset="645">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -548,12 +548,12 @@
       <workItem from="1427547349651" duration="15690000" />
       <workItem from="1427807062359" duration="4415000" />
       <workItem from="1427894548887" duration="937000" />
-      <workItem from="1427946446482" duration="545000" />
+      <workItem from="1427946446482" duration="1032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37489000" />
+    <option name="totallyTimeSpent" value="37976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1391" height="789" extended-state="0" />
@@ -1623,7 +1623,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/read-android.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.8044164" vertical-offset="0" max-vertical-offset="645">
+        <state line="16" column="7" selection-start="628" selection-end="628" vertical-scroll-proportion="0.3785489" vertical-offset="0" max-vertical-offset="645">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
