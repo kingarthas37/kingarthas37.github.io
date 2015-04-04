@@ -237,7 +237,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######灵气为你带来丰盛 体验42天灵气方案
 灵气为你带来丰盛-42天丰盛计划  链接: http://pan.baidu.com/s/1bnbD2Tx 密码: ihhq
 
-######顺逆皆宜的人生（即台版书《占星相位研究》英国最资深占星学
+######顺逆皆宜的人生(台版:占星相位研究)
 顺逆皆宜的人生(简体终极收藏版)  链接: http://pan.baidu.com/s/1kT5PrOr 密码: d2gy
 
 ######掌握数字掌握命运
@@ -266,7 +266,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######女巫咒语
 【咒语书】女巫咒语之书 中文版魔法书籍    链接: http://pan.baidu.com/s/1GrdG6 密码: f6il
 
-######内在的天空：占星学入门（实用性与可读性兼得的占星入门书）
+######内在的天空-占星学入门
 [内在的天空：占星学入门].(美)斯蒂芬·福里斯特著  链接: http://pan.baidu.com/s/1jGtGcGQ 密码: zpq8
 
 ######舍得让你的爱人受苦
@@ -290,7 +290,7 @@ A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 ######能量水晶疗愈全书
 水晶能量疗愈全书  链接: http://pan.baidu.com/s/1eQGOThg 密码: 6ewh
 
-######生命四元素
+######生命四元素-占星与心理学
 生命四元素 链接: http://pan.baidu.com/s/1c0m0Qre 密码: een1
 
 ######塔罗神咒
@@ -302,7 +302,7 @@ A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 ######人体气场彩光学
 人体气场彩光学(彩图版）  链接: http://pan.baidu.com/s/1o6DQJCu 密码: 7dad
 
-######當代古典占星研究:入門古典占星的第一本書
+######当代古典占星研究
 当代古典占星研究珍藏版（希斯莉译） 链接: http://pan.baidu.com/s/1jGGGHng 密码: vjvy
 
 ######心理占星学全书（鲁道夫）
