@@ -272,7 +272,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######舍得让你的爱人受苦
 舍得让你爱的人受苦  链接: http://pan.baidu.com/s/1gds0qyR 密码: j3ob
 
-######女巫笔记 巫术课程入门（适合初学者）A witchs notebook
+######女巫笔记-巫术课程初学者入门(英文版)
 A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 
 ######占星全书-占星学的基础理论(鲁道夫)
