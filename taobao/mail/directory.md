@@ -263,8 +263,8 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######《水晶的智慧》陶世惠
 水晶的智慧  链接: http://pan.baidu.com/s/1CnsGA 密码: jjmu
 
-######女巫咒语之书 中文版
-【咒语书】女巫咒语之书++中文版魔法书籍    链接: http://pan.baidu.com/s/1GrdG6 密码: f6il
+######女巫咒语
+【咒语书】女巫咒语之书 中文版魔法书籍    链接: http://pan.baidu.com/s/1GrdG6 密码: f6il
 
 ######内在的天空：占星学入门（实用性与可读性兼得的占星入门书）
 [内在的天空：占星学入门].(美)斯蒂芬·福里斯特著  链接: http://pan.baidu.com/s/1jGtGcGQ 密码: zpq8
