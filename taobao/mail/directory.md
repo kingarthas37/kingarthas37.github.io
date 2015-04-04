@@ -10,7 +10,7 @@
 [内在的天空：占星学入门].(美)斯蒂芬·福里斯特著  链接: http://pan.baidu.com/s/1jGtGcGQ 密码: zpq8  
 生命四元素 链接: http://pan.baidu.com/s/1c0m0Qre 密码: een1  
 顺逆皆宜的人生(简体终极收藏版)  链接: http://pan.baidu.com/s/1kT5PrOr 密码: d2gy  
-占星全书(鲁道夫)完整电子版  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7  
+占星全书-占星学的基础理论(鲁道夫)  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7  
 当代古典占星研究珍藏版（希斯莉译） 链接: http://pan.baidu.com/s/1jGGGHng 密码: vjvy
 
 ######塔罗初学者套装
@@ -275,8 +275,8 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######女巫笔记 巫术课程入门（适合初学者）A witchs notebook
 A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 
-######占星全书（魯道夫 ）占星學的基礎理論
-占星全书(鲁道夫)完整电子版  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7
+######占星全书-占星学的基础理论(鲁道夫)
+占星全书-占星学的基础理论(鲁道夫)  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7
 
 ######水晶轻松疗：与天然晶石合作身心灵疗愈不求人
 水晶轻松疗  链接: http://pan.baidu.com/s/1qW2XrUc 密码: nwmh
