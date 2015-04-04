@@ -2,7 +2,7 @@
 演化占星学入门-从冥王星看你的业力使命  链接: http://pan.baidu.com/s/1mgBSWdi 密码: 8e6n  
 卜卦全占星 链接:  http://pan.baidu.com/s/1jG7Tpcy 密码: ldg1  
 占星流年收藏版(鲁道夫)  链接: http://pan.baidu.com/s/1i3zhNrJ 密码: kdnn  
-人际合盘占星全书 鲁道夫 链接: http://pan.baidu.com/s/1o6NviGU 密码: bt3y  
+人际合盘占星全书(鲁道夫) 链接: http://pan.baidu.com/s/1o6NviGU 密码: bt3y  
 心理占星学全书（鲁道夫）完整版  链接: http://pan.baidu.com/s/1hqw1YoW 密码: 96dc  
 家族占星（珍藏版）  链接: http://pan.baidu.com/s/1gdBxjOJ 密码: wkhy
 
@@ -45,7 +45,7 @@
 ######灵摆风水应用
 灵摆风水应用 链接：http://pan.baidu.com/s/1bncuB7p 密码：lh2d
 
-######人际合盘占星全书 鲁道夫
+######人际合盘占星全书(鲁道夫)
 人际合盘占星全书 鲁道夫 链接: http://pan.baidu.com/s/1o6NviGU 密码: bt3y
 
 ######策划案/化妆品策划案
