@@ -7,3 +7,4 @@
 .skin-box-bd .menu-list .link {background:#645a7e; }
 .skin-box-bd .menu-list .menu-hover .link { background: #978bb1; color:#fff;}
 .skin-box-bd .menu-list .menu-hover .link span { color:#fff;}
+.skin-box-bd .menu-list .menu-selected .link .title { background:#645a7e; }
