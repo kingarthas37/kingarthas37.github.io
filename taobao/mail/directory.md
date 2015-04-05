@@ -284,7 +284,7 @@ A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 ######西方魔法/多梅塞斯的21个咒语 (Domesius) 中文版.pdf
 多梅塞斯的21个咒语 中文版  链接: http://pan.baidu.com/s/1qWI6xMc 密码: 88u1
 
-######家族占星-鲁道夫
+######家族占星(鲁道夫)
 家族占星（珍藏版）  链接: http://pan.baidu.com/s/1gdBxjOJ 密码: wkhy
 
 ######能量水晶疗愈全书
