@@ -231,7 +231,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######手指疗法的秘密
 手指疗法的秘密(全文)  链接: http://pan.baidu.com/s/1qWyn80c 密码: u156
 
-######《占星流年》占星进阶
+######占星流年(鲁道夫)
 占星流年收藏版(鲁道夫)  链接: http://pan.baidu.com/s/1i3zhNrJ 密码: kdnn
 
 ######灵气为你带来丰盛 体验42天灵气方案
