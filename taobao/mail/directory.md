@@ -83,7 +83,7 @@
 芳香疗法情绪心理配方宝典  链接: http://pan.baidu.com/s/1dDgZd8P 密码: bv7q  
 [莫利夫人的芳香疗法指南].(英)玛格利特·莫利  链接: http://pan.baidu.com/s/1mgA7cCC 密码: dwcs
 
-######莫利夫人的芳香疗法指南z
+######莫利夫人的芳香疗法指南
 [莫利夫人的芳香疗法指南].(英)玛格利特·莫利  链接: http://pan.baidu.com/s/1mgA7cCC 密码: dwcs
 
 ######芳香疗法情绪心理配方宝典
