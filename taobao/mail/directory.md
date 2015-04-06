@@ -352,7 +352,7 @@ White_Spells  链接: http://pan.baidu.com/s/1qWmItXU 密码: rcdh
 ######察库拉之旅/灵气脉轮疗愈音乐/Journey of chakras
 新察库拉之旅 脉轮  链接: http://pan.baidu.com/s/1pJiGAeB 密码: htfw
 
-######门罗双脑同步 Remembrance 增强记忆力 增进问题解决能力、创造力
+######门罗双脑同步-Remembrance-增强记忆力
 增强记忆力Remembrance（增进问题解决能力、创造力）  链接: http://pan.baidu.com/s/1eQIQLBs 密码: 7z66
 
 ######灵气能量音乐/五元素能量音乐/净化空间音乐
