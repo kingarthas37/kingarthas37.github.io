@@ -370,7 +370,7 @@ ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
 ######灵气/灵修音乐(奥修塔罗音乐) Osho Zen Taro
 瑜伽音乐-Osho Zen Tarot 奥修禅塔罗多种风格集合  链接：http://pan.baidu.com/s/197ixg 密码：uhws
 
-######灵气治疗之光【 Healing Light 】 强大的能量治疗868240
+######灵气治疗之光(Healing Light)强大的能量治疗
 灵气 - 治疗之光 Healing Light  链接: http://pan.baidu.com/s/1o6LstOA 密码: cmdx
 
 ######天使疗愈音乐-天使之爱
