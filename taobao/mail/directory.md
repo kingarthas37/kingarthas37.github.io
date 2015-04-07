@@ -376,7 +376,7 @@ ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
 ######天使疗愈音乐-天使之爱
 身体工房馆-天使疗愈花园-天使之爱  链接: http://pan.baidu.com/s/1tWzGa 密码: 64ga
 
-######花精音乐/情绪疗愈 2合辑 情绪治疗咨询师黄露仪精心创作
+######花精音乐/情绪疗愈-2合辑-情绪治疗咨询师黄露仪精心创作
 花精  链接: http://pan.baidu.com/s/1mgn60Nu 密码: dl2h
 
 ######脉轮疗愈组曲-深层放松的享受 Chakra Suite
