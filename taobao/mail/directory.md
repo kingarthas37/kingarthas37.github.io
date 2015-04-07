@@ -367,7 +367,7 @@ healing music for reiki     链接: http://pan.baidu.com/s/1nttAa9b 密码: oh1h
 ######超意识ESP-心智中心-成功与富裕-冥想潜意识音乐
 ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
 
-######灵气/灵修音乐《奥修塔罗音乐》Osho Zen Taro
+######灵气/灵修音乐(奥修塔罗音乐) Osho Zen Taro
 瑜伽音乐-Osho Zen Tarot 奥修禅塔罗多种风格集合  链接：http://pan.baidu.com/s/197ixg 密码：uhws
 
 ######灵气治疗之光【 Healing Light 】 强大的能量治疗868240
