@@ -385,7 +385,7 @@ ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
 ######脉轮音乐/Chakra Balancing紧随能量振动
 Chakra Balancing紧随能量振动 感受脉轮跳动的灵性瑜伽音乐  链接: http://pan.baidu.com/s/1pJE4Ght 密码: naej
 
-######郭怀慈瑜伽冥想引导词
+######郭怀慈瑜伽冥想引导词合辑
 郭怀慈音乐  链接: http://pan.baidu.com/s/1hq6BzgC 密码: 3qts
 
 ######灵修音乐 曼陀罗(咒)深远空灵休息 Mantra Chill Out Lounge
