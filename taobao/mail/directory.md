@@ -379,7 +379,7 @@ ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
 ######花精音乐/情绪疗愈 2合辑 情绪治疗咨询师黄露仪精心创作
 花精  链接: http://pan.baidu.com/s/1mgn60Nu 密码: dl2h
 
-######脉轮疗愈组曲 Chakra Suite深层放松的享受
+######脉轮疗愈组曲-深层放松的享受 Chakra Suite
 脉轮能量组曲 Chakra Suite深层放松的享受 合一灵性瑜伽音乐  链接: http://pan.baidu.com/s/1kTKc6iz 密码: 205c
 
 ######脉轮音乐/Chakra Balancing紧随能量振动
