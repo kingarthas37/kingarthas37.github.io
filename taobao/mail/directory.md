@@ -364,7 +364,7 @@ healing music for reiki     链接: http://pan.baidu.com/s/1nttAa9b 密码: oh1h
 ######灵静修音乐-心灵温泉
 瑜伽音乐 身.心.灵静修音乐-心灵温泉  链接: http://pan.baidu.com/s/1jGIcCGA 密码: gqvg
 
-######超意识ESP“心智中心”&“成功与富裕” 冥想潜意识音乐
+######超意识ESP-心智中心-成功与富裕-冥想潜意识音乐
 ESP  链接: http://pan.baidu.com/s/1hq1RKpu 密码: v65c
 
 ######灵气/灵修音乐《奥修塔罗音乐》Osho Zen Taro
