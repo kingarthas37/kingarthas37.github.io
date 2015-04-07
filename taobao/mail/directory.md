@@ -358,7 +358,7 @@ White_Spells  链接: http://pan.baidu.com/s/1qWmItXU 密码: rcdh
 ######灵气能量音乐/五元素能量音乐/净化空间音乐
 灵气能量音乐+五元素能量音乐+净化空间音乐  链接: http://pan.baidu.com/s/1kTFsNBL 密码: g2dr
 
-######瑜伽音乐/ 灵气音乐/Healing Music for Reiki*合辑
+######瑜伽音乐/灵气音乐/Healing Music for Reiki合辑
 healing music for reiki     链接: http://pan.baidu.com/s/1nttAa9b 密码: oh1h
 
 ######灵静修音乐-心灵温泉
