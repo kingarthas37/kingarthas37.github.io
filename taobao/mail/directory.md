@@ -296,7 +296,7 @@ A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 ######塔罗神咒
 塔罗神咒(完整版)  链接: http://pan.baidu.com/s/1o6unUmI 密码: cmmk
 
-######招财魔法书 财富魔法咒语书
+######招财魔法书-财富魔法咒语书(英文版)
 招财魔法书+财富魔法咒语书  链接: http://pan.baidu.com/s/1c0etr9Y 密码: pxmf
 
 ######人体气场彩光学
