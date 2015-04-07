@@ -311,7 +311,7 @@ A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 ######Hedge女巫魔法仪式 自然魔法仪式
 Hedge女巫魔法仪式+自然魔法仪式+自然类魔法  链接: http://pan.baidu.com/s/1jGABfP8 密码: yn3w
 
-######西方白魔法-White Spells:Magic for Love,Money & Happiness
+######西方白魔法(英文版)White Spells:Magic for Love,Money&Happines
 White_Spells  链接: http://pan.baidu.com/s/1qWmItXU 密码: rcdh
 
 ######卜卦全占星
