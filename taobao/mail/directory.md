@@ -18,7 +18,7 @@
 其实你已经很塔罗了 链接: http://pan.baidu.com/s/1i37XgFz 密码: 6x92  
 塔罗葵花宝典 链接: http://pan.baidu.com/s/1dDxpVJr 密码: acff
 
-######吉普赛的人的魔法咒语书
+######吉普赛的人的魔法咒语书(英文版)
 吉普赛的人的魔法咒语书 链接: http://pan.baidu.com/s/1dDetdWd 密码: bi7g
 
 ######玛法达的魔法宝盒
