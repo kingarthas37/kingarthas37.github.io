@@ -308,7 +308,7 @@ A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 ######心理占星学全书(鲁道夫)
 心理占星学全书（鲁道夫）完整版  链接: http://pan.baidu.com/s/1hqw1YoW 密码: 96dc
 
-######Hedge女巫魔法仪式 自然魔法仪式
+######Hedge女巫魔法仪式-自然魔法仪式(英文版)
 Hedge女巫魔法仪式+自然魔法仪式+自然类魔法  链接: http://pan.baidu.com/s/1jGABfP8 密码: yn3w
 
 ######西方白魔法(英文版)White Spells:Magic for Love,Money&Happines
