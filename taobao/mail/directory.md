@@ -234,7 +234,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######占星流年(鲁道夫)
 占星流年收藏版(鲁道夫)  链接: http://pan.baidu.com/s/1i3zhNrJ 密码: kdnn
 
-######灵气为你带来丰盛 体验42天灵气方案
+######灵气为你带来丰盛-体验42天灵气方案
 灵气为你带来丰盛-42天丰盛计划  链接: http://pan.baidu.com/s/1bnbD2Tx 密码: ihhq
 
 ######顺逆皆宜的人生(台版:占星相位研究)
