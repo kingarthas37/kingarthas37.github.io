@@ -251,7 +251,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 千年秘咒大公开  链接: http://pan.baidu.com/s/1cv1Jw 密码: 5tmd  
 灵符改运秘法  链接: http://pan.baidu.com/s/1mg1d8HM 密码: 2bmi
 
-######道教秘法/茅山符咒（入门、制煞、精华）三本全集
+######道教秘法/茅山符咒(入门-制煞-精华)三本全集
 茅山符咒三本全集  链接: http://pan.baidu.com/s/1bnk0Vqn 密码: guo3
 
 ######生命密码-蓝仕宁
