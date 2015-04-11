@@ -260,7 +260,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######王品豊/這樣拜才有錢
 这样拜，才有钱  链接：http://pan.baidu.com/s/1o6uoTaa 密码：dgah
 
-######《水晶的智慧》陶世惠
+######水晶的智慧
 水晶的智慧  链接: http://pan.baidu.com/s/1CnsGA 密码: jjmu
 
 ######女巫咒语
