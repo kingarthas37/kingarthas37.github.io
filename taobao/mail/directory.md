@@ -278,7 +278,7 @@ A Witchs Notebook  链接: http://pan.baidu.com/s/1pJ7de5P 密码: fwcy
 ######占星全书-占星学的基础理论(鲁道夫)
 占星全书-占星学的基础理论(鲁道夫)  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7
 
-######水晶轻松疗：与天然晶石合作身心灵疗愈不求人
+######水晶轻松疗-与天然晶石合作身心灵疗愈不求人
 水晶轻松疗  链接: http://pan.baidu.com/s/1qW2XrUc 密码: nwmh
 
 ######西方魔法-多梅塞斯的21个咒语(Domesius)
