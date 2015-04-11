@@ -317,7 +317,7 @@ White_Spells  链接: http://pan.baidu.com/s/1qWmItXU 密码: rcdh
 ######卜卦全占星
 卜卦全占星 链接:  http://pan.baidu.com/s/1jG7Tpcy 密码: ldg1
 
-######掌握靈氣磁場的技巧
+######掌握灵气磁场的技巧
 掌握靈氣磁場的技巧+_傑佛瑞  链接: http://pan.baidu.com/s/1sjnwpi9 密码: p5cq
 
 ######打通你的气场
