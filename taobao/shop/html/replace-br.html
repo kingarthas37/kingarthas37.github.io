@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+<textarea name="" style="width: 80%;" id="textarea" cols="30" rows="10"></textarea>
+
+<br/>
+<input id="btn" type="button" value="替换"/>
+
+<script>
+    
+    var text = document.getElementById('textarea');
+    
+    
+    document.getElementById('btn').addEventListener('click',function() {
+        
+        var value = text.value;
+        value = value.replace(/([^\n])\n/g,'$1<br/>');
+        
+        text.value = value;
+        
+    });
+    
+    
+</script>
+
+
+</body>
+</html>
