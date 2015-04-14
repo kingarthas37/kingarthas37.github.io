@@ -326,7 +326,7 @@ White_Spells  链接: http://pan.baidu.com/s/1qWmItXU 密码: rcdh
 ######脉轮全书
 脉轮全书（珍藏版）艾诺蒂．朱迪斯  链接: http://pan.baidu.com/s/1o6OGd9C 密码: g43w
 
-######密宗/图解藏密财神法
+######密宗-图解藏密财神法
 图解藏密财神法  链接: http://pan.baidu.com/s/1eQjESEI 密码: xvd3
 
 ######密教超能力咒术 打手印/真言宗 中冈俊哉 大坤书局
