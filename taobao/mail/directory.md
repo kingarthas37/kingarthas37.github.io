@@ -183,7 +183,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######七轮禅宗-冥想-脉轮-能量口诀(中文)
 七轮禅宗 脉轮能量口诀  链接: http://pan.baidu.com/s/1i3tdY3V 密码: f6g3
 
-######图解德鲁克：头脑整理术&整理的艺术1，2三本
+######图解德鲁克-头脑整理术,整理的艺术1,2三本
 图解德鲁克+头脑整理术  链接: http://pan.baidu.com/s/1mgJu1EK 密码: zkan  
 整理的艺术2+（日）小山龙介著；阿修菌译  链接: http://pan.baidu.com/s/1qWAyPNu 密码: ppau  
 整理的艺术+（日）小山龙介著  链接: http://pan.baidu.com/s/1kTGEGQj 密码: b7ld
