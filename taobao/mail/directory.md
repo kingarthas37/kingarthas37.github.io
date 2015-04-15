@@ -30,10 +30,8 @@
 ######新大开运吉方位
 新大开运吉方位 链接：http://pan.baidu.com/s/1c02H1iK 密码：1y66
 
-######事业满分开运餐
-事业满分开运餐 链接：http://pan.baidu.com/s/1mg64QAc 密码：qplf
-
-######开运招财全家补
+######开运饮食套书-事业满分开运餐+开运招财全家补
+事业满分开运餐 链接：http://pan.baidu.com/s/1mg64QAc 密码：qplf  
 开运招财全家补 链接：http://pan.baidu.com/s/1c0lg3LI 密码：c1gw
 
 ######生命密码催发运程
