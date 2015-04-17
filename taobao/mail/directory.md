@@ -8,7 +8,7 @@
 
 ######占星入门(初级)书籍套装
 [内在的天空：占星学入门].(美)斯蒂芬·福里斯特著  链接: http://pan.baidu.com/s/1jGtGcGQ 密码: zpq8  
-生命四元素 链接: http://pan.baidu.com/s/1c0m0Qre 密码: een1  
+生命四元素 链接: http://pan.baidu.com/s/1c0m0Qre 密码: een这样拜才有钱1  
 顺逆皆宜的人生(简体终极收藏版)  链接: http://pan.baidu.com/s/1kT5PrOr 密码: d2gy  
 占星全书-占星学的基础理论(鲁道夫)  链接: http://pan.baidu.com/s/1xukUy 密码: 4sf7  
 当代古典占星研究珍藏版（希斯莉译） 链接: http://pan.baidu.com/s/1jGGGHng 密码: vjvy
@@ -255,7 +255,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######生命密码-蓝仕宁
 生命密码  链接: http://pan.baidu.com/s/1pJ2twRh 密码: 1eg8
 
-######王品豊/這樣拜才有錢
+######这样拜才有钱
 这样拜，才有钱  链接：http://pan.baidu.com/s/1o6uoTaa 密码：dgah
 
 ######水晶的智慧
