@@ -64,7 +64,7 @@
 ######让你跨入有钱有闲族的扫除力
 跨入有钱有闲族的扫除力+（日）舛田光洋著+2012链接：http://pan.baidu.com/s/1eQxSPk2 密码：q29s
 
-######拜拜三本合集(好神引导&这样拜才有钱&这样拜才有出头天)
+######拜拜三本合集(好神引导,这样拜才有钱,这样拜才有出头天)
 《这样拜，才有出头天》链接：http://pan.baidu.com/s/1ntuWQIt 密码：ozj1  
 《好神引导,一拜见效》链接：http://pan.baidu.com/s/1eQs3tC2 密码：3z6v  
 《这样拜，才有钱》 链接：http://pan.baidu.com/s/1o6uoTaa 密码：dgah
