@@ -196,7 +196,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######银座红牌驭男术& 银座妈妈桑教的&银座妈妈桑说话术三本合集
 银座  链接: http://pan.baidu.com/s/1bno4FiJ 密码: e4x6
 
-######业力管理（美）麦克·罗奇著
+######业力管理
 业力管理+善用业力法则、创造富足人生 链接: http://pan.baidu.com/s/1i3EaVXV 密码: fw8j
 
 ######法国名媛的优雅圣经
