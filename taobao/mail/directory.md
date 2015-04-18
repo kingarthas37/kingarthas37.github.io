@@ -244,7 +244,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######有求必应,摆对就灵-风水盆栽图解全攻略
 有求必應，擺對就靈+風水盆栽圖解全攻略  链接: http://pan.baidu.com/s/1qW4Zkle 密码: f1co
 
-######符咒妙术秘法&千年秘咒大公开&灵符改运秘法三本合集
+######符咒妙术秘法,千年秘咒大公开,灵符改运秘法三本合集
 符咒妙术秘法--台湾程灵凡  链接: http://pan.baidu.com/s/1kTwvS8n 密码: 8vvi  
 千年秘咒大公开  链接: http://pan.baidu.com/s/1cv1Jw 密码: 5tmd  
 灵符改运秘法  链接: http://pan.baidu.com/s/1mg1d8HM 密码: 2bmi
