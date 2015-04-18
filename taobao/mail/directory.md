@@ -205,7 +205,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######婚姻决定女人的一生
 婚姻，决定女人的一生  链接: http://pan.baidu.com/s/1ntt9Zlf 密码: rxrl
 
-######好命新女學：女人，不可不讀的幸福寶典
+######好命新女学-女人,不可不读的幸福宝典
 好命新女學：女人，不可不讀的幸福寶典  链接: http://pan.baidu.com/s/1qW8wV5y 密码: j3hd
 
 ######我是家政女王
