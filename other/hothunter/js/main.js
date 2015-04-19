@@ -12,6 +12,7 @@
     
     //menu
     var $menu = $('.menu'),
+        $menuList = $menu.find('ul'),
         scrollTop = 0;
     $(window).scroll(function() {
         var top = $(this).scrollTop();
@@ -22,6 +23,7 @@
             $menu.removeClass('active');
         }
         
+        changeMenuLink();
         changeBackground();
         
     });
@@ -29,11 +31,19 @@
     
     //link direct
     var $html = $('html,body');
+    var menuPosArr = [];
+    var currentMenuLink = 0;
     
     $('div[data-target]').each(function() {
+        var top = $(this).offset().top,
+            height = $(this).height();
         $(this).attr({
-            'data-top':$(this).offset().top,
-            'data-height':$(this).height()
+            'data-top':top,
+            'data-height':height
+        });
+        menuPosArr.push({
+            top:top,
+            height:height + top
         });
     });
     
@@ -44,8 +54,23 @@
     });
     
     
-    //change background
+    //change menu link
+    function changeMenuLink() {
+        $.each(menuPosArr,function(i,n) {
+            
+            if (scrollTop >= n.top - 120 && scrollTop <= n.height - 120  && i !== currentMenuLink) {
+                currentMenuLink = i;
+                console.log(i);
+                $menuList.find('.active').removeClass('active');
+                $menuList.find('a').eq(i).addClass('active');
+                return;
+            }
+            
+        });
+    }
     
+    
+    //change background
     function changeBackground() {
         
         if(scrollTop >= 0 && scrollTop <= $home.attr('data-height')) {

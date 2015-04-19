@@ -67,7 +67,7 @@ body {
     top:0;
     left:0;
     background: #fff;
-    padding:0 20px;
+    padding:0 10px;
 }
 
 .menu.active {
@@ -78,7 +78,6 @@ body {
 }
 
 .menu .country {
-    margin-left: 10px;
     float:left;
     height: 80px;
     line-height: 80px;
@@ -111,9 +110,12 @@ body {
 }
 
 .menu ul {
+    margin:0;
+    padding:0;
     float:right;
     overflow: hidden;
     text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .menu li {
@@ -335,7 +337,7 @@ h2.even span {
 
 .footer {
     text-align: center;
-    padding:40px 0;
+    padding:40px 0 120px 0;
     color:#666;
 }
 
@@ -346,4 +348,14 @@ h2.even span {
     .menu .country {
         float:right;
     }
+}
+
+
+.en .menu .logo {
+    background-image: url('../images/logo-en.png');
+}
+
+.en .menu li a {
+    padding:0 5px;
+    font-size: 14px;
 }
