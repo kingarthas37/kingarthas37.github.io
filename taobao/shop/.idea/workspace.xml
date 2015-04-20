@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="detail-main-book.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="detail-main-book.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/detail-main-book.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="7" selection-start="743" selection-end="743" vertical-scroll-proportion="0.4490818" vertical-offset="301" max-vertical-offset="900">
+            <state line="37" column="12" selection-start="735" selection-end="735" vertical-scroll-proportion="-3.21519" vertical-offset="301" max-vertical-offset="900">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -76,6 +76,55 @@
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="0" selection-start="11058" selection-end="11058" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="645">
+              <folding>
+                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-detail.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/index-detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="0" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.6713147" vertical-offset="263" max-vertical-offset="765">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#table#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail-titles.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/detail-titles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="5" selection-start="777" selection-end="777" vertical-scroll-proportion="-14.375" vertical-offset="90" max-vertical-offset="720">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,7 +154,6 @@
         <option value="$PROJECT_DIR$/html/index-detail-1.html" />
         <option value="$PROJECT_DIR$/back.html" />
         <option value="$PROJECT_DIR$/html/detail-bottom.html" />
-        <option value="$PROJECT_DIR$/html/index-detail.html" />
         <option value="$PROJECT_DIR$/html/read-iphone.html" />
         <option value="$PROJECT_DIR$/html/read-android.html" />
         <option value="$PROJECT_DIR$/html/detail-title-author.html" />
@@ -113,13 +161,14 @@
         <option value="$PROJECT_DIR$/html/detail-title-catelog.html" />
         <option value="$PROJECT_DIR$/html/detail-title-content-description.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/all.html" />
         <option value="$PROJECT_DIR$/html/detail-main.html" />
-        <option value="$PROJECT_DIR$/html/detail-titles.html" />
         <option value="$PROJECT_DIR$/../../../../react-demos/demo01.1/index.html" />
         <option value="$PROJECT_DIR$/html/detail-main-music.html" />
         <option value="$PROJECT_DIR$/html/replace-br.html" />
+        <option value="$PROJECT_DIR$/html/detail-titles.html" />
         <option value="$PROJECT_DIR$/html/detail-main-book.html" />
+        <option value="$PROJECT_DIR$/all.html" />
+        <option value="$PROJECT_DIR$/html/index-detail.html" />
       </list>
     </option>
   </component>
@@ -499,7 +548,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117212000" />
+    <option name="totallyTimeSpent" value="120589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="23" width="1376" height="798" extended-state="0" />
@@ -509,7 +558,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17847025" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -781,11 +830,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="561" selection-end="561" vertical-scroll-proportion="30.458334" vertical-offset="1016" max-vertical-offset="1860" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="34" selection-start="795" selection-end="795" vertical-scroll-proportion="0.23622048" vertical-offset="0" max-vertical-offset="635" />
@@ -794,16 +838,6 @@
     <entry file="file://$PROJECT_DIR$/html/detail-bottom.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="31" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1680" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/detail-titles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="5" selection-start="940" selection-end="940" vertical-scroll-proportion="0.6360856" vertical-offset="49" max-vertical-offset="705" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="104" selection-start="4006" selection-end="4006" vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="1950" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../react-demos/demo01/index.html">
@@ -828,9 +862,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/detail-titles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="5" selection-start="777" selection-end="777" vertical-scroll-proportion="-14.375" vertical-offset="90" max-vertical-offset="720">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/detail-main-book.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="7" selection-start="743" selection-end="743" vertical-scroll-proportion="0.4490818" vertical-offset="301" max-vertical-offset="900">
+        <state line="37" column="12" selection-start="735" selection-end="735" vertical-scroll-proportion="-3.21519" vertical-offset="301" max-vertical-offset="900">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -839,6 +882,40 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="0" selection-start="11058" selection-end="11058" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="645">
+          <folding>
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.6713147" vertical-offset="263" max-vertical-offset="765">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#table#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
