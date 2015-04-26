@@ -195,7 +195,7 @@
 
                 
                 if(!finalDataArray.length) {
-                    alert('数据错误，请检查');
+                    alert('数据错误，请检查!');
                     return false;
                 }
                 
@@ -220,11 +220,14 @@
                    //更新content html
                    var _content = decodeURIComponent(finalDataArray[i].content);
                    _content = _content.replace(/\<a/gi,'<a style="color:#645a7e; text-decoration: underline;"');
-                   _content = _content.replace(/链接:/g,'<br/>下载链接:<span style="padding-left:6px;"></span>');
-                   _content = _content.replace(/密码:([^\n]+)/gi,'<br/>密码:<strong style="color:#645a7e;padding-left:6px;">$1</strong><div style="padding-bottom: 6px;"></div>');
+                   _content = _content.replace(/链接\S/g,'<br/>下载链接:<span style="padding-left:6px;"></span>');
+                   _content = _content.replace(/密码\S([^\n]+)/gi,'<br/>下载密码:<strong style="color:#645a7e;padding-left:6px;">$1</strong><div style="padding-bottom: 6px;"></div>');
                    
                    lists += '<div style="padding:5px 10px 5px 10px; margin:0;">'+ _content +'</div>';
                    lists += '</div>';
+                    
+                    
+                    
                 }
                 
                 mailTplContent.html(lists);
@@ -275,7 +278,7 @@
             $('.copy-wangwang').show().zclip({
                 path: 'static/swf/ZeroClipboard10.swf',
                 copy: function () {
-                    return '亲,商品已发送至您此邮箱,请注意查收哦! PS:如果您是手机端阅读(尤其是iPhone/iPad),请先花30秒时间阅读下邮件里的手机阅读链接,谢谢，祝您购物愉快!';
+                    return '亲,商品已发送至您此邮箱,请注意查收哦! ps:如果您是手机端阅读(尤其是iPhone/iPad),请花30秒时间点击下邮件里的在手机中阅读的链接说明,欢迎再次光临!';
                 },
                 afterCopy: function () {
                     copyInfo.show().text('复制旺旺回复内容成功!');
