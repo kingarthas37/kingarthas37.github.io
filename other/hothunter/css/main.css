@@ -160,9 +160,7 @@ h2 {
 h2 span {
     display: block;
     border:4px solid #fff;
-    height: 60px;
-    line-height: 54px;
-    padding:0 20px;
+    padding:8px 20px;
     background: #6d625e;
 }
 
@@ -224,6 +222,7 @@ h2.even span {
 }
 
 .content2 dt {
+    cursor: pointer;
     padding-top: 20px;
     height: 160px;    
     margin-bottom: 10px;
@@ -316,7 +315,7 @@ h2.even span {
     height: 580px;
     background: url('../images/bg-3.jpg') no-repeat 50% 0;
     background-size: cover;
-    color:#fff;
+   
 }
 
 .content5 .panel {
@@ -325,14 +324,19 @@ h2.even span {
     font-size: 30px;
 }
 
+.content5 p {
+    width:90%;
+    margin:10px auto;
+    background: rgba(255, 255, 255, 0.8);
+    padding:10px 0;
+    border-radius: 5px;
+    color:#e63b67;
+}
+
 .content5 .tel {
-    background: rgba(255, 255, 255, 0.50);
     color:#000;
-    width:700px;
-    height: 100px;
-    line-height: 100px;
+    padding:20px 0;
     font-size: 40px;
-    margin:20px auto;
 }
 
 .footer {
@@ -358,4 +362,27 @@ h2.even span {
 .en .menu li a {
     padding:0 5px;
     font-size: 14px;
+}
+
+.cn .content5.main-content {
+    padding-top: 70px;
+} 
+
+.popover {
+    max-width: 400px;
+}
+
+.popover div {
+    width:auto;
+}
+
+.popover ul {
+    margin:0;
+    padding:0;
+    padding-left: 15px;
+}
+
+.popover li {
+    margin-bottom: 5px;
+    font-size: 13px;
 }

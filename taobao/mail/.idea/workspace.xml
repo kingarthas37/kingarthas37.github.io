@@ -67,7 +67,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="294" column="48" selection-start="11532" selection-end="11532" vertical-scroll-proportion="0.79960316" vertical-offset="4232" max-vertical-offset="4860">
+            <state line="289" column="14" selection-start="11174" selection-end="11174" vertical-scroll-proportion="9.017858" vertical-offset="0" max-vertical-offset="4860">
               <folding>
                 <marker date="1430015041000" expanded="false" signature="7712:7726" placeholder="..." />
                 <marker date="1430015041000" expanded="false" signature="8070:8121" placeholder="..." />
@@ -447,12 +447,12 @@
       <workItem from="1430009957785" duration="5000" />
       <workItem from="1430009981016" duration="1376000" />
       <workItem from="1430012163582" duration="4000" />
-      <workItem from="1430014648150" duration="393000" />
+      <workItem from="1430014648150" duration="540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30131000" />
+    <option name="totallyTimeSpent" value="30278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1391" height="789" extended-state="0" />
@@ -796,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="294" column="48" selection-start="11532" selection-end="11532" vertical-scroll-proportion="0.79960316" vertical-offset="4232" max-vertical-offset="4860">
+        <state line="289" column="14" selection-start="11174" selection-end="11174" vertical-scroll-proportion="9.017858" vertical-offset="0" max-vertical-offset="4860">
           <folding>
             <marker date="1430015041000" expanded="false" signature="7712:7726" placeholder="..." />
             <marker date="1430015041000" expanded="false" signature="8070:8121" placeholder="..." />

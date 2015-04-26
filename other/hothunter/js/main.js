@@ -60,7 +60,6 @@
             
             if (scrollTop >= n.top - 120 && scrollTop <= n.height - 120  && i !== currentMenuLink) {
                 currentMenuLink = i;
-                console.log(i);
                 $menuList.find('.active').removeClass('active');
                 $menuList.find('a').eq(i).addClass('active');
                 return;
@@ -86,5 +85,11 @@
         
     }
     
+    
+    //content2 popover
+    $('[data-toggle="popover"]').popover({
+        trigger:'hover',
+        html:true
+    });
     
 })(window,jQuery);
