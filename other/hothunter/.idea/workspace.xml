@@ -75,19 +75,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="60" selection-start="3254" selection-end="3254" vertical-scroll-proportion="0.53386456" vertical-offset="917" max-vertical-offset="3825">
+            <state line="30" column="4" selection-start="1135" selection-end="1135" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="3825">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="386" column="17" selection-start="5786" selection-end="5786" vertical-scroll-proportion="-15.192307" vertical-offset="5395" max-vertical-offset="5895">
+            <state line="26" column="1" selection-start="492" selection-end="492" vertical-scroll-proportion="0.78" vertical-offset="0" max-vertical-offset="5895">
               <folding />
             </state>
           </provider>
@@ -115,8 +115,8 @@
         <option value="$PROJECT_DIR$/js/vendor/jquery.min.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index-ch.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -450,12 +450,12 @@
       <workItem from="1428843105876" duration="8595000" />
       <workItem from="1429372382259" duration="7818000" />
       <workItem from="1429438812627" duration="2307000" />
-      <workItem from="1430015234077" duration="4521000" />
+      <workItem from="1430015234077" duration="4638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23241000" />
+    <option name="totallyTimeSpent" value="23358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1376" height="798" extended-state="0" />
@@ -645,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="386" column="17" selection-start="5786" selection-end="5786" vertical-scroll-proportion="-15.192307" vertical-offset="5395" max-vertical-offset="5895">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index-ch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="114" column="10" selection-start="2776" selection-end="3906" vertical-scroll-proportion="-3.4166667" vertical-offset="1133" max-vertical-offset="3165">
@@ -663,7 +656,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="60" selection-start="3254" selection-end="3254" vertical-scroll-proportion="0.53386456" vertical-offset="917" max-vertical-offset="3825">
+        <state line="30" column="4" selection-start="1135" selection-end="1135" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="3825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="492" selection-end="492" vertical-scroll-proportion="0.78" vertical-offset="0" max-vertical-offset="5895">
           <folding />
         </state>
       </provider>
