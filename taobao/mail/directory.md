@@ -190,7 +190,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 金字塔原理  链接: http://pan.baidu.com/s/1hq6BxQ0 密码: gg7i
 
 ######银座妈妈桑说话,驭男术,男人就是吃这套,逆转爱,恋爱王牌6本合集
-链接: http://pan.baidu.com/s/1mg9UaQ8 密码: 5p36
+银座等合集 链接: http://pan.baidu.com/s/1mg9UaQ8 密码: 5p36
 
 ######业力管理
 业力管理+善用业力法则、创造富足人生 链接: http://pan.baidu.com/s/1i3EaVXV 密码: fw8j
