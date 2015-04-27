@@ -327,16 +327,18 @@ h2.even span {
 .content5 p {
     width:90%;
     margin:10px auto;
-    background: rgba(255, 255, 255, 0.8);
+    color:#fff;
     padding:10px 0;
     border-radius: 5px;
-    color:#e63b67;
+    text-shadow:1px 1px 5px rgba(0,0,0,0.8);
 }
 
 .content5 .tel {
     color:#000;
     padding:20px 0;
     font-size: 40px;
+    background: rgba(255, 255, 255, 0.8);
+    text-shadow: none;
 }
 
 .footer {
