@@ -6,6 +6,42 @@
 <body>
 
 
+<script src="public/js/jquery-2.0.3.min.js"></script>
+<script src="https://leancloud.cn/scripts/lib/av-0.5.1.min.js"></script>
+
+<script>
+    
+    var appId = 'qyepneyw4etaszefxplzwb0ug3i6z0d8jhrm2jxs6pzpr5t4';
+    var appKey = '6zvowfmn46iss9jsue4hubpcgxg87yv70aucn8x52pyf4oyq';
+
+    AV.initialize(appId,appKey);
+
+
+
+    var GameScore = AV.Object.extend('GameScore');
+    
+     var query = new AV.Query(GameScore);
+    
+    query.get('5540fa48e4b0c51838a51c04',{
+        success:function(gameScore) {
+
+            var score = gameScore.get("score");
+            var playerName = gameScore.get("playerName");
+            var cheatMode = gameScore.get("cheatMode");
+            
+            console.log(score);
+        },
+        error:function(err) {
+            console.log(111);
+        }
+    });
+ 
+    
+   
+    
+    
+</script>
+
 
 </body>
 </html>
