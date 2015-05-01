@@ -1,3 +1,7 @@
+######占星其实很简单2本(入门+进阶篇)全彩套装
+《占星其实很简单1+(入门篇)》  链接: http://pan.baidu.com/s/1gdnKiTd 密码: bswn  
+《占星其实很简单2+(进阶篇)》  链接: http://pan.baidu.com/s/1jGFywYU 密码: nxdk
+
 ######占星进阶书籍套装
 演化占星学入门-从冥王星看你的业力使命  链接: http://pan.baidu.com/s/1mgBSWdi 密码: 8e6n  
 卜卦全占星 链接:  http://pan.baidu.com/s/1jG7Tpcy 密码: ldg1  
