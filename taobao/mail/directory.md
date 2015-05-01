@@ -226,7 +226,7 @@ web内容策略指南 链接: http://pan.baidu.com/s/1bns80Yb 密码: qgrj
 ######我是家政女王
 我是家政女王  链接: http://pan.baidu.com/s/1dDjaX81 密码: e3ds
 
-######好命密码2本套装+股市乐透大赢家(爱徳华)
+######好命密码2本套装+大赢家(爱徳华)
 好命密码+数字磁场的魅力+工作事业财  链接: http://pan.baidu.com/s/1qWE2C9Y 密码: xprm  
 好命密码+数字磁场的魅力+亲子教育健...  链接: http://pan.baidu.com/s/1sj4r7IH 密码: iwrv  
 股市乐透大赢家  链接: http://pan.baidu.com/s/1dDo0CpF 密码: 5rdd
