@@ -1,3 +1,6 @@
+######预测占星学(英文版,适合占星高级读者)
+《预测占星学》原版  链接: http://pan.baidu.com/s/1kTtHAkf 密码: xksq
+
 ######占星推运教程(英文版,适合占星高级读者)
 《占星推运教程》原版  链接: http://pan.baidu.com/s/1gd1Xpfl 密码: 7hax
 
