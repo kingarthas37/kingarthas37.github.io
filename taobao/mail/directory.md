@@ -1,3 +1,9 @@
+######塔罗进阶套装
+《塔罗中的占卜符码》  链接: http://pan.baidu.com/s/1ntKbV77 密码: vv5n  
+《塔罗与占星》  链接: http://pan.baidu.com/s/1sjG5W53 密码: 1qhy  
+《塔罗逆位精解》  链接: http://pan.baidu.com/s/1dD3xpQT 密码: sxqz  
+《塔罗全书》  链接: http://pan.baidu.com/s/1sj7c9rB 密码: i239
+
 ######古典卜卦占星之基督教占星学
 古典卜卦占星之基督教占星学  链接: http://pan.baidu.com/s/1eQEQ7YE 密码: 4vwf
 
