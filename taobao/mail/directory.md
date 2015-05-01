@@ -1,3 +1,6 @@
+######占星推运教程(英文版,适合占星高级读者)
+《占星推运教程》原版  链接: http://pan.baidu.com/s/1gd1Xpfl 密码: 7hax
+
 ######占星其实很简单2本(入门+进阶篇)全彩套装
 《占星其实很简单1+(入门篇)》  链接: http://pan.baidu.com/s/1gdnKiTd 密码: bswn  
 《占星其实很简单2+(进阶篇)》  链接: http://pan.baidu.com/s/1jGFywYU 密码: nxdk
