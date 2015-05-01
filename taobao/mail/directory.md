@@ -1,3 +1,6 @@
+######古典卜卦占星之基督教占星学
+古典卜卦占星之基督教占星学  链接: http://pan.baidu.com/s/1eQEQ7YE 密码: 4vwf
+
 ######预测占星学(英文版,适合占星高级读者)
 《预测占星学》原版  链接: http://pan.baidu.com/s/1kTtHAkf 密码: xksq
 
