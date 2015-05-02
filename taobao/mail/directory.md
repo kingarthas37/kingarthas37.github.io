@@ -1,3 +1,6 @@
+######招财开运68种秘诀
+招财开运68种秘诀-汤镇伟  链接: http://pan.baidu.com/s/1gdKomzD 密码: kyte
+
 ######神秘的魔法符咒
 神秘的魔法符咒  链接: http://pan.baidu.com/s/1dD4dnUD 密码: duqv
 
