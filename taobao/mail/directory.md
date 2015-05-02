@@ -1,3 +1,6 @@
+######神秘的魔法符咒
+神秘的魔法符咒  链接: http://pan.baidu.com/s/1dD4dnUD 密码: duqv
+
 ######本命盘解读(英文版，适合高级占星读者)
 《本命盘解读》原版  链接: http://pan.baidu.com/s/1c0ewRPQ 密码: vf9t
 
