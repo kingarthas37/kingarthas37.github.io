@@ -1,3 +1,6 @@
+######本命盘解读(英文版，适合高级占星读者)
+《本命盘解读》原版  链接: http://pan.baidu.com/s/1c0ewRPQ 密码: vf9t
+
 ######塔罗进阶套装
 《塔罗中的占卜符码》  链接: http://pan.baidu.com/s/1ntKbV77 密码: vv5n  
 《塔罗与占星》  链接: http://pan.baidu.com/s/1sjG5W53 密码: 1qhy  
