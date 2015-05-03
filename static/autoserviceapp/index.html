@@ -15,27 +15,26 @@
     var appKey = '6zvowfmn46iss9jsue4hubpcgxg87yv70aucn8x52pyf4oyq';
 
     AV.initialize(appId,appKey);
-
-
-
+    
+    
+    
     var GameScore = AV.Object.extend('GameScore');
+    var query = new AV.Query(GameScore);
     
-     var query = new AV.Query(GameScore);
-    
-    query.get('5540fa48e4b0c51838a51c04',{
-        success:function(gameScore) {
-
-            var score = gameScore.get("score");
-            var playerName = gameScore.get("playerName");
-            var cheatMode = gameScore.get("cheatMode");
+    query.get('55418f08e4b03fd8341020e1',{
+        
+        success:function(game) {
             
-            console.log(score);
+            game.set('playerName','wanglin');
+            game.save();
+            console.log('ok');
+            
         },
-        error:function(err) {
-            console.log(111);
+        error:function(object,err) {
+            
         }
+        
     });
- 
     
    
     
