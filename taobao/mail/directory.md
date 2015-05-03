@@ -1,3 +1,6 @@
+######100种金钱魔法仪式咒语(英文版)
+ 100 Money Spells  链接: http://pan.baidu.com/s/1jGzPwto 密码: k5ds
+
 ######招财开运68种秘诀
 招财开运68种秘诀-汤镇伟  链接: http://pan.baidu.com/s/1gdKomzD 密码: kyte
 
