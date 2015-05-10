@@ -1,3 +1,6 @@
+######女巫不传的魔法草药书
+女巫不传的魔法草药书  链接：http://pan.baidu.com/s/1o6GC7OI 密码：mfga
+
 ######100种金钱魔法仪式咒语(英文版)
  100 Money Spells  链接: http://pan.baidu.com/s/1jGzPwto 密码: k5ds
 
