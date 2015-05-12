@@ -35,14 +35,85 @@ body {
     text-decoration: none;
 }
 
+.home .arrow {
+    display: block;
+    position: absolute;
+    left:50%;
+    margin-left:-16px;
+    bottom:40px;
+    width:32px;
+    height: 32px;
+    background-image: url('../images/icon-arrow.png');
+    -webkit-animation: floor1 3s 1s infinite ease-in-out;
+    -moz-animation: floor1 3s 1s infinite ease-in-out;
+    -ms-animation: floor1 3s 1s infinite ease-in-out;
+    animation: floor1 3s 1s infinite ease-in-out;
+}
+
+@-webkit-keyframes floor1 {
+    from {
+        -webkit-transform: translate(0px, 0px);
+        opacity:1;
+    }
+    50% {
+        -webkit-transform: translate(0px, 20px);
+        opacity:0.7;
+    }
+    to {
+        -webkit-transform: translate(0px, 0px);
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes floor1 {
+    from {
+        -moz-transform: translate(0px, 0px);
+        opacity:1;
+    }
+    50% {
+        -moz-transform: translate(0px, 20px);
+        opacity:0.7;
+    }
+    to {
+        -moz-transform: translate(0px, 0px);
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes floor1 {
+    from {
+        -ms-transform: translate(0px, 0px);
+        opacity:1;
+    }
+    50% {
+        -ms-transform: translate(0px, 20px);
+        opacity:0.7;
+    }
+    to {
+        -ms-transform: translate(0px, 0px);
+        opacity: 1;
+    }
+}
+
+@keyframes floor1 {
+    from {
+        transform: translate(0px, 0px);
+        opacity:1;
+    }
+    50% {
+        transform: translate(0px, 20px);
+        opacity:0.7;
+    }
+    to {
+        transform: translate(0px, 0px);
+        opacity: 1;
+    }
+}
 
 #home-carousel {
     background: rgba(56,62,77,0.3);
 }
-
-#home-carousel .carousel-inner {
-    
-}
+ 
 
 #home-carousel .carousel-inner .item {
     height: 180px;
