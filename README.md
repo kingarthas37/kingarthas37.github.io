@@ -3,8 +3,9 @@
 基于nodejs-hexo部署到github的个人博客程序
 
 ####static
-个人业余时间参与的一些较大工程项目代码  
 -- linkin 后台管理平台及前台数据分析前端工程
+-- hothunter hothunter主页
+-- extrabux-shipper-code extrabux转运码基于leancloud实现
 
 ####other
 个人业余时间参与的一些简单项目代码  
