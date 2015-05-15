@@ -67,7 +67,7 @@
       <file leaf-file-name="index-ch.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-ch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="31" selection-start="1266" selection-end="1293" vertical-scroll-proportion="-7.0" vertical-offset="190" max-vertical-offset="3570">
+            <state line="36" column="31" selection-start="1266" selection-end="1293" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="3570">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="35" selection-start="609" selection-end="613" vertical-scroll-proportion="-8.75" vertical-offset="30" max-vertical-offset="3480">
+            <state line="16" column="35" selection-start="609" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="3480">
               <folding />
             </state>
           </provider>
@@ -85,7 +85,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="110" column="1" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.88657844" vertical-offset="1181" max-vertical-offset="6990">
+            <state line="101" column="5" selection-start="1941" selection-end="1941" vertical-scroll-proportion="1.4280303" vertical-offset="761" max-vertical-offset="6990">
               <folding />
             </state>
           </provider>
@@ -153,7 +153,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -189,6 +188,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,11 +457,12 @@
       <workItem from="1430317595121" duration="10000" />
       <workItem from="1430372427083" duration="702000" />
       <workItem from="1431388145873" duration="1380000" />
+      <workItem from="1431390201709" duration="296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30505000" />
+    <option name="totallyTimeSpent" value="30801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1376" height="798" extended-state="0" />
@@ -471,7 +472,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21327683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21246459" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -511,6 +512,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="35" selection-start="609" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="3480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="1" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.0" vertical-offset="1181" max-vertical-offset="6990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="22" selection-start="2547" selection-end="2547" vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index-ch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="155" column="20" selection-start="4838" selection-end="4838" vertical-scroll-proportion="0.0" vertical-offset="2103" max-vertical-offset="3540">
@@ -818,21 +840,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-ch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="31" selection-start="1266" selection-end="1293" vertical-scroll-proportion="-7.0" vertical-offset="190" max-vertical-offset="3570">
+        <state line="36" column="31" selection-start="1266" selection-end="1293" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="3570">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="35" selection-start="609" selection-end="613" vertical-scroll-proportion="-8.75" vertical-offset="30" max-vertical-offset="3480">
+        <state line="16" column="35" selection-start="609" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="3480">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="1" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.88657844" vertical-offset="1181" max-vertical-offset="6990">
+        <state line="101" column="5" selection-start="1941" selection-end="1941" vertical-scroll-proportion="1.4280303" vertical-offset="761" max-vertical-offset="6990">
           <folding />
         </state>
       </provider>

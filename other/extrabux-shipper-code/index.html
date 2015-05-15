@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>code</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,  initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,  user-scalable=no" />
+
+    <link rel="stylesheet" href="http://static3.extrabux.com/css/bootstrap.3.3.4.min.css">
+    
+</head>
+<body>
+
+
+<div class="container">
+
+    <h4>使用方法：</h4>
+    <ul>
+        <li>在5月19日前通过Extrabux成功下单；</li>
+        <li>在兑换页，任选一家转运公司，输入您的订单号以及兑换码领取转运折扣券；</li>
+        <li>在填写转运订单时，将折扣码填入运单描述栏，并联系转运公司客服即可享此优惠；</li>
+        <li>有效期至2015年5月31日。</li>
+    </ul>
+
+    <hr/>
+    <form>
+        <div class="form-group">
+            <label>输入激活码：</label>
+            <input type="text" class="form-control" id="send-code" placeholder="必填项">
+        </div>
+
+        <div class="form-group">
+            <label>输入订单号：</label>
+            <input type="text" class="form-control" id="order-number" placeholder="必填项">
+        </div>
+
+        <div class="form-group">
+            <label>选择转运公司：</label>
+            <select id="forward-selected" class="form-control">
+                <option value="0">天际物流</option>
+                <option value="1">转运邦</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <button id="submit" type="submit" class="btn btn-primary">获取优惠码</button>
+        </div>
+
+        <div class="form-group">
+            <label>优惠码:</label>
+            <input type="text" class="form-control" id="get-code">
+        </div>
+
+        <br/>
+        <div class="form-group" style="text-align: center">
+            <a href="http://www.extrabux.com"><img src="http://static.extrabux.com/images/mobile/extrabux-logo@2x.png" alt=""/>
+            </a>
+        </div>
+
+    </form>
+
+</div>
+
+
+<script src="http://static3.extrabux.com/js/min/jquery.1.11.2.min.js"></script>
+<script src="http://static3.extrabux.com/js/min/bootstrap.3.3.4.min.js"></script>
+<script src="https://cdn1.lncld.net/static/js/av-mini-0.5.4.js"></script>
+<script src="js/config.js"></script>
+<script src="js/code.js"></script>
+
+</body>
+</html>
