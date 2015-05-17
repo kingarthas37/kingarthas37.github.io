@@ -1,3 +1,6 @@
+######魔法圣经
+魔法圣经  链接: http://pan.baidu.com/s/1dDHBhmD 密码: 69ec
+
 ######女巫不传的魔法草药书
 女巫不传的魔法草药书  链接：http://pan.baidu.com/s/1o6GC7OI 密码：mfga
 
