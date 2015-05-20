@@ -1,3 +1,6 @@
+######所罗门44个魔法符海报 
+poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
+
 ######魔法圣经
 魔法圣经  链接: http://pan.baidu.com/s/1dDHBhmD 密码: 69ec
 
