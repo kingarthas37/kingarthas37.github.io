@@ -636,6 +636,7 @@ h2.crumb {
   left: 0px;
   border: 1px solid #fff;
   background: #fff;
-  opacity: 0.5; }
+  opacity: 0.5;
+  filter: alpha(opacity=50); }
 
 /* product zoom */
