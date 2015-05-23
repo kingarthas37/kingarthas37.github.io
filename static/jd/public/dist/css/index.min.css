@@ -103,7 +103,7 @@ form {
     *zoom: 1;
     background: -moz-linear-gradient(top, #E64346, #E13335);
     background: -webkit-gradient(linear, 0 0, 0 100%, from(#E64346), to(#E13335));
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$color1", endColorstr="$color2");
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=$color1, endColorstr=$color2);
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=" #E64346 ", endColorstr=" #E13335 ")";
     height: 40px; }
     .header .menu:before, .header .menu:after {
