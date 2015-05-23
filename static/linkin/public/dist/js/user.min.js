@@ -419,74 +419,91 @@ $.fn.cloudTag = function() {
         var json = (function() {
             var arr = [];
             $.each(_datas,function(i,n) {
-                arr.push({"name": n, "size": Math.ceil(Math.random() * 100)});
+                arr.push({"name": n, "size": 1});
             });
             return {
                 "children": arr
             };
         })();
- 
+         
+  
+
         var diameter = parseInt(_this.attr('data-size')),
-            isLarge = diameter > 300 ? true : false,
-            diameterContent = diameter - (isLarge ? 60 : 30);
-          
+            format = d3.format(",d"),
+            color = d3.scale.category20c();
+
         var bubble = d3.layout.pack()
             .sort(null)
-            .size([diameterContent, diameterContent])
-            .padding(isLarge ? 100 : 50);
+            .size([diameter, diameter])
+            .padding(1.5);
 
         var svg = d3.select(_this[0]).append("svg")
             .attr("width", diameter)
-            .attr("height", diameter);
-
+            .attr("height", diameter)
+            .attr("class", "bubble");
 
         var circle = svg.append("circle")
             .attr("class", "nodebg")
             .attr("r", diameter / 2)
             .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")")
             .style("fill", _this.attr('data-color'));
+            
+            var node = svg.selectAll(".node")
+                .data(bubble.nodes(classes(json))
+                    .filter(function(d) { return !d.children; }))
+                .enter().append("g")
+                .attr("class", "node")
+                .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
-        var node = svg.selectAll(".node")
-            .data(bubble.nodes(classes(json))
-                .filter(function (d) {
-                    return !d.children;
-                }))
-            .enter().append("g")
-            .attr("transform", function (d) {
-                return "translate(" + (d.x + (diameter - diameterContent) / 2) + "," + (d.y + (diameter - diameterContent) / 2) + ")";
-            });
+            var radiusArr = [];
 
+            node.append("circle")
+                .attr("r", function(d) {
+                    radiusArr.push(d.r);
+                    return d.r;
+                })
+                .style("fill", function(d) { return  _this.attr('data-color'); });
+ 
 
-        node.append("text")
-            .style("font-size", function (n,i) {
-                
-                var ratio = (3-1) / (1000-1);
-                var value = ((_values[i] * 100) * ratio + 1) * 10;
-                 
-                return (isLarge ? value * 1.5 : value) + 'px';
-            })
-            .style("text-anchor", "middle")
-            .style('fill', '#fff')
-            .text(function (d) {
-                return d.className;
-            });
+            node.append("text")
+                .attr("dy", ".3em")
+                .style('fill', '#fff')
+                .style("text-anchor", "middle")
+                .style("font-size", function (n,i) {
+                    
+                    //取得字体大小比例值
+                    var ratio = (3-1) / (1000-1);
+                    //计算出字体大小
+                    var value = ((_values[i] * 100) * ratio + 1) * 10;
+                    
+                    //如果字体的font-size * 字体的个数 > 直径值
+                    //console.log(value, n.className, n.className.length);
+                    if(n.className.length * value > n.r *2) {
+                        //将该字体最大范围设为直径大小
+                        value = value * ( (n.r *2) / (n.className.length * value));
+                    }
+                    
+                    return value + 'px';
+                })
+                .text(function(d) { return d.className; });
 
         function classes(root) {
             var classes = [];
 
             function recurse(name, node) {
-                if (node.children) node.children.forEach(function (child) {
-                    recurse(node.name, child);
-                });
+                if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
                 else classes.push({packageName: name, className: node.name, value: node.size});
             }
 
             recurse(null, root);
             return {children: classes};
         }
+
+        d3.select(self.frameElement).style("height", diameter + "px");
+         
         
     });
- 
+  
 
 };
 

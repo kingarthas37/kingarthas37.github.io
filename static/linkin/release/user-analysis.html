@@ -5,15 +5,11 @@
     <title>Linkin User</title>
 
 
-    <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="http://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../public/css/font-awesome.min.css"/>
 
-    
-    
-    
-      <link rel="stylesheet" href="../public/dist/css/external.min.css"/>
-      <link rel="stylesheet" href="../public/dist/css/user.min.css"/>
-    
+    <link rel="stylesheet" href="../public/dist/css/external.min.css"/>
+    <link rel="stylesheet" href="../public/dist/css/user.min.css"/>
     
 </head>
 
@@ -144,7 +140,7 @@
                 <div class="col-md-6">
                     <h3>品牌传播率</h3>
                     <div class="pie-content">
-                        <div class="pie-chart" data-content="15,85"></div>
+                        <div class="pie-chart" data-content="0,100,0,0"></div>
                         <ul>
                             <li><i class="bar-info-1"></i>品牌阵地信息量</li>
                             <li><i class="bar-info-3"></i>非品牌阵地信息量</li>
@@ -359,7 +355,7 @@
     <div class="data-content even">
         <div class="content content5">
 
-            <div class="cloud-content large" data-value="1,2,3,4,5,6,7,8,9,10" data-content="登场,高端,上档次,新品,形象,大气,优雅,广告,大片,上市" data-color="#d92c4a" data-size="420"></div>
+            <div class="cloud-content large" data-value="1,2,3,4,5,6,7,8,9,10" data-content="态度一般,发货服务差,裤子一般,服务不行,服务不好,物流慢,服务差,做工一般,服务态度差,有色差" data-color="#d92c4a" data-size="420"></div>
 
         </div>
         <h2>品牌影响力</h2>
@@ -387,18 +383,12 @@
 
 
 
- 
-<script type="text/javascript" src="http://libs.baidu.com/jquery/1.9.1/jquery.js"></script>
-<script type="text/javascript" src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 
+<script type="text/javascript" src="../public/js/jquery.min.js"></script>
+<script type="text/javascript" src="../public/js/bootstrap.min.js"></script>
 
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/echarts/2.2.0/echarts.js"></script>
-
-
-
-
-
+<script type="text/javascript" src="../public/js/vendor/d3/d3.min.js"></script>
+<script type="text/javascript" src="../public/js/vendor/echarts/echarts.js"></script>
 
 <script type="text/javascript" src="../public/dist/js/external.min.js"></script>
 <script type="text/javascript" src="../public/dist/js/user.min.js"></script>
@@ -411,7 +401,7 @@
         //require chart js
         require.config({
             paths: {
-                echarts: 'http://cdnjs.cloudflare.com/ajax/libs/echarts/2.2.0'
+                echarts: '../public/js/vendor/echarts'
             }
         });
         
