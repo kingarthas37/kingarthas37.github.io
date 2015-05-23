@@ -1,0 +1,214 @@
+.list-cont {
+
+  h2 {
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+    margin: 0;
+    font-weight: normal;
+    i {
+      padding:0 10px;
+      font-family: simsun;
+      font-style: normal;
+      font-size: 12px;
+    }
+    a {
+      strong {
+        color: $red;
+        font-weight: normal;
+      }
+    }
+  }
+
+  .filter {
+
+    border: 1px solid #ddd;
+    border-left: none;
+    border-right: none;
+    background: #f1f1f1;
+    padding: 0 15px;
+    margin-bottom: 20px;
+    @include clearfix;
+
+    .filter-box {
+
+      float: left;
+      @include clearfix;
+      
+      .sort {
+        float: left;
+        margin-right: 20px;
+        font-size: 0;
+        height: 40px;
+        line-height: 40px;
+        a {
+          font-size: 12px;
+          @include inlineBlock;
+          vertical-align: middle;
+          width: 55px;
+          height: 25px;
+          line-height: 25px;
+          border: 1px solid #cccccc;
+          background: #fff;
+          text-align: center;
+          color: #333;
+          background-image: url('../images/ico-filter-down.png');
+          background-repeat: no-repeat;
+          background-position:40px center;
+          
+          &.up {
+            background-image: url('../images/ico-filter-up.png');
+            &.cur {
+              background-image: url('../images/ico-filter-down.png');
+            }
+          }
+           
+          &.cur {
+            border-color: $red;
+            color: #fff;
+            background-color: $red;
+            background-image: url('../images/ico-filter-down-hover.png');
+            &.up {
+              background-image: url('../images/ico-filter-up-hover.png');
+            }
+          }
+        }
+      }
+      
+      .search {
+        float: left;
+        height: 40px;
+        line-height: 40px;
+        .text,.button {
+          @include inlineBlock;
+          vertical-align: middle;
+          width: 55px;
+          height: 25px;
+          line-height: 25px;
+          border: 1px solid #cccccc;
+          margin: 0;
+          padding: 0;
+          border-radius: 0;
+        }
+        .button {
+          border: none;
+          font-size: 12px;
+          color: #fff;
+          background-color: $red;
+        }
+        
+      }
+      
+    }
+    
+    .page {
+      float: right;
+      height: 40px;
+      line-height: 40px;
+      color: #999;
+      a {
+        color: $red;
+      }
+      strong {
+        color: $red;
+      }
+      i {
+        font-family: simsun;
+        font-style: normal;
+      }
+    }
+
+  }
+
+  .lists {
+
+    @include clearfix;
+    margin-bottom: 20px;
+    
+    .box {
+      width: 225px;
+      padding: 10px;
+      height: 380px;
+      float: left;
+      
+      .img {
+        height:225px;
+        width: 225px;
+        text-align: center;
+        display:table;
+        vertical-align: middle;
+        *font-size:225px;
+        *line-height: 1;
+        table-layout:fixed;
+        margin-bottom: 10px;
+        span {
+          width:100%; 
+          display:table-cell;
+          text-align:center; 
+          vertical-align:middle;
+        }
+        img {
+          width:100%; 
+          display:table-cell; 
+          text-align:center; 
+          vertical-align:middle;
+        }
+      }
+      
+      .price {
+        font-family: Verdana;
+        font-size: 20px;
+        color: $red;
+        margin-bottom: 10px;
+      }
+      
+      dl {
+        margin: 0 0 10px 0;
+      }
+      
+      dt {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        font-weight: normal;
+        height: 24px;
+        line-height: 24px;
+      }
+      
+      dd {
+        margin: 0;
+        height: 20px;
+        line-height: 20px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        strong {
+          color: $red;
+        }
+      }
+      
+      .link {
+        a {
+          @include inlineBlock;
+          padding: 0 6px;
+          height: 24px;
+          line-height: 24px;
+          border: 1px solid #ddd;
+          &:hover {
+            border-color: $red;
+          }
+        }
+      }
+
+      &:hover {
+        box-shadow: 0 0 2px 2px #f8f8f8;
+      }
+      
+    }
+    
+    
+    
+  }
+
+}
