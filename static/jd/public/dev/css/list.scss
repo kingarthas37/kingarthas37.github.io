@@ -1,26 +1,5 @@
 .list-cont {
 
-  h2 {
-    font-size: 14px;
-    height: 40px;
-    line-height: 40px;
-    text-align: left;
-    margin: 0;
-    font-weight: normal;
-    i {
-      padding:0 10px;
-      font-family: simsun;
-      font-style: normal;
-      font-size: 12px;
-    }
-    a {
-      strong {
-        color: $red;
-        font-weight: normal;
-      }
-    }
-  }
-
   .filter {
 
     border: 1px solid #ddd;
@@ -35,7 +14,7 @@
 
       float: left;
       @include clearfix;
-      
+
       .sort {
         float: left;
         margin-right: 20px;
@@ -55,15 +34,15 @@
           color: #333;
           background-image: url('../images/ico-filter-down.png');
           background-repeat: no-repeat;
-          background-position:40px center;
-          
+          background-position: 40px center;
+
           &.up {
             background-image: url('../images/ico-filter-up.png');
             &.cur {
               background-image: url('../images/ico-filter-down.png');
             }
           }
-           
+
           &.cur {
             border-color: $red;
             color: #fff;
@@ -75,12 +54,12 @@
           }
         }
       }
-      
+
       .search {
         float: left;
         height: 40px;
         line-height: 40px;
-        .text,.button {
+        .text, .button {
           @include inlineBlock;
           vertical-align: middle;
           width: 55px;
@@ -97,11 +76,11 @@
           color: #fff;
           background-color: $red;
         }
-        
+
       }
-      
+
     }
-    
+
     .page {
       float: right;
       height: 40px;
@@ -125,49 +104,33 @@
 
     @include clearfix;
     margin-bottom: 20px;
+
     
     .box {
+      
       width: 223px;
       padding: 10px;
       height: 380px;
       border: 1px solid #fff;
       float: left;
       
+     
+
       .img {
-        height:223px;
-        width: 223px;
-        text-align: center;
-        display:table;
-        vertical-align: middle;
-        *font-size:223px;
-        *line-height: 1;
-        table-layout:fixed;
-        margin-bottom: 10px;
-        span {
-          width:100%; 
-          display:table-cell;
-          text-align:center; 
-          vertical-align:middle;
-        }
-        img {
-          width:100%; 
-          display:table-cell; 
-          text-align:center; 
-          vertical-align:middle;
-        }
+        @include middleimg(223px,223px);
       }
-      
+
       .price {
         font-family: Verdana;
         font-size: 20px;
         color: $red;
         margin-bottom: 10px;
       }
-      
+
       dl {
         margin: 0 0 10px 0;
       }
-      
+
       dt {
         overflow: hidden;
         text-overflow: ellipsis;
@@ -176,7 +139,7 @@
         height: 24px;
         line-height: 24px;
       }
-      
+
       dd {
         margin: 0;
         height: 20px;
@@ -188,7 +151,7 @@
           color: $red;
         }
       }
-      
+
       .link {
         a {
           @include inlineBlock;
@@ -206,11 +169,9 @@
         border: 1px solid #ddd;
         box-shadow: 0 0 4px 4px #f8f8f8;
       }
-      
+
     }
-    
-    
-    
+
   }
 
 }

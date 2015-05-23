@@ -114,3 +114,27 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#{$color1}, endColorstr=#{$color2});
   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#{$color1}, endColorstr=#{$color2})";
 }
+
+@mixin middleimg($width,$height) {
+  height: $width;
+  width: $height;
+  text-align: center;
+  display: table;
+  vertical-align: middle;
+  *font-size: $width;
+  *line-height: 1;
+  table-layout: fixed;
+  margin-bottom: 10px;
+  span {
+    width: 100%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+  }
+  img {
+    width: 100%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+  }
+}
