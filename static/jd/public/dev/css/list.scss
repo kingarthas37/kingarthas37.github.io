@@ -127,18 +127,19 @@
     margin-bottom: 20px;
     
     .box {
-      width: 225px;
+      width: 223px;
       padding: 10px;
       height: 380px;
+      border: 1px solid #fff;
       float: left;
       
       .img {
-        height:225px;
-        width: 225px;
+        height:223px;
+        width: 223px;
         text-align: center;
         display:table;
         vertical-align: middle;
-        *font-size:225px;
+        *font-size:223px;
         *line-height: 1;
         table-layout:fixed;
         margin-bottom: 10px;
@@ -202,7 +203,8 @@
       }
 
       &:hover {
-        box-shadow: 0 0 2px 2px #f8f8f8;
+        border: 1px solid #ddd;
+        box-shadow: 0 0 4px 4px #f8f8f8;
       }
       
     }
