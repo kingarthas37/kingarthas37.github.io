@@ -1,3 +1,6 @@
+######业力卡使用手册
+业力卡使用手册  链接: http://pan.baidu.com/s/1mgvIAM0 密码: cgg8
+
 ######所罗门44个魔法符海报 
 poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
