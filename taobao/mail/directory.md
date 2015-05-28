@@ -1,9 +1,3 @@
-######业力卡使用手册
-业力卡使用手册  链接: http://pan.baidu.com/s/1mgvIAM0 密码: cgg8
-
-######所罗门44个魔法符海报 
-poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
-
 ######魔法圣经
 魔法圣经  链接: http://pan.baidu.com/s/1dDHBhmD 密码: 69ec
 
@@ -444,6 +438,12 @@ Chakra Balancing紧随能量振动 感受脉轮跳动的灵性瑜伽音乐  链�
 
 ######PDF阅读器下载
 下载地址 链接: http://pan.baidu.com/s/1ntLwzbj 密码: hrht
+
+######业力卡使用手册
+业力卡使用手册  链接: http://pan.baidu.com/s/1mgvIAM0 密码: cgg8
+
+######所罗门44个魔法符海报 
+poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
 ######大天使吊坠
 大天使吊坠原型图 http://img02.taobaocdn.com/imgextra/i2/42879206/TB2k79OcFXXXXa9XpXXXXXXXXXX_!!42879206.jpg
