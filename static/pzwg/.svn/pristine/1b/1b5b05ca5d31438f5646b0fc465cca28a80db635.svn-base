@@ -1,0 +1,97 @@
+'use strict';
+
+var config = require('../../package.json');
+var onlyScripts = require('../util/script-filter');
+
+var watchify = require('watchify');
+var browserify = require('browserify');
+var gulp = require('gulp');
+var source = require('vinyl-source-stream');
+var gutil = require('gulp-util');
+var uglify = require('gulp-uglify');
+var factor = require('factor-bundle');
+var path = require('path');
+var concat = require('concat-stream');
+var file = require('gulp-file');
+var gulpif = require('gulp-if');
+var minimist = require('minimist');
+var buffer = require('vinyl-buffer');
+var transform = require('vinyl-transform');
+var fs = require('fs');
+var rev = require('gulp-rev');
+var _ = require('underscore');
+
+var cwd = process.cwd();
+var pageScripts = fs.readdirSync('public/dev/js/pages').filter(onlyScripts);
+var basedir = './public/dev/js/';
+
+
+//dev task
+gulp.task('browserify', function () {
+    
+    var b = browserify({
+        cache: {},
+        packageCache: {},
+        fullPaths: false,
+        entries: [basedir + 'common/main.js'],
+        debug: true
+    });
+
+    var w = watchify(b);
+
+    pageScripts.forEach(function(page) {
+        if(page !== 'main.js') {
+            w.require(basedir + 'pages/' + page, {expose:page.replace('.js','')});
+        }
+    });
+    
+    var bundle = function () {
+        w.bundle()
+            .pipe(source(config.name + '.bundle.js'))
+            .pipe(gulp.dest('./public/dist/js'));
+        return w;
+    };
+
+    w.on('update', bundle);
+    w.on('log', gutil.log);
+    return bundle();
+});
+
+
+
+//prod task
+gulp.task('browserify-prod', function () {
+
+    var b = browserify({
+        entries: [basedir + 'common/main.js',basedir + 'pages/main.js'],
+        debug: true
+    });
+
+    var bundle = function () {
+        
+        pageScripts.forEach(function(page) {
+            if(page !== 'main.js') {
+                b.require(basedir + 'pages/' + page, {expose:page.replace('.js','')});
+            }
+        });
+        
+        b.plugin('factor-bundle', {
+            e:[basedir + 'common/main.js', basedir + 'pages/main.js'],
+            o:[write('./public/dist/js/' + config.name + '.common.js'), write('./public/dist/js/' + config.name + '.pages.js')]})
+            .bundle()
+            .pipe(write(config.name + '.external.js'));
+        
+        return b;
+    };
+
+    function write(filepath) {
+        return concat(function (content) {
+            return file(path.basename(filepath), content, {src: true})
+               // .pipe(uglify())
+                .pipe(gulp.dest('./public/dist/js'));
+        });
+    }
+
+    return bundle();
+
+});

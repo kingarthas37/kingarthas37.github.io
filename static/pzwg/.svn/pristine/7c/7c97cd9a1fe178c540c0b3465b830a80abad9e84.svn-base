@@ -1,0 +1,6 @@
+require('../../../js/main');
+
+require('./list');
+require('./detail');
+require('./login');
+require('./user');

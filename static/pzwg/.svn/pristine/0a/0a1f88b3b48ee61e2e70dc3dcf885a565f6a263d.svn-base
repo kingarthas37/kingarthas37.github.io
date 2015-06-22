@@ -1,0 +1,51 @@
+require=(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({3:[function(require,module,exports){
+require('../../../js/main');
+
+require('./list');
+require('./detail');
+require('./login');
+require('./user');
+},{"../../../js/main":12,"./detail":"detail","./list":"list","./login":"login","./user":"user"}],"user":[function(require,module,exports){
+console.info('user');
+},{}],"login":[function(require,module,exports){
+'use strict';
+
+require('jquery-validate');
+
+$('#form-main-login').validate({
+    messages:{
+        username:'请输入用户名',
+        password:'请输入密码'
+    }
+});
+},{"jquery-validate":9}],"list":[function(require,module,exports){
+console.info('listpage');
+},{}],"detail":[function(require,module,exports){
+'use strict';
+
+require('jquery-zoom');
+
+
+var zoomContent = $('.jqzoom'),
+    zoomList = $('.zoom-list');
+
+$(".jqzoom").jqueryzoom({
+    xzoom:350,
+    yzoom:350
+});
+
+zoomList.find('a').click(function() {
+
+    var $this = $(this);
+
+    zoomList.find('.cur').removeClass('cur');
+    $this.addClass('cur');
+
+    zoomContent.find('img').attr({
+        src:$this.find('img').attr('src'),
+        jqimg:$this.find('img').attr('zoom-src')
+    });
+
+});
+},{"jquery-zoom":11}]},{},[3])
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm5vZGVfbW9kdWxlcy9mYWN0b3ItYnVuZGxlL25vZGVfbW9kdWxlcy9icm93c2VyLXBhY2svX3ByZWx1ZGUuanMiLCJwdWJsaWMvZGV2L2pzL3BhZ2VzL21haW4uanMiLCJwdWJsaWMvZGV2L2pzL3BhZ2VzL3VzZXIuanMiLCJwdWJsaWMvZGV2L2pzL3BhZ2VzL2xvZ2luLmpzIiwicHVibGljL2Rldi9qcy9wYWdlcy9saXN0LmpzIiwicHVibGljL2Rldi9qcy9wYWdlcy9kZXRhaWwuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7QUNBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7O0FDTEE7O0FDQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7O0FDVEE7O0FDQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsImZpbGUiOiJnZW5lcmF0ZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlc0NvbnRlbnQiOlsiKGZ1bmN0aW9uIGUodCxuLHIpe2Z1bmN0aW9uIHMobyx1KXtpZighbltvXSl7aWYoIXRbb10pe3ZhciBhPXR5cGVvZiByZXF1aXJlPT1cImZ1bmN0aW9uXCImJnJlcXVpcmU7aWYoIXUmJmEpcmV0dXJuIGEobywhMCk7aWYoaSlyZXR1cm4gaShvLCEwKTt2YXIgZj1uZXcgRXJyb3IoXCJDYW5ub3QgZmluZCBtb2R1bGUgJ1wiK28rXCInXCIpO3Rocm93IGYuY29kZT1cIk1PRFVMRV9OT1RfRk9VTkRcIixmfXZhciBsPW5bb109e2V4cG9ydHM6e319O3Rbb11bMF0uY2FsbChsLmV4cG9ydHMsZnVuY3Rpb24oZSl7dmFyIG49dFtvXVsxXVtlXTtyZXR1cm4gcyhuP246ZSl9LGwsbC5leHBvcnRzLGUsdCxuLHIpfXJldHVybiBuW29dLmV4cG9ydHN9dmFyIGk9dHlwZW9mIHJlcXVpcmU9PVwiZnVuY3Rpb25cIiYmcmVxdWlyZTtmb3IodmFyIG89MDtvPHIubGVuZ3RoO28rKylzKHJbb10pO3JldHVybiBzfSkiLCJyZXF1aXJlKCcuLi8uLi8uLi9qcy9tYWluJyk7XG5cbnJlcXVpcmUoJy4vbGlzdCcpO1xucmVxdWlyZSgnLi9kZXRhaWwnKTtcbnJlcXVpcmUoJy4vbG9naW4nKTtcbnJlcXVpcmUoJy4vdXNlcicpOyIsImNvbnNvbGUuaW5mbygndXNlcicpOyIsIid1c2Ugc3RyaWN0JztcblxucmVxdWlyZSgnanF1ZXJ5LXZhbGlkYXRlJyk7XG5cbiQoJyNmb3JtLW1haW4tbG9naW4nKS52YWxpZGF0ZSh7XG4gICAgbWVzc2FnZXM6e1xuICAgICAgICB1c2VybmFtZTon6K+36L6T5YWl55So5oi35ZCNJyxcbiAgICAgICAgcGFzc3dvcmQ6J+ivt+i+k+WFpeWvhueggSdcbiAgICB9XG59KTsiLCJjb25zb2xlLmluZm8oJ2xpc3RwYWdlJyk7IiwiJ3VzZSBzdHJpY3QnO1xuXG5yZXF1aXJlKCdqcXVlcnktem9vbScpO1xuXG5cbnZhciB6b29tQ29udGVudCA9ICQoJy5qcXpvb20nKSxcbiAgICB6b29tTGlzdCA9ICQoJy56b29tLWxpc3QnKTtcblxuJChcIi5qcXpvb21cIikuanF1ZXJ5em9vbSh7XG4gICAgeHpvb206MzUwLFxuICAgIHl6b29tOjM1MFxufSk7XG5cbnpvb21MaXN0LmZpbmQoJ2EnKS5jbGljayhmdW5jdGlvbigpIHtcblxuICAgIHZhciAkdGhpcyA9ICQodGhpcyk7XG5cbiAgICB6b29tTGlzdC5maW5kKCcuY3VyJykucmVtb3ZlQ2xhc3MoJ2N1cicpO1xuICAgICR0aGlzLmFkZENsYXNzKCdjdXInKTtcblxuICAgIHpvb21Db250ZW50LmZpbmQoJ2ltZycpLmF0dHIoe1xuICAgICAgICBzcmM6JHRoaXMuZmluZCgnaW1nJykuYXR0cignc3JjJyksXG4gICAgICAgIGpxaW1nOiR0aGlzLmZpbmQoJ2ltZycpLmF0dHIoJ3pvb20tc3JjJylcbiAgICB9KTtcblxufSk7Il19

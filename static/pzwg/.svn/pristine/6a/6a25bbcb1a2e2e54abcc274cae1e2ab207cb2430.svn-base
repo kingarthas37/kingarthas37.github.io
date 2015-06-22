@@ -1,0 +1,12 @@
+'use strict';
+
+
+var list = $('.lists');
+
+$('.check-all').click(function() {
+    if(this.checked) {
+        list.find('input[type=checkbox]').prop('checked',true);    
+    }else {
+        list.find('input[type=checkbox]').prop('checked',false);
+    }
+});

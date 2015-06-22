@@ -1,7 +1,11 @@
+html,body {
+  height:100%;
+}
+
 %wrap {
   width: 980px;
   margin: auto;
-  @include clearfix;
+  @extend %clearfix;
 }
 
 body {
@@ -58,7 +62,7 @@ form {
 
 .header {
   
-  @include clearfix;
+  @extend %clearfix;
   
   .wrap {
     padding-top: 15px;
@@ -66,15 +70,22 @@ form {
   }
   
   .logo {
-    width: 270px;
-    height: 60px;
+    &:hover {
+      text-decoration: none;
+    }
+    width: 230px;
+    padding-left: 85px;
+    line-height: 63px;
+    height: 63px;
+    font-size: 14px;
+    overflow: hidden;
     float: left;
     background: url('../images/logo.png') no-repeat;
     display: block;
   }
   
   .search {
-    margin-left: 60px;
+    margin-left: 10px;
     margin-top: 10px;
     float: left;
   }
@@ -84,7 +95,7 @@ form {
     border: 3px solid $red;
     margin-bottom: 5px;
     float: left;
-    @include clearfix;
+    @extend %clearfix;
     input {
       float: left;
       height: 30px;
@@ -122,8 +133,10 @@ form {
   
   .menu {
     
-    @include clearfix;
-    @include gradient(#E64346,#E13335);
+    @extend %clearfix;
+ //  @include gradient(#E64346,#E13335);
+    background: #e13335;
+    
     
     height: 40px;
 
@@ -134,7 +147,7 @@ form {
       a {
         color: #fff;
         font-size: 14px;
-        @include inlineBlock;
+        @extend %inline-block;
         padding: 0 30px;
         &:hover {
           background: #a40000;
@@ -280,12 +293,12 @@ form {
   
   .page-info {
     vertical-align: middle;
-    @include inlineBlock;
+    @extend %inline-block;
   }
 
   span,a,.text,.btn {
     font-size: 12px;
-    @include inlineBlock;
+    @extend %inline-block;
     vertical-align: middle;
     height: 26px;
     line-height: 26px;
@@ -312,7 +325,7 @@ form {
 
   .page-direct {
     vertical-align: middle;
-    @include inlineBlock;
+    @extend %inline-block;
   }
 
   .input-group {
@@ -364,4 +377,97 @@ h2.crumb {
     border-right: 1px solid #ddd;
     margin: 0 10px;
   }
+}
+
+.form {
+ 
+  .form-control {
+    height: 30px;
+    margin-bottom: 4px;
+    @extend %clearfix;
+  }
+
+  .form-group {
+    position: relative;
+    height: 70px;
+    width: 230px;
+    margin: auto;
+  }
+
+  .btn-default {
+    padding: 6px 15px;
+    background: $red;
+    border-color:$red;
+    color: #fff;
+    width: 120px;
+  }
+  
+  .error {
+    color: $red;
+  }
+  
+  .row-left {
+    float: left;
+    width: 110px;
+    line-height: 30px;
+    text-align: right;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  
+  .row-right {
+    float: left;
+    line-height: 30px;
+    font-size: 14px;
+    margin-top: 20px;
+    input[type=text] {
+      width:60px;
+    }
+    input[type=checkbox] {
+      margin:0;
+    }
+  }
+  
+  .button-group {
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+}
+
+.modal {
+  .row {
+    margin: 0;
+    @extend %clearfix;
+    min-height: 60px;
+    
+    .col-md-4 {
+      width: 140px;
+      float: left;
+      text-align: right;
+      padding-right: 10px;
+      font-size: 14px;
+      padding-top: 4px;
+    }
+    .col-md-8 {
+      
+      width: 300px;
+      float: left;
+      .error {
+        font-size: 12px;
+        color: $red;
+        margin:0;
+      }
+    }
+  }
+  
+  .btn-primary {
+    background: $red;
+    border-color: $red;
+  }
+  
+  .btn-default {
+    background: #fff;
+  }
+  
 }

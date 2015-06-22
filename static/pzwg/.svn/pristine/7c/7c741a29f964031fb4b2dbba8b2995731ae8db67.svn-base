@@ -1,0 +1,12 @@
+'use strict';
+
+
+var list = $('.lists');
+
+$('.check-all').click(function() {
+    if(!this.checked) {
+        list.find(':checkbox').attr('checked',false);    
+    }else {
+        list.find(':checkbox').attr('checked',true);
+    }
+});

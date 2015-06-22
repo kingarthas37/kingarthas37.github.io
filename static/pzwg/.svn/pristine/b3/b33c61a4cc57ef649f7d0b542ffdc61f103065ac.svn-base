@@ -1,0 +1,34 @@
+'use strict';
+
+var gulp = require('gulp');
+var csso = require('gulp-csso');
+var sass = require('gulp-sass');
+var size = require('gulp-size');
+var rename = require('gulp-rename');
+var rev = require('gulp-rev');
+var path = require('path');
+
+var config = require('../../package.json');
+
+
+// Styles
+gulp.task('css', function () {
+    return gulp.src(path.join(config.path.cssDev,'main.scss'))
+        .pipe(sass())
+        .pipe(rename('index.css'))
+        .pipe(gulp.dest(config.path.cssDist))
+        .pipe(size());
+});
+
+
+// Prod styles
+gulp.task('css:dist', function () {
+    return gulp.src(path.join(config.scssPath, '*.scss'))
+        .pipe(sass())
+        .pipe(csso())
+        .pipe(rev())
+        .pipe(gulp.dest(config.cssPath))
+        .pipe(size())
+        .pipe(rev.manifest(config.assetManifestPath), { merge: true })
+        .pipe(gulp.dest('.'));
+});

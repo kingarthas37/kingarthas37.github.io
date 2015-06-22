@@ -1,0 +1,56 @@
+'use strict';
+
+var gulp = require('gulp');
+var csso = require('gulp-csso');
+var sass = require('gulp-sass');
+var size = require('gulp-size');
+var rename = require('gulp-rename');
+var rev = require('gulp-rev');
+var minimist = require('minimist');
+var path = require('path');
+
+var config = require('../config');
+var args = minimist(process.argv.slice(2), {
+    default: {scss: 'all'}
+});
+
+// Styles
+gulp.task('css', function () {
+    var targetScss = args['scss'];
+    
+    // If a targeted scss is provided, compile it instead of all to boost performance
+    switch (targetScss) {
+        case 'all':
+            targetScss = '*';
+            break;
+        case 'v1':
+            targetScss = 'extrabux';
+            break;
+        case 'v2':
+            targetScss = 'extrabux-v2';
+            break;
+        case 'mixed':
+            targetScss = 'extrabux-v2-middle';
+            break;
+        case 'mobile':
+            targetScss = 'extrabux-mobile';
+            break;
+    }
+    
+    return gulp.src(path.join(config.scssPath, targetScss + '.scss'))
+        .pipe(sass())
+        .pipe(gulp.dest(config.cssPath))
+        .pipe(size());
+});
+
+// Prod styles
+gulp.task('css:dist', function () {
+    return gulp.src(path.join(config.scssPath, '*.scss'))
+        .pipe(sass())
+        .pipe(csso())
+        .pipe(rev())
+        .pipe(gulp.dest(config.cssPath))
+        .pipe(size())
+        .pipe(rev.manifest(config.assetManifestPath), { merge: true })
+        .pipe(gulp.dest('.'));
+});

@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-ch.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index-ch.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-ch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="31" selection-start="1266" selection-end="1293" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="3570">
+            <state line="202" column="0" selection-start="6066" selection-end="6066" vertical-scroll-proportion="0.33197555" vertical-offset="2867" max-vertical-offset="3555">
               <folding />
             </state>
           </provider>
@@ -76,16 +76,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="35" selection-start="609" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="3480">
+            <state line="205" column="64" selection-start="9482" selection-end="9482" vertical-scroll-proportion="-8.041667" vertical-offset="2882" max-vertical-offset="3480">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="5" selection-start="1941" selection-end="1941" vertical-scroll-proportion="1.4280303" vertical-offset="761" max-vertical-offset="6990">
+            <state line="114" column="1" selection-start="2152" selection-end="2152" vertical-scroll-proportion="0.0" vertical-offset="1515" max-vertical-offset="6990">
               <folding />
             </state>
           </provider>
@@ -112,9 +112,9 @@
       <list>
         <option value="$PROJECT_DIR$/js/vendor/jquery.min.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index-ch.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index-ch.html" />
       </list>
     </option>
   </component>
@@ -153,7 +153,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -172,22 +171,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hothunter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hothunter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -458,11 +444,12 @@
       <workItem from="1430372427083" duration="702000" />
       <workItem from="1431388145873" duration="1380000" />
       <workItem from="1431390201709" duration="296000" />
+      <workItem from="1434617185844" duration="1153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30801000" />
+    <option name="totallyTimeSpent" value="31954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1376" height="798" extended-state="0" />
@@ -838,23 +825,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-ch.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="31" selection-start="1266" selection-end="1293" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="3570">
+        <state line="114" column="1" selection-start="2152" selection-end="2152" vertical-scroll-proportion="0.0" vertical-offset="1515" max-vertical-offset="6990">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="35" selection-start="609" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="3480">
+        <state line="205" column="64" selection-start="9482" selection-end="9482" vertical-scroll-proportion="-8.041667" vertical-offset="2882" max-vertical-offset="3480">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index-ch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="5" selection-start="1941" selection-end="1941" vertical-scroll-proportion="1.4280303" vertical-offset="761" max-vertical-offset="6990">
+        <state line="202" column="0" selection-start="6066" selection-end="6066" vertical-scroll-proportion="0.33197555" vertical-offset="2867" max-vertical-offset="3555">
           <folding />
         </state>
       </provider>

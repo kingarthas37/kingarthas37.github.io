@@ -1,0 +1,188 @@
+.list-cont {
+
+  .filter {
+
+    border: 1px solid #ddd;
+    border-left: none;
+    border-right: none;
+    background: #f1f1f1;
+    padding: 0 15px;
+    margin-bottom: 20px;
+    @include clearfix;
+
+    .filter-box {
+
+      float: left;
+      @include clearfix;
+
+      .sort {
+        float: left;
+        margin-right: 20px;
+        font-size: 0;
+        height: 40px;
+        line-height: 40px;
+        a {
+          font-size: 12px;
+          @include inlineBlock;
+          vertical-align: middle;
+          width: 55px;
+          height: 25px;
+          line-height: 25px;
+          border: 1px solid #cccccc;
+          background: #fff;
+          text-align: center;
+          color: #333;
+          background-image: url('../images/ico-filter-down.png');
+          background-repeat: no-repeat;
+          background-position: 40px center;
+
+          &.up {
+            background-image: url('../images/ico-filter-up.png');
+            &.cur {
+              background-image: url('../images/ico-filter-down.png');
+            }
+          }
+
+          &.cur {
+            border-color: $red;
+            color: #fff;
+            background-color: $red;
+            background-image: url('../images/ico-filter-down-hover.png');
+            &.up {
+              background-image: url('../images/ico-filter-up-hover.png');
+            }
+          }
+        }
+      }
+
+      .search {
+        float: left;
+        height: 40px;
+        line-height: 40px;
+        .text, .button {
+          @include inlineBlock;
+          vertical-align: middle;
+          width: 55px;
+          height: 25px;
+          line-height: 25px;
+          border: 1px solid #cccccc;
+          margin: 0;
+          padding: 0;
+          border-radius: 0;
+        }
+        .button {
+          border: none;
+          font-size: 12px;
+          color: #fff;
+          background-color: $red;
+        }
+
+      }
+
+    }
+
+    .page {
+      float: right;
+      height: 40px;
+      line-height: 40px;
+      color: #999;
+      a {
+        color: $red;
+      }
+      strong {
+        color: $red;
+      }
+      i {
+        font-family: simsun;
+        font-style: normal;
+      }
+    }
+
+  }
+
+  .lists {
+
+    @include clearfix;
+    margin-bottom: 20px;
+
+    
+    .box {
+      
+      width: 223px;
+      padding: 10px;
+      height: 380px;
+      border: 1px solid #fff;
+      float: left;
+
+      .img {
+        @include middleimg(223px,223px);
+        em {
+          position: absolute;
+          background: url("../images/list-tag.png") no-repeat;
+          width: 52px;
+          height: 52px;
+          right:10px;
+          top:0;
+          color: #fff;
+          line-height: 52px;
+          text-align: center;
+          font-size: 14px;
+          font-style: normal;
+        }
+      }
+
+      .price {
+        font-family: Verdana;
+        font-size: 20px;
+        color: $red;
+        margin-bottom: 10px;
+      }
+
+      dl {
+        margin: 0 0 10px 0;
+      }
+
+      dt {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        font-weight: normal;
+        height: 24px;
+        line-height: 24px;
+      }
+
+      dd {
+        margin: 0;
+        height: 20px;
+        line-height: 20px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        strong {
+          color: $red;
+        }
+      }
+
+      .link {
+        a {
+          @include inlineBlock;
+          padding: 0 6px;
+          height: 24px;
+          line-height: 24px;
+          border: 1px solid #ddd;
+          &:hover {
+            border-color: $red;
+          }
+        }
+      }
+
+      &:hover {
+        border: 1px solid #ddd;
+        box-shadow: 0 0 4px 4px #f8f8f8;
+      }
+
+    }
+
+  }
+
+}

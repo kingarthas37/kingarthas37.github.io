@@ -1,0 +1,127 @@
+.user-cont {
+  
+  @extend %clearfix;
+  margin-bottom: 30px;
+  
+  .side-bar {
+    float: left;
+    width:220px;
+    border:1px solid $borderColor;
+    border-bottom: none;
+    h1 {
+      font-size: 25px;
+      text-align: center;
+      margin:0;
+      padding:20px 0;
+      font-weight: normal;
+      color:$color666;
+      border-bottom: 1px solid $borderColor;
+    }
+    a {
+      display: block;
+      font-size: 16px;
+      color:$color666;
+      border-bottom: 1px solid $borderColor;
+      span {
+        display: block;
+        height: 64px;
+        line-height: 64px;
+        border-left: 3px solid #fff;
+        padding-left: 30px;
+      }
+      &:hover {
+        text-decoration: none;
+        color:$colorUserHref;
+      }
+      &.cur {
+        span {
+          border-left-color: $colorUserBtnBgColor;
+        }
+
+      }
+    }
+  }
+  
+  .main-content {
+    
+    float: right;
+    width:700px;
+    border:1px solid $borderColor;
+    padding: 20px;
+
+
+    h2 {
+      font-size: 20px;
+      height: 40px;
+      line-height: 40px;
+      border-bottom: 1px solid #ddd;
+      margin: 0 0 20px 0;
+      font-weight: normal;
+    }
+    
+  }
+  
+  .main-list {
+
+    float: right;
+    width: 740px;
+    @extend %clearfix;
+
+    @extend %listTpl;
+    
+    .check-box {
+      position: absolute;
+      top:0;
+      left:0;
+      width: 24px;
+      height: 24px;
+      line-height: 24px;
+      border: 1px solid #fff;
+      text-align: center;
+      background: #fff;
+      margin-bottom: 0;
+      input {
+        margin: 0;
+      }
+      
+      &:hover {
+        border: 1px solid #ddd;
+      }
+    }
+    
+  }
+  
+}
+
+.pager {
+  .page-more {
+    float: left;
+    height: 28px;
+    line-height: 28px;
+    
+    em {
+      border-right: 1px solid #ddd;
+      margin:0 10px;
+    }
+    
+    label {
+      font-size: 12px;
+      margin-bottom: 0;
+      line-height: 28px;
+      input {
+        margin: 0;
+      }
+    }
+    
+    span {
+      @extend %inline-block;
+      padding: 0;
+      border: none;
+      a {
+        color: $red;
+        padding: 0;
+        border: none;
+      }
+    }
+  }
+}
