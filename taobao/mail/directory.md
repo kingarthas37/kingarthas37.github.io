@@ -450,3 +450,6 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
 ######大天使吊坠
 大天使吊坠原型图 http://img02.taobaocdn.com/imgextra/i2/42879206/TB2k79OcFXXXXa9XpXXXXXXXXXX_!!42879206.jpg
+
+######生命数字表
+生命数字表 http://pan.baidu.com/s/1eQzubYE
