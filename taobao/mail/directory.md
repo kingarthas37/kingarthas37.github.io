@@ -453,3 +453,6 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
 ######生命数字表
 生命数字表 http://pan.baidu.com/s/1eQzubYE
+
+######101中魔法草药说明书
+101中魔法草药说明书 链接: http://pan.baidu.com/s/1jGowTkq 密码: 2bsg
