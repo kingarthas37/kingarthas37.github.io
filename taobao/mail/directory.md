@@ -456,3 +456,6 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
 ######101中魔法草药说明书
 101中魔法草药说明书 链接: http://pan.baidu.com/s/1jGowTkq 密码: 2bsg
+
+######苏联吉普寨卡
+苏联吉普寨卡 链接：http://pan.baidu.com/s/1dDuDp1R 密码：o6lb
