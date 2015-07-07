@@ -462,3 +462,9 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
 ######苏联吉普寨卡
 苏联吉普寨卡 链接：http://pan.baidu.com/s/1dDuDp1R 密码：o6lb
+
+######生命灵数课程(原野生命灵数、西方生命灵数等三套体系) 
+生命灵数课程视频 链接: http://pan.baidu.com/s/1yhwoI 密码: qpwh  
+原野生命数字视频 链接: http://pan.baidu.com/s/1bnbKDZ5 密码: 8p7u  
+八级灵数视频 链接: http://pan.baidu.com/s/1sj4yx9j 密码: 8nuh
+
