@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimal-ui" />
     <title>tubian</title>
 
     <style>
@@ -156,9 +157,14 @@
             
             $(n).on({
                 
+                mouseup:function() {
+                    n.select();
+                },
+                
                  focus:function() {
                      var value = parseInt(n.value) || 0;
                      $(n).data('value',value);
+                     
                  },
                 
                 change:function() {
