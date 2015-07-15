@@ -468,3 +468,5 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 原野生命数字视频 链接: http://pan.baidu.com/s/1bnbKDZ5 密码: 8p7u  
 八级灵数视频 链接: http://pan.baidu.com/s/1sj4yx9j 密码: 8nuh
 
+######天使回应卡中文说明书
+天使回应卡中文说明书 链接: http://pan.baidu.com/s/1djhSU 密码: hrqq
