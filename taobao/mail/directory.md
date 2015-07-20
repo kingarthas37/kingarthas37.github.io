@@ -469,4 +469,5 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 八级灵数视频 链接: http://pan.baidu.com/s/1sj4yx9j 密码: 8nuh
 
 ######天使回应卡中文说明书
-天使回应卡中文说明书 链接: http://pan.baidu.com/s/1djhSU 密码: hrqq
+天使回应卡中文说明书(pdf) 链接: http://pan.baidu.com/s/1djhSU 密码: hrqq
+天使回应卡中文说明书(doc) 链接: http://pan.baidu.com/s/1gdlMGSj 密码: 4dtp
