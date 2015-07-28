@@ -476,5 +476,5 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 天使回应卡中文说明书(pdf) 链接: http://pan.baidu.com/s/1djhSU 密码: hrqq  
 天使回应卡中文说明书(doc) 链接: http://pan.baidu.com/s/1gdlMGSj 密码: 4dtp
 
-######力量符号
-力量符号 链接：https://img.alicdn.com/imgextra/i1/42879206/TB2pd4HeXXXXXbeXXXXXXXXXXXX_!!42879206.jpg
+######能量符号
+能量符号 链接：https://img.alicdn.com/imgextra/i1/42879206/TB2pd4HeXXXXXbeXXXXXXXXXXXX_!!42879206.jpg
