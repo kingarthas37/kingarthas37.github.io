@@ -1,3 +1,6 @@
+######符咒77的秘法
+符咒77的秘法  链接：http://pan.baidu.com/s/1o6tJivK 密码：h20n
+
 ######五星能量术与芳香疗法全书
 五星能量术与芳香疗法全书  链接：http://pan.baidu.com/s/1mgkpMMs 密码：ewsq
 
