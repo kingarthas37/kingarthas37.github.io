@@ -482,3 +482,9 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
 ######能量符号
 能量符号 链接：https://img.alicdn.com/imgextra/i1/42879206/TB2pd4HeXXXXXbeXXXXXXXXXXXX_!!42879206.jpg
+
+######魔法油初级制作教程-植物魔法基础-香气与魔法的约会
+链接：http://pan.baidu.com/s/1sjoqAz7 密码：i7i7
+
+######魔法油进阶制作教程-行星,精油,药草
+链接：http://pan.baidu.com/s/1hqjjofa 密码：4hhh
