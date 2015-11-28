@@ -5,12 +5,12 @@
 poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 
 ######大天使吊坠
-大天使吊坠原型图 http://img02.taobaocdn.com/imgextra/i2/42879206/TB2k79OcFXXXXa9XpXXXXXXXXXX_!!42879206.jpg  
-图1: https://img.alicdn.com/imgextra/i4/42879206/TB2kv8zeXXXXXXlXpXXXXXXXXXX_!!42879206.jpg  
-图2: https://img.alicdn.com/imgextra/i1/42879206/TB2u2BQeXXXXXXfXXXXXXXXXXXX_!!42879206.jpg  
-图3: https://img.alicdn.com/imgextra/i3/42879206/TB2gPxEeXXXXXczXXXXXXXXXXXX_!!42879206.jpg  
-图4: https://img.alicdn.com/imgextra/i1/42879206/TB23LpBeXXXXXXzXpXXXXXXXXXX_!!42879206.jpg  
-打印word: 链接: http://pan.baidu.com/s/1nt7VFjr 密码: vvnq
+所有产品图：https://img.alicdn.com/imgextra/i1/42879206/TB2TksChFXXXXchXXXXXXXXXXXX_!!42879206.jpg  
+神圣几何1：https://img.alicdn.com/imgextra/i2/42879206/TB29UUyhFXXXXc3XXXXXXXXXXXX_!!42879206.jpg  
+申城几何2：https://img.alicdn.com/imgextra/i1/42879206/TB2umEshFXXXXX9XpXXXXXXXXXX_!!42879206.jpg  
+神圣几何3：https://img.alicdn.com/imgextra/i3/42879206/TB2pkImhFXXXXa8XpXXXXXXXXXX_!!42879206.jpg  
+脉轮：https://img.alicdn.com/imgextra/i2/42879206/TB2nMoQhFXXXXXKXXXXXXXXXXXX_!!42879206.jpg  
+麦田圈：https://img.alicdn.com/imgextra/i4/42879206/TB2ZL7RhFXXXXXrXXXXXXXXXXXX_!!42879206.jpg
 
 ######生命数字表
 生命数字表 http://pan.baidu.com/s/1eQzubYE
