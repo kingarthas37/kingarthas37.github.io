@@ -29,9 +29,8 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 原野生命数字视频 链接: http://pan.baidu.com/s/1bnbKDZ5 密码: 8p7u  
 八级灵数视频 链接: http://pan.baidu.com/s/1sj4yx9j 密码: 8nuh
 
-######天使回应卡中文说明书
-天使回应卡中文说明书(pdf) 链接: http://pan.baidu.com/s/1hqlfEPA 密码: sauj  
-天使回应卡中文说明书(doc) 链接: http://pan.baidu.com/s/1c08osCC 密码: 2cxw
+######天使回音神谕卡  
+链接：http://pan.baidu.com/s/1c0x7U96 密码：tghe
 
 ######能量符号
 能量符号 链接：https://img.alicdn.com/imgextra/i1/42879206/TB2pd4HeXXXXXbeXXXXXXXXXXXX_!!42879206.jpg
