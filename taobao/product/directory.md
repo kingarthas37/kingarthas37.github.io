@@ -18,8 +18,11 @@ poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
 ######101中魔法草药说明书
 101中魔法草药说明书 链接: http://pan.baidu.com/s/1jGowTkq 密码: 2bsg
 
+######前世今生神谕卡  
+链接：http://pan.baidu.com/s/1ntJAplR 密码：hx9t
+
 ######苏联吉普寨卡
-苏联吉普寨卡 链接：http://pan.baidu.com/s/1dDuDp1R 密码：o6lb
+苏联吉普寨卡 链接：http://pan.baidu.com/s/1qWtfFR2 密码：seqe
 
 ######生命灵数课程(原野生命灵数、西方生命灵数等三套体系) 
 生命灵数课程视频 链接: http://pan.baidu.com/s/1yhwoI 密码: qpwh  
