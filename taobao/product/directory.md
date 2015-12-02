@@ -1,5 +1,5 @@
 ######业力占星卡使用手册
-业力占星卡使用手册  链接：http://pan.baidu.com/s/1pJl7aQ3 密码：65fl
+业力占星卡使用手册  链接：http://pan.baidu.com/s/1mglgv3q 密码：g2lq
 
 ######所罗门44个魔法符海报 
 poster-44seals-ForDownload  链接: http://pan.baidu.com/s/1sjqizJf 密码: r593
