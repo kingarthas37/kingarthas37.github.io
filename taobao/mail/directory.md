@@ -1,3 +1,6 @@
+######无所不能的灵摆占卜
+无所不能的灵摆占卜  链接：http://pan.baidu.com/s/1dEepeoT 密码：bnnq
+
 ######符咒77的秘法
 符咒77的秘法  链接：http://pan.baidu.com/s/1o6tJivK 密码：h20n
 
