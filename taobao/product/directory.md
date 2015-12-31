@@ -1,3 +1,6 @@
+######巫毒魔法视频课件
+巫毒魔法 链接: http://pan.baidu.com/s/1ntWApS1 密码: dgp7
+
 ######SRT资料
 SRT资料  链接：http://pan.baidu.com/s/1kTPS7H1 密码：qgsr
 
