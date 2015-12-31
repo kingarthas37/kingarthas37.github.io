@@ -4,6 +4,9 @@
 ######SRT资料
 SRT资料  链接：http://pan.baidu.com/s/1kTPS7H1 密码：qgsr
 
+######SRT图表
+SRT图表  链接: http://pan.baidu.com/s/1ge1oGQR 密码: y3xv
+
 ######业力占星卡使用手册
 业力占星卡使用手册  链接：http://pan.baidu.com/s/1mglgv3q 密码：g2lq
 
