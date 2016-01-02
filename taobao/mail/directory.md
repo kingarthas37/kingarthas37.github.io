@@ -10,8 +10,8 @@
 ######五星能量术与芳香疗法全书
 五星能量术与芳香疗法全书  链接：http://pan.baidu.com/s/1mgkpMMs 密码：ewsq
 
-######A Practical Guide to Witchcraft and Magic Spells
-一本实用的女巫魔法咒语手册 (英文版)   链接: http://pan.baidu.com/s/1c0m6PyS 密码: 4r82
+######一本实用的女巫魔法咒语手册 (英文版) 
+A Practical Guide to Witchcraft and Magic Spells  链接: http://pan.baidu.com/s/1c0m6PyS 密码: 4r82
 
 ######魔法圣经
 魔法圣经  链接: http://pan.baidu.com/s/1dDHBhmD 密码: 69ec
