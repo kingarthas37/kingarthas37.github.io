@@ -1,3 +1,6 @@
+######魔法基础课程视频
+魔法基础课程  链接: http://pan.baidu.com/s/1c0WrodE 密码: nfgz
+
 ######巫毒魔法视频课件
 巫毒魔法 链接: http://pan.baidu.com/s/1ntWApS1 密码: dgp7
 
