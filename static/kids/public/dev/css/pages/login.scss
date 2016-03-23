@@ -1,0 +1,140 @@
+.bg-c-pink {
+  background:$basic-pink;
+}
+.c-white {
+  color:#fff;
+}
+.green-dot {
+  display:block;
+  width:10px;
+  height:10px;
+  background:#5ed3b8;
+  border-radius:100%;
+  position:absolute;
+  top:13px;
+  left:20px;
+
+}
+.p-r {
+  position: relative;
+}
+
+.drop-down {
+  position: absolute;
+  width: 150px;
+  height: 149px;
+  right:0;
+  top:49px;
+  border-radius: 5px;
+  background:#fff;
+  box-shadow: 0 2px 5px #ccc;
+  &:after {
+    position: absolute;
+    display: block;
+    content: "";
+    width: 0;
+    height: 0;
+    border: 8px dashed transparent;
+    border-bottom-color:#fff;
+    z-index: 1;
+    border-bottom-style: solid;
+    border-width: 0 8px 8px;
+    left: 124px;
+    top: -8px;
+    pointer-events: none;
+  }
+  li {
+    width:126px;
+    height:49px;
+    font-size:16px;
+    border-bottom:1px solid #eee;
+    margin:0 auto;
+    line-height:49px;
+    &:last-of-type {
+      border:0
+    }
+  }
+  a {
+    i {
+      color:#666;
+      font-style:normal;
+      margin-left:20px
+    }
+    span {
+      color:$basic-pink;
+      em {
+        color:#fff;
+        height:16px;
+        line-height:16px;
+        font-size:12px;
+        background:$basic-cyan;
+        font-style:normal;
+        text-align:center;
+        padding:0 5px;
+        border-radius:8px;
+        position:absolute;
+        top:103px;
+        left:30px;
+      }
+    }
+  }
+}
+.login-btns {
+  h3 {
+    width:90%;
+    margin:30px auto 20px;
+    height:24px;
+    span {
+      position:absolute;
+      display:block;
+      margin:0 0 0 50%;
+      padding:0 10px;
+      left:-74px;
+      font-size: 16px;
+      z-index:2;
+      background:#fff;
+    }
+    i {
+      position:absolute;
+      display:block;
+      width:100%;
+      border-bottom:1px solid #ccc;
+      top: 12px;
+    }
+  }
+  a.btns {
+    display:block;
+    width:90%;
+    height:42px;
+    color:#fff;
+    font-size: 18px;
+    line-height: 42px;
+    margin:0 auto 15px;
+    border-radius:3px;
+    text-align:center;
+    span {
+      margin-left:15px
+    }
+    &.weibo {
+      background:$dark-pink;
+    }
+    &.qq {
+      background:$basic-cyan;
+    }
+    &.alipay {
+      background:#81d0f2;
+      em.icon-alipay {
+        display:inline-block;
+        margin-top:6px;
+        width:40px;
+        height:31px;
+        background:url('/public/dist/images/login/icon-alipay.png');
+        background-size:40px 31px;
+      }
+      span {
+        vertical-align:8px
+      }
+    }
+  }
+
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>bunny demo index</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.external.css"/>
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.pages.css"/>
+    
+</head>
+<body>
+
+<div id="container" class="index-page"></div>
+
+<script src="../public/dist/js/gulp-react.bundle.js"></script>
+<script>
+    $(function () {
+
+        var topicPage = require('index-page');
+
+        topicPage.topicInit({
+            currentPage:'topic',
+            nav:['index.html','topic.html','news.html','ranks.html','brand.html'],
+            imageListTopic:[
+                {"src":"http://haitao.extrabux.com/images/hot_sale_goods/1292.jpg","url":"http://www.baidu.com"},
+                {"src":"http://haitao.extrabux.com/images/hot_sale_goods/1293.jpg","url":"http://www.sohu.com"},
+                {"src":"http://haitao.extrabux.com/images/hot_sale_goods/1291.jpg","url":"http://www.qq.com"}
+            ]
+        });
+    });
+</script>
+</body>
+</html>

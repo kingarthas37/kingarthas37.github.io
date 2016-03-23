@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>bunny demo index</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.external.css"/>
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.pages.css"/>
+    
+</head>
+<body>
+
+
+
+
+<script src="../public/dist/js/gulp-react.bundle.js"></script>
+<script>
+
+    var props = {
+        title: '登录K.Style',
+        data: {
+            left: {
+                link: 'javascript:history.go(-1);'
+            },
+            right: {
+                ifExist: true,
+                shoppingCartAmount: 36
+            }
+        },
+        banner: '/public/dist/images/login/kstyle-banner.jpg'
+    };
+
+    $(function () {
+        var loginPage = require('login-page');
+        loginPage(props);
+    });
+
+
+</script>
+</body>
+</html>

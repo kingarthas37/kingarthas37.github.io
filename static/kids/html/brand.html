@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>bunny demo index</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.external.css"/>
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.pages.css"/>
+    
+</head>
+<body>
+
+<div id="container" class="index-page"></div>
+
+<script src="../public/dist/js/gulp-react.bundle.js"></script>
+<script>
+    $(function () {
+
+        var ranksPage = require('index-page');
+
+        ranksPage.brandInit({
+            currentPage:'brand',
+            nav:['index.html','topic.html','news.html','ranks.html','brand.html'],
+            sliders:[
+                {"src":"http://s.amazeui.org/media/i/demos/bing-1.jpg","url":"http://www.baidu.com"},
+                {"src":"http://s.amazeui.org/media/i/demos/bing-2.jpg","url":"http://www.sohu.com"},
+                {"src":"http://s.amazeui.org/media/i/demos/bing-3.jpg","url":"http://www.qq.com"}
+            ],
+            brandList:[
+                {"name":"Burberry 博柏利","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2375472.jpg","url":"http://www.baidu.com"},
+                {"name":"Canada Goose 加拿大雁","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2373808.jpg","url":"http://www.baidu.com"},
+                {"name":"Ecoalf 西班牙時裝品牌","src":"http://haitao.extrabux.com/images/hot_sale_goods/1293.jpg","url":"http://www.baidu.com"},
+                {"name":"J.crew 美国的休闲服装品牌","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2374974.jpg","url":"http://www.baidu.com"},
+                {"name":"Kate Spade 凯特·丝蓓","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2353433.jpg","url":"http://www.baidu.com"},
+                {"name":"Mini Boden 英国的童装品牌","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2355236.jpg","url":"http://www.baidu.com"},
+                {"name":"Molo 加拿大的设计品牌","src":"http://haitao.extrabux.com/images/hot_sale_goods/1293.jpg","url":"http://www.baidu.com"},
+                {"name":"Burberry 博柏利","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2375472.jpg","url":"http://www.baidu.com"},
+                {"name":"Canada Goose 加拿大雁","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2373808.jpg","url":"http://www.baidu.com"},
+                {"name":"Ecoalf 西班牙時裝品牌","src":"http://haitao.extrabux.com/images/hot_sale_goods/1293.jpg","url":"http://www.baidu.com"},
+                {"name":"J.crew 美国的休闲服装品牌","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2374974.jpg","url":"http://www.baidu.com"},
+                {"name":"Kate Spade 凯特·丝蓓","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2353433.jpg","url":"http://www.baidu.com"},
+                {"name":"Mini Boden 英国的童装品牌","src":"https://extrabux-static.b0.upaiyun.com/images/deals/2355236.jpg","url":"http://www.baidu.com"},
+                {"name":"Molo 加拿大的设计品牌","src":"http://haitao.extrabux.com/images/hot_sale_goods/1293.jpg","url":"http://www.baidu.com"}
+            ]
+        });
+    });
+</script>
+</body>
+</html>

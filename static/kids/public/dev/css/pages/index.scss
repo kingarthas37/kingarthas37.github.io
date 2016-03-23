@@ -1,0 +1,113 @@
+.index-page {
+    
+    .nav {
+        background: #f5f6f6;
+        border-top:1px solid #eaeaea;
+        border-bottom: 1px solid #eaeaea;
+        padding: 8px 0;
+        div {
+            background: #fff;
+            border-top:1px solid #eaeaea;
+            border-bottom: 1px solid #eaeaea;
+        }
+        ul {
+            display: flex;
+        }
+        li {
+            a {
+                display: block;
+                height: 85px;
+            }
+            flex:1;
+            text-align: center;
+            img {
+                width: 45px;
+                height: 45px;
+                margin:10px auto 4px;
+            }
+            span {
+                display: block;
+            }
+        }
+    }
+    
+    .image-view {
+        display: flex;
+        flex-wrap: wrap;
+        div {
+            flex: 1;
+        }
+        img {
+            width: 100%;
+            display: block;
+        }
+    }
+    
+    h3 {
+        img {
+            width: 100%;
+        }
+    }
+    
+    .image-list {
+        li {
+            margin-bottom: 5px;
+            overflow: hidden;
+        }
+    }
+    
+    .product-list {
+        .rank {
+            background: url('/public/dist/images/index/rank.png') no-repeat center;
+            background-size:contain;
+            width:45px;
+            height: 45px;
+            line-height: 45px;
+            position: absolute;
+            top:5px;
+            left:5px;
+            font-size: 1.3rem;
+            color: #fff;
+        }
+    }
+    
+    .brand-list {
+        border-top:1px solid #ddd;
+        background: #f5f6f6;
+        li {
+            border-bottom: 1px solid #ddd;
+            display: flex;
+            flex-direction:row;
+            height: 75px;
+            .img {
+                float: left;
+                width:90px;
+                display: block;
+                text-align: center;
+                padding-top: 6px;
+                div {
+                    text-align: center;
+                }
+                img {
+                    width: 60px;
+                    height: 60px;
+                    border:1px solid #eaeaea;
+                    border-radius: 5px;
+                }
+            }
+            .text {
+                line-height: 75px;
+                flex:1;
+                font-size: 16px;
+            }
+            .ico {
+                width:20px;
+                font-size: 16px;
+                line-height: 75px;
+                color: #999;
+                text-align: center;
+            }
+        }
+    }
+
+}
