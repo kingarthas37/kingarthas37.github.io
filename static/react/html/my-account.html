@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>my-account</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.external.css"/>
+    <link rel="stylesheet" href="../public/dist/css/gulp-react.pages.css"/>
+
+    <style>
+        body {
+            background:#f5f6f6;
+        }
+    </style>
+</head>
+<body>
+
+
+
+
+<script src="../public/dist/js/gulp-react.bundle.js"></script>
+<script>
+
+    var props = {
+        title: '我的K.Style',
+        data: {
+            left: {
+                link: 'javascript:history.go(-1);'
+            },
+            right: {
+                ifExist: false
+            }
+        },
+        btnColor:'dark-pink',
+        btnText:'退出账号',
+        logoutHref:'#logout',
+        name:'username@mail.com',
+        links_1: [
+            {
+                url:'#1',
+                text:'我的订单'
+            },
+            {
+                url:'#2',
+                text:'收藏的商品'
+            },
+            {
+                url:'#3',
+                text:'管理收货地址'
+            }
+        ],
+        links_2: [
+            {
+                url:'#4',
+                text:'修改密码'
+            }
+        ]
+    };
+
+    $(function () {
+        var myAccountPage = require('account-page');
+        myAccountPage(props);
+    });
+
+
+</script>
+</body>
+</html>
