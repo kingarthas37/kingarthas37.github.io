@@ -24,7 +24,7 @@
         }
         
         changeMenuLink();
-        changeBackground();
+    //    changeBackground();
         
     });
     
