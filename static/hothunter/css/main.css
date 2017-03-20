@@ -391,17 +391,20 @@ h2.even span {
     background: url('../images/icon-6.png');
 }
 
-.content4 {
-   
+.content4 .pdf {
+    padding-top:20px;
 }
- 
+
+.content4 .pdf img {
+    width: 250px;
+    border: 1px solid #ddd;
+    margin:0 30px;
+}
 
 .content5 {
-    
     height:900px;
     background:#f5f5f5 url('../images/bg-3.jpg') no-repeat center;
     background-size: cover;
-   
 }
 
 .content5 .panel {
