@@ -11,3 +11,5 @@ nbproject
 .DS_Store
 
 node_modules/
+/static/hothunter/.idea/
+/static/.idea/
